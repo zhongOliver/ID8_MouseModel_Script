@@ -1,0 +1,142 @@
+GOBP_CELLULAR_RESPONSE_TO_TYPE_II_INTERFERON	GOBP_INTERFERON_MEDIATED_SIGNALING_PATHWAY	GOBP_NEGATIVE_REGULATION_OF_RESPONSE_TO_TYPE_II_INTERFERON	GOBP_NEGATIVE_REGULATION_OF_TYPE_I_INTERFERON_PRODUCTION	GOBP_POSITIVE_REGULATION_OF_RESPONSE_TO_TYPE_II_INTERFERON	GOBP_POSITIVE_REGULATION_OF_TYPE_I_INTERFERON_PRODUCTION	GOBP_REGULATION_OF_RESPONSE_TO_TYPE_II_INTERFERON	GOBP_RESPONSE_TO_TYPE_I_INTERFERON	GOBP_TYPE_I_INTERFERON_PRODUCTION	
+https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_CELLULAR_RESPONSE_TO_TYPE_II_INTERFERON	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_INTERFERON_MEDIATED_SIGNALING_PATHWAY	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_RESPONSE_TO_TYPE_II_INTERFERON	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_TYPE_I_INTERFERON_PRODUCTION	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_RESPONSE_TO_TYPE_II_INTERFERON	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_TYPE_I_INTERFERON_PRODUCTION	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_RESPONSE_TO_TYPE_II_INTERFERON	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_RESPONSE_TO_TYPE_I_INTERFERON	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_TYPE_I_INTERFERON_PRODUCTION	
+Acod1	Adar	Arg1	4931406B18Rik	Hpx	Arrdc4	Arg1	Adar	4931406B18Rik	
+Actg1	Arg1	Dnaja3	Acod1	Igtp	Cd14	Cdc37	Cactin	Acod1	
+Actr2	Cactin	Otop1	Atg12	Irgm1	Cgas	Dnaja3	Cdc37	Ap3b1	
+Actr3	Cdc37	Parp14	Atg5	Irgm2	Chuk	Hpx	Ch25h	Ap3d1	
+Aqp4	Cnot7	Pparg	Atg9a	Med1	D1Pas1	Igtp	Cnot7	Arrdc4	
+Arg1	Dcst1	Ptpn2	Banf1	Nlrc5	Ddx3x	Irgm1	Dcst1	Atg12	
+Calm1	Dnaja3		Cactin	Parp9	Dhx33	Irgm2	Eif4e2	Atg5	
+Camk2a	Eif4e2		Crebbp	Txk	Dhx36	Med1	Fadd	Atg9a	
+Capg	Fadd		Cul3		Dhx58	Nlrc5	Gigyf2	Banf1	
+Casp1	Gigyf2		Ddx56		Dhx9	Otop1	Hdac4	Cactin	
+Ccl1	Hdac4		Dhx58		Flot1	Parp14	Ifih1	Cd14	
+Ccl11	Hpx		Gbp3		Flt3	Parp9	Ifitm1	Cgas	
+Ccl12	Ifih1		Gbp4		G3bp1	Pparg	Ifitm2	Chuk	
+Ccl17	Ifitm1		Gbp7		Gapdh	Ptpn2	Ifitm3	Crebbp	
+Ccl19	Ifitm2		Gpatch3		Gapdh-ps15	Txk	Ifitm6	Cul3	
+Ccl2	Ifitm3		Havcr2		Garin5a		Ifitm7	D1Pas1	
+Ccl20	Ifitm6		Igtp		Gm10358		Ifna1	Ddx3x	
+Ccl21a	Ifitm7		Ilrun		Gm3839		Ifnar1	Ddx56	
+Ccl21b	Ifna1		Irgm1		Hmgb1		Ifnar2	Dhx33	
+Ccl22	Ifnar1		Irgm2		Hmgb2		Ifnb1	Dhx36	
+Ccl24	Ifnar2		Klhl22		Hsp90aa1		Ikbke	Dhx58	
+Ccl25	Ifnb1		Morc3		Hspd1		Irak1	Dhx9	
+Ccl26	Ifng		Nlrc3		Ifih1		Irf3	Flot1	
+Ccl3	Ifngr1		Nlrx1		Ifnar1		Irf7	Flt3	
+Ccl4	Ifngr2		Nmi		Ikbke		Isg15	G3bp1	
+Ccl5	Igtp		Nploc4		Irak1		Jak1	Gapdh	
+Ccl6	Ikbke		Peli3		Irf1		Lsm14a	Gapdh-ps15	
+Ccl7	Irak1		Ppm1b		Irf3		Mavs	Garin5a	
+Ccl8	Irf1		Ptpn11		Irf5		Mettl3	Gbp3	
+Ccl9	Irf3		Ptprs		Irf7		Mmp12	Gbp4	
+Cd47	Irf7		Pycard		Isg15		Mul1	Gbp7	
+Cdc37	Irgm1		Rbx1		Mavs		Mx2	Gm10358	
+Cdc42	Irgm2		Rbx1-ps		Mmp12		Myd88	Gm3839	
+Cdc42ep2	Isg15		Rel		Myd88		Nlrc5	Gm9008	
+Cdc42ep4	Jak1		Relb		Nmb		Oas1a	Gpatch3	
+Cx3cl1	Jak2		Rnf125		Nmbr		Oas1b	Havcr2	
+Dapk1	Lsm14a		Siglec1		Oas1a		Oas1c	Hmgb1	
+Dapk3	Mavs		Sirpa		Oas1b		Oas1d	Hmgb2	
+Daxx	Med1		Traf3ip1		Oas1c		Oas1e	Hsp90aa1	
+Dnaja3	Mettl3		Traip		Oas1d		Oas1f	Hspd1	
+Eprs	Mmp12		Trim27		Oas1e		Oas1g	Ifih1	
+Evl	Mul1		Tyrobp		Oas1f		Oas1h	Ifnar1	
+Flnb	Myd88		Ufd1		Oas1g		Oas2	Igtp	
+Gapdh	Nlrc5		Xaf1		Oas1h		Oas3	Ikbke	
+Gapdh-ps15	Oas1a		Yy1		Oas2		Ptpn2	Ilrun	
+Gbp10	Oas1b				Oas3		Rbm47	Irak1	
+Gbp11	Oas1c				Plcg2		Rfpl4b	Irf1	
+Gbp2	Oas1d				Polr3a		Rnf185	Irf3	
+Gbp2b	Oas1e				Polr3b		Samhd1	Irf5	
+Gbp3	Oas1f				Polr3c		Setd2	Irf7	
+Gbp4	Oas1g				Polr3d		Shfl	Irf8	
+Gbp5	Oas1h				Polr3f		Shmt2	Irf9	
+Gbp6	Oas2				Polr3g		Sin3a	Irgm1	
+Gbp7	Oas3				Pqbp1		Smpd1	Irgm2	
+Gbp8	Otop1				Ptpn11		Sp100	Isg15	
+Gbp9	Parp14				Ptpn22		Stat1	Klhl22	
+Gm10358	Parp9				Rab2b		Stat2	Mavs	
+Gm3839	Pparg				Rigi		Sting1	Mmp12	
+Gsn	Ptpn2				Riok3		Tbk1	Morc3	
+H2-Ab1	Rbm47				Rnf135		Trex1	Myd88	
+H2-Q7	Rfpl4b				Setd2		Trim41	Nlrc3	
+Hpx	Rnf185				Stat1		Trim56	Nlrx1	
+Ifng	Samhd1				Sting1		Trim6	Nmb	
+Ifngr1	Sin3a				Syk		Trim65	Nmbr	
+Igtp	Stat1				Tank		Ttll12	Nmi	
+Il12b	Stat2				Tbk1		Tyk2	Nploc4	
+Il12rb1	Sting1				Ticam1		Ube2k	Oas1a	
+Irf1	Tbk1				Ticam2		Usp27x	Oas1b	
+Irf8	Trex1				Tlr2		Usp29	Oas1c	
+Irgm1	Trim41				Tlr3		Wnt5a	Oas1d	
+Irgm2	Trim56				Tlr4		Ythdf2	Oas1e	
+Jak1	Trim6				Tlr7		Ythdf3	Oas1f	
+Jak2	Trim65				Tlr8		Zbp1	Oas1g	
+Kif16b	Trp53				Tlr9			Oas1h	
+Kif5b	Ttll12				Tomm70a			Oas2	
+Med1	Txk				Tradd			Oas3	
+Mir511	Tyk2				Traf3			Peli3	
+Mrc1	Ube2k				Traf3ip3			Plcg2	
+Myo18a	Usp27x				Traf6			Pola1	
+Myo1c	Usp29				Trim15			Polr3a	
+Nlrc5	Wnt5a				Trim56			Polr3b	
+Nos2	Ythdf2				Trim65			Polr3c	
+Otop1	Ythdf3				Zbtb20			Polr3d	
+Parp14	Zbp1				Zc3hav1			Polr3f	
+Parp9					Zcchc3			Polr3g	
+Pde12								Ppm1b	
+Pparg								Ppme1	
+Ptpn2								Pqbp1	
+Rab11fip5								Ptpn11	
+Rab12								Ptpn22	
+Rab20								Ptprs	
+Rab43								Pycard	
+Rab7b								Rab2b	
+Rpl13a								Rbx1	
+Rps6kb1								Rbx1-ps	
+Sirpa								Rel	
+Slc26a6								Relb	
+Slk								Rigi	
+Stat1								Riok3	
+Stx11								Rnf125	
+Stx4a								Rnf135	
+Stx8								Rnf216	
+Stxbp1								Rnf26	
+Stxbp2								Setd2	
+Stxbp3								Siglec1	
+Stxbp4								Sirpa	
+Syncrip								Stat1	
+Tlr2								Sting1	
+Tlr4								Syk	
+Tnf								Tank	
+Trp53								Tbk1	
+Txk								Ticam1	
+Tyk2								Ticam2	
+Vamp3								Tirap	
+Vamp4								Tlr2	
+Vamp8								Tlr3	
+Vim								Tlr4	
+Vps26b								Tlr7	
+Was								Tlr8	
+Xcl1								Tlr9	
+Zyx								Tomm70a	
+								Tradd	
+								Traf3	
+								Traf3ip1	
+								Traf3ip3	
+								Traf6	
+								Traip	
+								Trex1	
+								Trim15	
+								Trim27	
+								Trim38	
+								Trim56	
+								Trim65	
+								Tyrobp	
+								Ufd1	
+								Xaf1	
+								Yy1	
+								Zbtb20	
+								Zc3hav1	
+								Zcchc3	

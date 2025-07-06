@@ -1,0 +1,2318 @@
+STANDARD_NAME	BIOCARTA_CASPASE_PATHWAY
+SYSTEMATIC_NAME	MM1359
+COLLECTION	M2:CP:BIOCARTA
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/BIOCARTA_CASPASE_PATHWAY
+NAMESPACE	MOUSE_SEQ_ACCESSION
+DESCRIPTION_BRIEF	Caspase Cascade in Apoptosis
+DESCRIPTION_FULL	Apoptosis, programmed cell death, is triggered by a variety of stimuli, including cell surface receptors like FAS, mitochondrial response to stress, and cytotoxic T cells. Caspases are a class of cysteine proteases that includes several representatives involved in apoptosis. The caspases convey the apoptotic signal in a proteolytic cascade, with caspases cleaving and activating other caspases that then degrade other cellular targets that lead to cell death. The caspases at the upper end of the cascade include caspase-8 and caspase-9. Caspase-8 is the initial caspase involved in response to receptors with a death domain like FAS. The mitochondrial stress pathway begins with the release of cytochrome c from mitochondria, which then interacts with Apaf-1, causing self-cleavage and activation of caspase-9. Caspase-3, -6 and-7 are downstream caspases that are activated by the upstream proteases and act themselves to cleave cellular targets. Granzyme B and perforin proteins released by cytotoxic T cells induce apoptosis in target cells, forming transmembrane pores, and triggering apoptosis, perhaps through cleavage of caspases, although caspase-independent mechanisms of Granzyme B mediated apoptosis have been suggested.
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	BioCarta
+CONTRIBUTOR_ORG	BioCarta
+EXACT_SOURCE	
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://data.broadinstitute.org/gsea-msigdb/msigdb/biocarta/mouse/m_caspasePathway.gif
+SOURCE_MEMBERS	BB097807,BF730259,CJ065827,NM_001080126,NM_007415,NM_007464,NM_007465,NM_007486,NM_007609,NM_007610,NM_007611,NM_007808,NM_007859,NM_009684,NM_009688,NM_009807,NM_009810,NM_009811,NM_010044,NM_010721,NM_010722,NM_011073,NM_013542,NM_015733,NM_019390
+GENE_SYMBOLS	,,,Casp8,Parp1,Birc3,Birc2,Arhgdib,Casp4,Casp2,Casp7,Cycs,Dffb,Apaf1,Xiap,Casp1,Casp3,Casp6,Dffa,Lmnb1,Lmnb2,Prf1,Gzmb,Casp9,Lmna
+FOUNDER_NAMES	
+STANDARD_NAME	BIOCARTA_CHEMICAL_PATHWAY
+SYSTEMATIC_NAME	MM1350
+COLLECTION	M2:CP:BIOCARTA
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/BIOCARTA_CHEMICAL_PATHWAY
+NAMESPACE	MOUSE_SEQ_ACCESSION
+DESCRIPTION_BRIEF	Apoptotic Signaling in Response to DNA Damage
+DESCRIPTION_FULL	The cellular activation of the caspase cascade resulting in cell death is triggered by chemical damage to DNA which stimulates a sequence resulting in the cleavage of Bid in a manner similar to the binding of so called death-receptors or directly initiates the permeability transition of the mitochondrial membrane. The permiability transition releases several factors including cytochrome c, AIF and other factors in to the cytoplasm. Cytochrome c, a key protein in electron transport, is released from mitochondria in response to apoptotic signals, and activates Apaf-1, a protease released from mitochondria. Activated Apaf-1 activates caspase-9 and the rest of the caspase cascade. The caspases are a class of cysteine proteases that includes several representatives involved in apoptosis. The caspases convey the apoptotic signal in a proteolytic cascade, with caspases cleaving and activating other caspases that then degrade other cellular targets that lead to cell death.
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	BioCarta
+CONTRIBUTOR_ORG	BioCarta
+EXACT_SOURCE	
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://data.broadinstitute.org/gsea-msigdb/msigdb/biocarta/mouse/m_chemicalPathway.gif
+SOURCE_MEMBERS	AK136923,AK157458,NM_001165894,NM_001205313,NM_007415,NM_007522,NM_007527,NM_007544,NM_007611,NM_007808,NM_008855,NM_009684,NM_009810,NM_009811,NM_011101,NM_011602,NM_011640,NM_015733,NM_026114,NM_177410
+GENE_SYMBOLS	,Stat1,Akt1,Stat1,Parp1,Bad,Bax,Bid,Casp7,Cycs,Prkcb,Apaf1,Casp3,Casp6,Prkca,Tln1,Trp53,Casp9,Eif2s1,Bcl2
+FOUNDER_NAMES	
+STANDARD_NAME	BIOCARTA_DNAFRAGMENT_PATHWAY
+SYSTEMATIC_NAME	MM1349
+COLLECTION	M2:CP:BIOCARTA
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/BIOCARTA_DNAFRAGMENT_PATHWAY
+NAMESPACE	MOUSE_SEQ_ACCESSION
+DESCRIPTION_BRIEF	Apoptotic DNA fragmentation and tissue homeostasis
+DESCRIPTION_FULL	Apoptotic cell death can be triggered by many different cellular stimuli, resulting in activation of apoptotic signaling pathways including caspases and mitochondria. A cellular response that is characteristic of apoptosis is fragmentation of the nuclear genome to create a nucleosomal ladder. This activity is conducted by multiple nucleases activated by apoptotic signaling pathways. One nuclease involved in apoptosis is DNA fragmentation factor (DFF), a caspase-activated DNAse (CAD). DFF/CAD is activated through cleavage of its associated inhibitor ICAD by caspases proteases during apoptosis. DFF/CAD interacts with chromatin components such as topo II and histone H1 to condense chromatin structure and perhaps recruit CAD to chromatin. Another apoptosis activated protease is endonuclease G, EndoG. EndoG is encoded in the nuclear genome but is localized to mitochondria in normal cells. EndoG may play a role in the replication of the mitochondrial genome, as well as in apoptosis. Apoptotic signaling causes the release of EndoG from mitochondria. Mitochondria are involved in apoptotic signaling in other ways as well, through the release of cytochrome c induced by Bid to activate the caspase protease cascade. These pathways are independent since the EndoG pathway still occurs in cells lacking DFF.
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	BioCarta
+CONTRIBUTOR_ORG	BioCarta
+EXACT_SOURCE	
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://data.broadinstitute.org/gsea-msigdb/msigdb/biocarta/mouse/m_DNAfragmentPathway.gif
+SOURCE_MEMBERS	BC064790,BI655593,DR754858,NM_007611,NM_007859,NM_007931,NM_009409,NM_009810,NM_010044,NM_010439,NM_011623,NM_013542
+GENE_SYMBOLS	Hmgb1,Hmgb2,Hmgb2,Casp7,Dffb,Endog,Top2b,Casp3,Dffa,Hmgb1,Top2a,Gzmb
+FOUNDER_NAMES	
+STANDARD_NAME	BIOCARTA_FREE_PATHWAY
+SYSTEMATIC_NAME	MM1400
+COLLECTION	M2:CP:BIOCARTA
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/BIOCARTA_FREE_PATHWAY
+NAMESPACE	MOUSE_SEQ_ACCESSION
+DESCRIPTION_BRIEF	Free Radical Induced Apoptosis
+DESCRIPTION_FULL	Oxidative stress is one factor that can trigger programmed cell death. Activated neutrophils responding to inflammatory stimulation produce reactive oxygen species like superoxide free radicals to kill invading bacteria, but these reactive oxygen species can also attack endothelial cells lining the vascular wall and trigger apoptosis. Endothelial cells also produce reactive oxygen species inside the cell that can contribute to oxidative stress and apoptosis, such as during reperfusion injury following ischemia. Superoxide dismutase (SOD) converts highly reactive and damaging superoxide free radicals to peroxides that are less reactive than superoxide but stimulate apoptosis. The glutathione (GSH) peptide reducing agent removes toxic metabolites and repairs damage created by reactive oxygen species. Glutathione peroxidase (GPx), for example, removes peroxides using glutathione as a reducing agent, and glutathione reductase (GSR) regenerates reduced glutathione. Inside the endothelial cell peroxide can be converted to hydroxyl ions in the presence of iron. Peroxides and hydroxyl radicals activate NF-kB and activate expression of inflammatory genes including adhesion molecules, TNF and IL-8. The apoptotic response of endothelial cells to oxidative stress may be involved in the development and progression of atherosclerosis.
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	BioCarta
+CONTRIBUTOR_ORG	BioCarta
+EXACT_SOURCE	
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://data.broadinstitute.org/gsea-msigdb/msigdb/biocarta/mouse/m_freePathway.gif
+SOURCE_MEMBERS	AK080908,NM_008160,NM_008180,NM_008689,NM_009045,NM_010344,NM_011434,NM_011723,NM_013693
+GENE_SYMBOLS	Sod1,Gpx1,Gss,Nfkb1,Rela,Gsr,Sod1,Xdh,Tnf
+FOUNDER_NAMES	
+STANDARD_NAME	BIOCARTA_IGF1R_PATHWAY
+SYSTEMATIC_NAME	MM1438
+COLLECTION	M2:CP:BIOCARTA
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/BIOCARTA_IGF1R_PATHWAY
+NAMESPACE	MOUSE_SEQ_ACCESSION
+DESCRIPTION_BRIEF	Multiple antiapoptotic pathways from IGF-1R signaling lead to BAD phosphorylation
+DESCRIPTION_FULL	IGF-1R, the type 1 receptor for insulin-like growth factor, mediates cell survival and growth in response to its ligands IGF-1 and IGF-2. This tyrosine kinase receptor is widely expressed in many cell types and is a key mediator of growth. Overexpression or activation of IGF-1R may be involved in the proliferation of transformed cells, making inhibition of IGF-1R signaling a strategy for the development of cancer drugs. IGF-1R activates three signaling pathways that converge to phosphorylate BAD protein and block apoptosis. The first pathway activated by IGF-1R stimulates PI3-kinase and the AKT pathway to phosphorylate BAD and block apoptosis. A second pathway activated by IGF-1R involves ras mediated activation of the map kinase pathway to block apoptosis. A third pathway involves interaction of raf with mitochondria in response to IGF-1R activation. The convergence of these pathways to block apoptosis may enhance the IGF-1R response.
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	BioCarta
+CONTRIBUTOR_ORG	BioCarta
+EXACT_SOURCE	
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://data.broadinstitute.org/gsea-msigdb/msigdb/biocarta/mouse/m_igf1rPathway.gif
+SOURCE_MEMBERS	AK004336,AK155158,BG694441,BU515502,NM_001024955,NM_001038663,NM_001164199,NM_001165894,NM_007522,NM_008163,NM_008284,NM_008839,NM_008923,NM_008924,NM_008927,NM_009097,NM_009231,NM_009622,NM_010513,NM_010570,NM_011158,NM_011738,NM_011952,NM_021880,NM_029780
+GENE_SYMBOLS	Prkar2a,Shc1,,,Pik3r1,Mapk1,Prkacb,Akt1,Bad,Grb2,Hras,Pik3ca,Prkar1b,Prkar2a,Map2k1,Rps6ka1,Sos1,Adcy1,Igf1r,Irs1,Prkar2b,Ywhah,Mapk3,Prkar1a,Raf1
+FOUNDER_NAMES	
+STANDARD_NAME	BIOCARTA_MEF2D_PATHWAY
+SYSTEMATIC_NAME	MM1483
+COLLECTION	M2:CP:BIOCARTA
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/BIOCARTA_MEF2D_PATHWAY
+NAMESPACE	MOUSE_SEQ_ACCESSION
+DESCRIPTION_BRIEF	Role of MEF2D in T-cell Apoptosis
+DESCRIPTION_FULL	Mef2 pathway.
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	BioCarta
+CONTRIBUTOR_ORG	BioCarta
+EXACT_SOURCE	
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://data.broadinstitute.org/gsea-msigdb/msigdb/biocarta/mouse/m_mef2dPathway.gif
+SOURCE_MEMBERS	AK136923,CD742364,NM_001037178,NM_001164111,NM_007590,NM_008229,NM_008855,NM_008913,NM_008914,NM_008915,NM_009790,NM_009794,NM_009795,NM_011101,NM_133665,NM_172549,NM_177821
+GENE_SYMBOLS	,Mef2d,Nfatc2,Nfatc1,Calm3,Hdac2,Prkcb,Ppp3ca,Ppp3cb,Ppp3cc,Calm1,Capn2,Capns1,Prkca,Mef2d,Cabin1,Ep300
+FOUNDER_NAMES	
+STANDARD_NAME	BIOCARTA_MITOCHONDRIA_PATHWAY
+SYSTEMATIC_NAME	MM1484
+COLLECTION	M2:CP:BIOCARTA
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/BIOCARTA_MITOCHONDRIA_PATHWAY
+NAMESPACE	MOUSE_SEQ_ACCESSION
+DESCRIPTION_BRIEF	Role of Mitochondria in Apoptotic Signaling
+DESCRIPTION_FULL	Mitochondria participate in apoptotic signaling pathways through the release of mitochondrial proteins into the cytoplasm. Cytochrome c, a key protein in electron transport, is released from mitochondria in response to apoptotic signals, and activates Apaf-1, a protease released from mitochondria. Activated Apaf-1 activates caspase-9 and the rest of the caspase pathway. Smac/DIABLO is released from mitochondria and inhibits IAP proteins that normally interact with caspase-9 to inhibit apoptosis. Apoptosis regulation by Bcl-2 family proteins occurs as family members form complexes that enter the mitochondrial membrane, regulating the release of cytochrome c and other proteins. TNF family receptor that cause apoptosis directly activate the caspase cascade, but can also activate Bid, a Bcl-2 family member, which activates mitochondria-mediated apoptosis. Bax, another Bcl-2 family member, is activated by this pathway to localize to the mitochondrial membrane and increase its permeability, releasing cytochre c and other mitochondrial proteins. Bcl-2 and Bcl-xL prevent pore formation, blocking apoptosis. AIF (Apoptosis inducing factor) is another mitochondrial factor that is released into the cytoplasm to induce apoptosis. AIF-induced apoptosis is important during development but is not caspase dependent.
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	BioCarta
+CONTRIBUTOR_ORG	BioCarta
+EXACT_SOURCE	
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://data.broadinstitute.org/gsea-msigdb/msigdb/biocarta/mouse/m_mitochondriaPathway.gif
+SOURCE_MEMBERS	NM_001080126,NM_007464,NM_007465,NM_007523,NM_007527,NM_007544,NM_007611,NM_007808,NM_007859,NM_007931,NM_009684,NM_009688,NM_009810,NM_009811,NM_010044,NM_012019,NM_015733,NM_023232,NM_177410
+GENE_SYMBOLS	Casp8,Birc3,Birc2,Bak1,Bax,Bid,Casp7,Cycs,Dffb,Endog,Apaf1,Xiap,Casp3,Casp6,Dffa,Aifm1,Casp9,Diablo,Bcl2
+FOUNDER_NAMES	
+STANDARD_NAME	BIOCARTA_PTEN_PATHWAY
+SYSTEMATIC_NAME	MM1461
+COLLECTION	M2:CP:BIOCARTA
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/BIOCARTA_PTEN_PATHWAY
+NAMESPACE	MOUSE_SEQ_ACCESSION
+DESCRIPTION_BRIEF	PTEN dependent cell cycle arrest and apoptosis
+DESCRIPTION_FULL	PTEN is a tumor suppressor gene. Recombinant PTEN is capable of dephosphorylating phosphatidylinositol 3,4,5-triphosphate, the product of phosphatidylinositol 3 -kinase. Many of the cancer-related mutations have been mapped to the phosphatase catalytic domain, it has been suggested that the phosphatase activity of PTEN is required for its tumor suppressor function. The activation of PKB/AKT is regulated in a complex manner via phosphorylation of AKT on Thr308 and Ser473 by PDK1 and ILK(integrin-linked kinase) respectively. Inactivation of PTEN will constitutively activate PKB/AKT pathway. In addition to its role in regulating the PI 3-K/AKT cell survival pathway, PTEN also inhibits growth factor-induced Shc phosphorylation and suppresses the mitogen-activated protein (MAP) kinase signaling pathway. PTEN also interact with FAK, a key molecule implicated in integrin signaling pathways, and it directly dephosphorylates tyrosine-phosphorylated FAK. PTEN down-regulation of p130CAS through FAK results in inhibition of cell migration and spreading.
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	BioCarta
+CONTRIBUTOR_ORG	BioCarta
+EXACT_SOURCE	
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://data.broadinstitute.org/gsea-msigdb/msigdb/biocarta/mouse/m_ptenpathway.gif
+SOURCE_MEMBERS	AK004198,AK155158,AK159465,BG694441,BU515502,CX225056,NM_001024955,NM_001038663,NM_001080773,NM_001165894,NM_001198839,NM_001205243,NM_008163,NM_008839,NM_008960,NM_009231,NM_009875,NM_010562,NM_010578,NM_011952,NM_019740,NM_133667
+GENE_SYMBOLS	Foxo3,Shc1,Foxo3,,,,Pik3r1,Mapk1,Pdpk1,Akt1,Bcar1,Fasl,Grb2,Pik3ca,Pten,Sos1,Cdkn1b,Ilk,Itgb1,Mapk3,Foxo3,Pdk2
+FOUNDER_NAMES	
+STANDARD_NAME	BIOCARTA_TCAPOPTOSIS_PATHWAY
+SYSTEMATIC_NAME	MM1405
+COLLECTION	M2:CP:BIOCARTA
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/BIOCARTA_TCAPOPTOSIS_PATHWAY
+NAMESPACE	MOUSE_SEQ_ACCESSION
+DESCRIPTION_BRIEF	HIV Induced T Cell Apoptosis
+DESCRIPTION_FULL	HIV infection is associated with immunosuppression caused by a dramatic reduction in the helper T cell population. The loss of helper T cells may be caused by HIV-induced apoptosis of both infected and uninfected helper T cells. HIV uses the CCR5 chemokine receptor as a coreceptor for macrophage cell entry and upregulates fas-ligand on these cells. CD4 on helper T cells is essential for viral cell entry and infection. Cross-linking of CD4 on the T cell surface may be involved in upregulation of Fas and sensitization of T cells to apoptosis induced by the Fas/Fas-ligand interaction.
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	BioCarta
+CONTRIBUTOR_ORG	BioCarta
+EXACT_SOURCE	
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://data.broadinstitute.org/gsea-msigdb/msigdb/biocarta/mouse/m_tcapoptosisPathway.gif
+SOURCE_MEMBERS	AK080019,NM_001146708,NM_001205243,NM_007642,NM_007648,NM_009850,NM_009917,NM_013487,NM_013488,NM_031162
+GENE_SYMBOLS	Cd247,Fas,Fasl,Cd28,Cd3e,Cd3g,Ccr5,Cd3d,Cd4,Cd247
+FOUNDER_NAMES	
+STANDARD_NAME	BIOCARTA_TSP1_PATHWAY
+SYSTEMATIC_NAME	MM1559
+COLLECTION	M2:CP:BIOCARTA
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/BIOCARTA_TSP1_PATHWAY
+NAMESPACE	MOUSE_SEQ_ACCESSION
+DESCRIPTION_BRIEF	TSP-1 Induced Apoptosis in Microvascular Endothelial Cell
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	BioCarta
+CONTRIBUTOR_ORG	BioCarta
+EXACT_SOURCE	
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://data.broadinstitute.org/gsea-msigdb/msigdb/biocarta/mouse/m_tsp1Pathway.gif
+SOURCE_MEMBERS	BB534670,NM_001122892,NM_001159556,NM_001168513,NM_009810,NM_010234,NM_010591,NM_011580
+GENE_SYMBOLS	Cd36,Fyn,Cd36,Mapk14,Casp3,Fos,Jun,Thbs1
+FOUNDER_NAMES	
+STANDARD_NAME	BIOCARTA_VIP_PATHWAY
+SYSTEMATIC_NAME	MM1441
+COLLECTION	M2:CP:BIOCARTA
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/BIOCARTA_VIP_PATHWAY
+NAMESPACE	MOUSE_SEQ_ACCESSION
+DESCRIPTION_BRIEF	Neuropeptides VIP and PACAP inhibit the apoptosis of activated T cells
+DESCRIPTION_FULL	Vasoactive intestinal peptide (VIP) and the structurally related pituitary adenylate cyclase-activating polypeptide (PACAP), two neuropeptides present in the lymphoid microenvironment, elicit a broad spectrum of biological functions, including the modulation of innate and adaptive immunity. Another important immunoregulatory function of VIP and PACAP is their inhibition effect on AICD in T cells. They inhibit the TCR-stimulated FasL expression and apoptosis of T cell through specific receptors and induction of intracellular cAMP. VIP down-regulate c-Myc synthesis, the NF-AT-dependent Egr2 and Egr3 expression, the NF-AT and NF-kB.
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	BioCarta
+CONTRIBUTOR_ORG	BioCarta
+EXACT_SOURCE	
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://data.broadinstitute.org/gsea-msigdb/msigdb/biocarta/mouse/m_vipPathway.gif
+SOURCE_MEMBERS	AK004336,BU556422,GH455388,NM_001037178,NM_001162410,NM_001164111,NM_001164199,NM_001177353,NM_007590,NM_008139,NM_008689,NM_008913,NM_008914,NM_008915,NM_008923,NM_008924,NM_009045,NM_009511,NM_009790,NM_010118,NM_010907,NM_011158,NM_011702,NM_011945,NM_018781,NM_021280,NM_021880
+GENE_SYMBOLS	Prkar2a,,,Nfatc2,Chuk,Nfatc1,Prkacb,Myc,Calm3,Gnaq,Nfkb1,Ppp3ca,Ppp3cb,Ppp3cc,Prkar1b,Prkar2a,Rela,Vipr2,Calm1,Egr2,Nfkbia,Prkar2b,Vip,Map3k1,Egr3,Plcg1,Prkar1a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_ACTIVATION_INDUCED_CELL_DEATH_OF_T_CELLS
+SYSTEMATIC_NAME	MM4909
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_ACTIVATION_INDUCED_CELL_DEATH_OF_T_CELLS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	A T cell apoptotic process that occurs towards the end of the expansion phase following the initial activation of mature T cells by antigen and is triggered by T cell receptor stimulation and signals transmitted via various surface-expressed members of the TNF receptor family such as Fas ligand, Fas, and TNF and the p55 and p75 TNF receptors. [GOC:add, GOC:mtg_apoptosis, ISBN:0781765196, PMID:12414721, PMID:12752672]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0006924
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0006924
+SOURCE_MEMBERS	11651,14082,14102,14605,14732,16184,20104,21808,22163,22164,30954,56532,79201,83945
+GENE_SYMBOLS	Akt1,Fadd,Fas,Tsc22d3,Gpam,Il2ra,Rps6,Tgfb2,Tnfrsf4,Tnfsf4,Siva1,Ripk3,Tnfrsf23,Dnaja3
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_ACTIVATION_OF_CYSTEINE_TYPE_ENDOPEPTIDASE_ACTIVITY_INVOLVED_IN_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM4907
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_ACTIVATION_OF_CYSTEINE_TYPE_ENDOPEPTIDASE_ACTIVITY_INVOLVED_IN_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that initiates the activity of the inactive enzyme cysteine-type endopeptidase in the context of an apoptotic process. [GOC:al, GOC:dph, GOC:jl, GOC:mtg_apoptosis, GOC:tb, PMID:14744432, PMID:18328827, Wikipedia:Caspase]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0006919
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0006919
+SOURCE_MEMBERS	107607,11783,12015,12018,12028,12042,12122,12125,12366,12370,12371,12424,12578,12828,12905,13063,13666,14062,14066,14103,14694,15510,16452,16792,16818,170770,17127,17869,18049,18053,18095,18174,18436,18567,18570,18854,19016,195046,19713,19823,19876,20201,20202,20510,20518,20617,20846,215114,216799,21926,223453,223870,22436,230379,26885,268973,26926,269523,29816,326623,368204,433278,50768,51800,53313,56462,57913,58801,637515,66593,66824,67628,67941,68350,70186,73916,83945,98582
+GENE_SYMBOLS	Nod1,Apaf1,Bad,Bak1,Bax,Bcl10,Bid,Bcl2l11,Casp2,Casp8,Casp9,Cck,Cdkn2a,Col4a3,Cradd,Cycs,Eif2ak3,F2r,F3,Fasl,Rack1,Hspd1,Jak2,Laptm5,Lck,Bbc3,Smad3,Myc,Ngf,Ngfr,Nkx3-1,Slc11a2,P2rx1,Pdcd2,Pdcd6,Pml,Pparg,Nlrp1a,Ret,Rnf7,Robo1,S100a8,S100a9,Slc1a1,Slc22a2,Snca,Stat1,Hip1,Nlrp3,Tnf,Dap,Senp1,Xdh,Acer2,Casp8ap2,Nlrc4,Aifm1,Vcp,Hip1r,Tnfsf15,Khdc1a,Khdc1c,Dlc1,Bok,Atp2a3,Mtch1,Pidd1,Pmaip1,Nlrp1b,Diablo,Pycard,Anp32b,Rps27l,Mul1,Fam162a,Ift57,Dnaja3,Khdc1b
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_EPITHELIAL_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM11136
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_EPITHELIAL_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of epithelial cell apoptotic process. [GO_REF:0000058, GOC:TermGenie, PMID:19137015]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1904037
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1904037
+SOURCE_MEMBERS	105349,105387,105722,11596,116852,12015,12028,12159,12822,13665,14103,15183,15368,16392,16401,16452,18569,18759,18778,18779,18803,19017,20379,20661,20747,216869,21803,21825,21841,21939,21947,22411,22433,227753,23830,54215,56484,56717,58231,59004,59035,64010,66214,68545,70445,70861,76854,83702
+GENE_SYMBOLS	Akr1c18,Akr1c14,Ano6,Ager,Akr1c20,Bad,Bax,Bmp4,Col18a1,Eif2s1,Fasl,Hdac3,Hmox1,Isl1,Itga4,Jak2,Pdcd4,Prkci,Pla2g1b,Pla2r1,Plcg1,Ppargc1a,Sfrp4,Sort1,Spop,Arrb2,Tgfb1,Thbs1,Tia1,Cd40,Cd40lg,Wnt11,Xbp1,Gsn,Capn10,Cd160,Foxo3,Mtor,Stk4,Pias4,Carm1,Sav1,Rgcc,Ecscr,Cd248,Akr1cl,Gper1,Akr1c6
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_ENDOTHELIAL_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM11509
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_ENDOTHELIAL_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of endothelial cell apoptotic process. [GOC:BHF, GOC:mah, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2000353
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2000353
+SOURCE_MEMBERS	105349,105387,105722,11596,116852,12159,12822,14103,16401,18569,18759,18803,21803,21825,21939,21947,22433,54215,56484,66214,68545,70445,70861,76854,83702
+GENE_SYMBOLS	Akr1c18,Akr1c14,Ano6,Ager,Akr1c20,Bmp4,Col18a1,Fasl,Itga4,Pdcd4,Prkci,Plcg1,Tgfb1,Thbs1,Cd40,Cd40lg,Xbp1,Cd160,Foxo3,Rgcc,Ecscr,Cd248,Akr1cl,Gper1,Akr1c6
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_B_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM4417
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_B_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate, or extent of B cell apoptotic process. [GOC:add, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0002904
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0002904
+SOURCE_MEMBERS	12028,12484,16153,17869,216742
+GENE_SYMBOLS	Bax,Cd24a,Il10,Myc,Fnip1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM11661
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of apoptotic signaling pathway. [GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2001235
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2001235
+SOURCE_MEMBERS	103844,104002,107449,107771,11540,11606,11609,117066,11783,11820,11910,12015,12028,12042,12122,12125,12167,12235,12323,12366,12370,12385,12389,12399,12759,12905,13032,13036,13038,13039,13040,13067,13144,13163,13198,13663,13666,14082,14084,14102,14373,14694,14827,15587,15977,16323,16324,16452,16453,16818,16994,17000,170770,17153,171543,17210,17701,17869,17973,17974,18015,18053,18095,18413,18611,18753,18854,18952,19045,19165,19211,19255,19264,19367,19713,19766,19941,20115,20201,20202,20377,20437,20438,20482,20612,20655,20747,21343,214639,216805,21808,21812,21825,218275,21859,21898,21899,21926,21987,22030,22035,22038,22059,22061,22062,22187,22361,224105,22418,224619,237038,237313,23992,24105,26419,26420,26898,26941,26943,27050,27061,271639,27279,329244,450219,50754,50755,50996,51792,51795,51800,54673,54711,54722,56092,56094,56208,56274,56312,56428,56532,56835,57320,58231,58518,58801,59004,64139,64294,64704,66143,66262,66437,66813,66824,67025,67379,67991,68428,69601,70202,71514,71861,72287,72567,73181,73699,74006,74256,76072,76571,76854,79263,80707,83925,93759,94275
+GENE_SYMBOLS	Inca1,Ctsq,Unc5b,Bmyc,Adora2a,Agt,Agtr2,Cts3,Apaf1,App,Atf3,Bad,Bax,Bcl10,Bid,Bcl2l11,Bmpr1b,Bub1,Camk2b,Casp2,Casp8,Ctnna1,Cav1,Runx3,Clu,Cradd,Ctsc,Ctsh,Ctsk,Ctsl,Ctss,Cyct,Dapk3,Daxx,Ddit3,Ei24,Eif2ak3,Fadd,Faf1,Fas,G0s2,Rack1,Pdia3,Hyal2,Ifnb1,Inhba,Inhbb,Jak2,Jak3,Lck,Ltb,Ltbr,Bbc3,Mal,Bmf,Mcl1,Msx1,Myc,Nck1,Nck2,Nf1,Ngfr,Nkx3-1,Osm,Pea15a,Prkcd,Pml,Septin4,Ppp1ca,Psen2,Pten,Ptpn2,Ptprc,Rad9a,Ret,Ripk1,Rpl26,Rps7,S100a8,S100a9,Sfrp1,Siah1a,Siah1b,Skil,Siglec1,Sod1,Spop,Taf6,4930486L24Rik,Flcn,Tgfb2,Tgfbr1,Thbs1,BC051665,Timp3,Tlr4,Tlr6,Tnf,Tpd52l1,Traf2,Tnfsf10,Plscr1,Trp53,Trp63,Trp73,Ubb,Vnn1,Pak2,Wnt5a,Traf7,Nox1,Il20ra,Prkra,Rbck1,Mapk8,Mapk9,Ctsj,Nherf1,Serinc3,Rps3,Bcap31,Adcy10,Tnfrsf12a,Il19,Gsdma3,Fbxw7,Fbh1,Pdcd7,Ppp2r1a,Srpx,Bok,Sh3glb1,Plagl2,Gsdme,Cts7,Cts8,Becn1,Stk3,Nupr1,Mtch2,Ripk3,Ctsr,Park7,Stk4,Cts6,Pmaip1,Pias4,Ctsm,Itm2c,Htra2,Eef1e1,Ing5,Fis1,Bcl2l14,Pycard,Rpl11,Dedd2,Nacc2,Steap3,Dab2ip,Ctsll3,Sfpq,Zswim2,Plekhf1,Bclaf1,Nfatc4,Ppp2r1b,Dnm1l,Cyld,Rnf183,Styxl1,Gper1,Trim39,Wwox,Trps1,Sirt1,Maged1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_APOPTOTIC_PROCESS_INVOLVED_IN_DEVELOPMENT
+SYSTEMATIC_NAME	MM11218
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_APOPTOTIC_PROCESS_INVOLVED_IN_DEVELOPMENT
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of apoptotic process involved in development. [GO_REF:0000058, GOC:TermGenie, PMID:22801495]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1904747
+FILTERED_BY_SIMILARITY	GO:1902339
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	positive regulation of apoptotic process involved in morphogenesis
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1904747
+SOURCE_MEMBERS	12028,12578,18128,18854,21937,21938,22337
+GENE_SYMBOLS	Bax,Cdkn2a,Notch1,Pml,Tnfrsf1a,Tnfrsf1b,Vdr
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEUTROPHIL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM4065
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEUTROPHIL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any apoptotic process in a neutrophil, any of the immature or mature forms of a granular leukocyte that in its mature form has a nucleus with three to five lobes connected by slender threads of chromatin, and cytoplasm containing fine inconspicuous granules and stainable by neutral dyes. [CL:0000775, GOC:add, GOC:mtg_apoptosis, PMID:12752675, PMID:12960266]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0001781
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0001781
+SOURCE_MEMBERS	12505,12765,14130,15978,16173,16193,16409,16952,18707,26570,320404,74769
+GENE_SYMBOLS	Cd44,Cxcr2,Fcgr2b,Ifng,Il18,Il6,Itgam,Anxa1,Pik3cd,Slc7a11,Itpkb,Pik3cb
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEURON_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_OXIDATIVE_STRESS
+SYSTEMATIC_NAME	MM7282
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEURON_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_OXIDATIVE_STRESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a neuron. The pathway is induced in response to oxidative stress, a state often resulting from exposure to high levels of reactive oxygen species, and ends when the execution phase of apoptosis is triggered. [GOC:bf, GOC:PARL, PMID:23858059]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0036480
+FILTERED_BY_SIMILARITY	GO:1903376
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0036480
+SOURCE_MEMBERS	11545,11911,12387,13163,14362,15251,16153,17210,19125,209027,22408,26408,271639,50754,50873,53610,57320,68943,69754,83433
+GENE_SYMBOLS	Parp1,Atf4,Ctnnb1,Daxx,Fzd1,Hif1a,Il10,Mcl1,Prodh,Pycr1,Wnt1,Map3k5,Adcy10,Fbxw7,Prkn,Nono,Park7,Pink1,Fbxo7,Trem2
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEURON_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS
+SYSTEMATIC_NAME	MM16810
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEURON_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a neuron. The pathway is induced in response to a stimulus indicating endoplasmic reticulum (ER) stress, and ends when the execution phase of apoptosis is triggered. ER stress usually results from the accumulation of unfolded or misfolded proteins in the ER lumen. [GOC:bf, GOC:PARL, PMID:21113145]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0036483
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0036483
+SOURCE_MEMBERS	110213,11820,12282,14130,50873
+GENE_SYMBOLS	Tmbim6,App,Hyou1,Fcgr2b,Prkn
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEURON_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM8756
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEURON_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any apoptotic process in a neuron, the basic cellular unit of nervous tissue. Each neuron consists of a body, an axon, and dendrites. Their purpose is to receive, conduct, and transmit impulses in the nervous system. [CL:0000540, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0051402
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0051402
+SOURCE_MEMBERS	100039229,100042427,100102,102465671,104069,104307,105827,107449,107585,108073,108138,109689,109700,109880,110213,110532,110862,110876,111266,112405,112406,112407,11302,11350,114774,11501,11538,11540,11545,11546,11596,11600,11603,11606,11607,11608,11609,11652,11757,11783,11798,11799,11816,11820,11848,11909,11911,11920,11977,12017,12028,12043,12048,12064,12123,12125,12176,12227,12273,12282,12286,12366,12367,12368,12369,12370,12371,12387,12443,12540,12568,12569,12608,12661,12704,12705,12721,12752,12759,12803,12804,12918,12921,12931,13002,13030,13051,13163,13198,13380,13390,13498,13653,13712,13798,13799,13841,13857,13867,13982,13983,14062,14082,14102,14103,14130,14179,14184,14265,14360,14362,14371,14380,14381,14433,14462,14466,14563,14573,14629,14630,14652,14751,14775,14804,14806,14809,14810,14815,14824,15183,15191,15194,15220,15251,15258,15368,15461,15505,15510,15516,15525,15558,16153,16173,16176,16193,16195,16202,16392,16443,16452,16476,16500,16531,16536,16542,16653,16819,16971,170719,170770,17136,17172,17210,17242,17257,17260,17685,17748,17751,17863,17865,17970,17986,17993,18008,18015,18032,18039,18049,18053,18104,18105,18124,18125,18148,18159,18186,18198,18205,18211,18212,18227,18391,18481,18546,18605,18607,18673,18706,18742,18752,18759,18970,18996,18998,19017,19063,19122,19125,19141,19164,19229,19259,19268,19283,19357,19400,195046,19645,19766,19877,20287,20302,20312,20349,20437,20438,20450,20471,20474,20510,20617,20655,20656,20817,20845,208727,209027,20910,211064,21418,21419,214585,216150,216439,21672,216869,21752,21803,21808,21809,21834,21926,21937,22059,22061,22062,22067,22142,22174,22187,22192,22226,22228,22339,22340,223649,22393,22408,224619,22687,226896,228361,230103,231872,232784,234664,234734,237625,237868,23821,23988,240057,24013,241593,244579,244701,245944,26362,26398,26400,26403,26404,26408,26419,26889,26926,271639,277432,30841,319583,319757,381293,387233,404194,50754,50873,50931,51800,53610,54422,56086,56312,56351,56461,56637,56708,56717,56876,57320,57434,58801,59016,59287,606496,637515,64290,64704,65020,66270,66437,66454,66593,67579,67605,67784,68169,68212,68943,69754,70186,70237,70433,70527,70551,70620,71648,72183,72393,723950,72930,73181,74011,74185,74244,78405,78928,79201,80857,80890,83433,93706,93707,93708,93759,94185,99526
+GENE_SYMBOLS	Gm10358,Gm3839,Pcsk9,Mir7116,Sncb,Rnu12,Amigo2,Unc5b,Dio3,Grm7,Xrcc4,Arrb1,Itga1,Braf,Tmbim6,Adarb1,Kcnq3,Scn2a,Cdc34b,Egln1,Egln2,Egln3,Aatk,Abl1,Pawr,Adam8,Adnp,Adora2a,Parp1,Parp2,Ager,Angpt1,Agrn,Agt,Agtr1a,Agtr1b,Agtr2,Akt2,Prdx3,Apaf1,Xiap,Birc5,Apoe,App,Rhoa,Atf2,Atf4,Atm,Atp7a,Bag1,Bax,Bcl2,Bcl2l1,Bdnf,Hrk,Bcl2l11,Bnip3,Btg2,C5ar1,Hyou1,Cacna1a,Casp2,Casp3,Casp6,Casp7,Casp8,Casp9,Ctnnb1,Ccnd1,Cdc42,Cdk5,Cdk5r1,Cebpb,Chl1,Cit,Cited1,Coro1a,Cln3,Clu,Cntf,Cntfr,Crh,Crhr1,Crlf1,Dnajc5,Ctsb,Cx3cr1,Daxx,Ddit3,Dkk1,Dlx1,Atn1,Egr1,Elk1,En1,En2,Epha7,Epor,Erbb3,Esr1,Esr2,F2r,Fadd,Fas,Fasl,Fcgr2b,Fgf8,Fgfr3,Fmr1,Fyn,Fzd1,Fzd9,G6pd2,G6pdx,Gapdh,Gata3,Gba,Gdf5,Gdnf,Gclc,Gclm,Glp1r,Gpi1,Gpx1,Grid2,Grik2,Grik5,Grin1,Nr3c1,Grn,Hdac3,Hdgf,Htt,Foxq1,Hif1a,Hipk2,Hmox1,Hras,Hsph1,Hspd1,Hsp90ab1,Hspa4,Htr2a,Il10,Il18,Il1b,Il6,Il6st,Ilk,Isl1,Itsn1,Jak2,Jun,Kcnb1,Kcnma1,Kcnq2,Kdr,Kras,Lcn2,Lrp1,Oxr1,Bbc3,Mag,Ascl1,Mcl1,Mdk,Mecp2,Mef2c,Msh2,Mt1,Mt3,Myb,Mybl2,Ncf2,Ndp,Ndufs4,Nes,Nf1,Nfix,Nefl,Ngf,Ngfr,Nqo1,Nqo2,Nr4a3,Nos1,Npm1,Nppc,Nrp1,Musk,Ntf3,Ntrk1,Ntrk2,Nr4a2,Sigmar1,Pak3,Pcp4,Enpp1,Pdpk1,Phb,Pik3ca,Pitx3,Prkcg,Prkci,Polb,Pou4f1,Pou4f3,Ppargc1a,Ppt1,Prnp,Prodh,Lgmn,Psen1,Ptk2b,Ptpn5,Ptprf,Ptprz1,Rad21,Rapsn,Nlrp1a,Rb1,Ripk1,Rock1,Sct,Ccl3,Cx3cl1,Sema3e,Siah1a,Siah1b,St8sia2,Six1,Six4,Slc1a1,Snca,Sod1,Sod2,Srpk2,Star,Hdac4,Pycr1,Stxbp1,Alkbh1,Tfap2a,Tfap2b,Spg11,Cdc34,Agap2,Prdx2,Arrb2,Tert,Tgfb1,Tgfb2,Tgfb3,Thrb,Tnf,Tnfrsf1a,Trp53,Trp63,Trp73,Trpc5,Tuba1a,Tyro3,Ubb,Ube2m,Ucn,Ucp2,Vegfa,Vegfb,Nrbp2,Wfs1,Wnt1,Traf7,Zpr1,Tfap2d,Ambra1,Npr2,Aimp2,Zfp212,Nae1,Aars,Pla2g3,Sarm1,Bace1,Pin1,Syngap1,Grk1,Pin1rt1,Tox3,Mtnr1b,Vps54,Axl,Map2k4,Map2k7,Map3k11,Map3k12,Map3k5,Mapk8,Cln8,Aifm1,Adcy10,Vstm2l,Kdm2b,Lig4,Smo,Kif14,Mir124a-1,Gfral,Fbxw7,Prkn,Il27ra,Bok,Nono,Barhl1,Set,Nupr1,Ptges3,Kcnip3,Gsk3b,Clcf1,Mtor,Nsmf,Park7,Xrcc2,Pmaip1,Thap11,Ncstn,Gsk3a,Nlrp1b,Foxb1,Htra2,Zfp110,Retreg1,Fis1,Nmnat1,Diablo,Cpeb4,Akt1s1,Plxnd1,Ndnf,Tmbim4,Pink1,Fbxo7,Fam162a,Bhlhb9,Draxin,Stambp,Tmtc4,Ube2v2,Optn,Snx6,Faim2,Mir124a-2,Ppp2r2b,Nfatc4,Slc25a27,Gbe1,Atg7,Ntf5,Pigt,Tnfrsf23,Fgf20,Trim2,Trem2,Pcdhgc3,Pcdhgc4,Pcdhgc5,Sirt1,Tnfrsf21,Usp53
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_VASCULAR_ASSOCIATED_SMOOTH_MUSCLE_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM11301
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_VASCULAR_ASSOCIATED_SMOOTH_MUSCLE_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of vascular associated smooth muscle cell apoptotic process. [GO_REF:0000058, GOC:BHF, GOC:BHF_miRNA, GOC:rph, GOC:TermGenie, PMID:26493107]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1905460
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1905460
+SOURCE_MEMBERS	100039229,100042427,12638,13433,14433,16000,20539
+GENE_SYMBOLS	Gm10358,Gm3839,Cftr,Dnmt1,Gapdh,Igf1,Slc7a5
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_TYPE_B_PANCREATIC_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM11583
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_TYPE_B_PANCREATIC_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of type B pancreatic cell apoptotic process. [GOC:mtg_apoptosis, GOC:obol]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2000675
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2000675
+SOURCE_MEMBERS	12380,18012,18049,18609,21416,22393,67996,74244
+GENE_SYMBOLS	Cast,Neurod1,Ngf,Pdx1,Tcf7l2,Wfs1,Srsf6,Atg7
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_THYMOCYTE_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM9508
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_THYMOCYTE_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents, or reduces the frequency, rate or extent of thymocyte death by apoptotic process. [GOC:add, GOC:mtg_apoptosis, ISBN:0781765196]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0070244
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0070244
+SOURCE_MEMBERS	11486,12144,12159,13636,15251,16453,16579,19208,19373,19885,22346,58208
+GENE_SYMBOLS	Ada,Blm,Bmp4,Efna1,Hif1a,Jak3,Kifap3,Ptcra,Rag1,Rorc,Vhl,Bcl11b
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_T_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM9502
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_T_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents, or reduces the frequency, rate or extent of T cell death by apoptotic process. [GOC:add, GOC:mtg_apoptosis, ISBN:0781765196]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0070233
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0070233
+SOURCE_MEMBERS	11486,11847,12043,12051,12144,12159,13636,14082,14605,14732,15251,15930,16197,16453,16579,18716,18761,18950,19208,19373,19885,20304,20442,20723,21940,22163,22164,22346,30936,58208,76088
+GENE_SYMBOLS	Ada,Arg2,Bcl2,Bcl3,Blm,Bmp4,Efna1,Fadd,Tsc22d3,Gpam,Hif1a,Ido1,Il7r,Jak3,Kifap3,Pip,Prkcq,Pnp,Ptcra,Rag1,Rorc,Ccl5,St3gal1,Serpinb9,Cd27,Tnfrsf4,Tnfsf4,Vhl,Slc46a2,Bcl11b,Dock8
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_OXIDATIVE_STRESS_INDUCED_NEURON_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM11012
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_OXIDATIVE_STRESS_INDUCED_NEURON_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of oxidative stress-induced neuron intrinsic apoptotic signaling pathway. [GO_REF:0000058, GOC:bf, GOC:PARL, GOC:TermGenie, PMID:15790595]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1903377
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1903377
+SOURCE_MEMBERS	11911,12387,14362,15251,16153,209027,22408,50873,53610,57320,68943,69754
+GENE_SYMBOLS	Atf4,Ctnnb1,Fzd1,Hif1a,Il10,Pycr1,Wnt1,Prkn,Nono,Park7,Pink1,Fbxo7
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_OXIDATIVE_STRESS_INDUCED_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM10820
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_OXIDATIVE_STRESS_INDUCED_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of an oxidative stress-induced intrinsic apoptotic signaling pathway. [GOC:BHF, GOC:mtg_apoptosis, GOC:TermGenie, PMID:11672522]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902176
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902176
+SOURCE_MEMBERS	11911,12387,14360,14362,14463,14694,14775,15251,15507,16153,18024,20656,209027,22408,23939,268373,50873,53610,57320,68015,68943,69754,70369,75533,78688,93759
+GENE_SYMBOLS	Atf4,Ctnnb1,Fyn,Fzd1,Gata4,Rack1,Gpx1,Hif1a,Hspb1,Il10,Nfe2l2,Sod2,Pycr1,Wnt1,Mapk7,Ppia,Prkn,Nono,Park7,Trap1,Pink1,Fbxo7,Bag5,Nme5,Nol3,Sirt1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_NEURON_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM7649
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_NEURON_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents, or reduces the frequency, rate or extent of cell death by apoptotic process in neurons. [GOC:go_curators, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0043524
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0043524
+SOURCE_MEMBERS	104069,104307,105827,107449,108073,108138,109689,109880,11501,11538,11540,11600,11606,11607,11608,11609,11757,11798,11799,11816,11848,11911,11977,12017,12028,12043,12048,12064,12227,12273,12282,12286,12387,12443,12608,12661,12705,12721,12752,12759,12803,12804,12921,12931,13002,13051,13390,13798,13799,13857,13867,13982,13983,14062,14179,14265,14360,14362,14371,14466,14563,14573,14629,14630,14652,14751,14806,14810,14824,15191,15220,15251,15258,15368,15461,15505,15510,15516,16153,16193,16195,16202,16392,16443,16452,16476,16542,16653,16819,16971,170719,17136,17242,17257,17260,17685,17748,17751,18008,18032,18039,18049,18053,18124,18125,18148,18159,18186,18205,18211,18212,18227,18546,18607,18706,18752,18759,18996,19017,19063,19141,19164,19229,19283,19357,19877,20287,20312,20349,20471,20474,20510,20617,20655,20656,20845,209027,20910,211064,21418,21419,216439,21672,216869,21752,21809,22062,22174,22226,22228,22339,22340,223649,22393,22408,22687,226896,228361,234734,237625,23988,240057,24013,241593,244579,244701,245944,26362,26398,26404,26889,277432,30841,319583,319757,381293,404194,50873,50931,51800,53610,54422,56086,56708,57320,57434,59016,64290,66270,66454,67579,67784,68169,68212,68943,69754,70237,70433,70527,70620,71648,72183,72393,73181,74011,74185,74244,78405,80857,93706,93707,93708,93759
+GENE_SYMBOLS	Sncb,Rnu12,Amigo2,Unc5b,Grm7,Xrcc4,Arrb1,Braf,Adam8,Adnp,Adora2a,Angpt1,Agt,Agtr1a,Agtr1b,Agtr2,Prdx3,Xiap,Birc5,Apoe,Rhoa,Atf4,Atp7a,Bag1,Bax,Bcl2,Bcl2l1,Bdnf,Btg2,C5ar1,Hyou1,Cacna1a,Ctnnb1,Ccnd1,Cebpb,Chl1,Cited1,Coro1a,Cln3,Clu,Cntf,Cntfr,Crhr1,Crlf1,Dnajc5,Cx3cr1,Dlx1,En1,En2,Epor,Erbb3,Esr1,Esr2,F2r,Fgf8,Fmr1,Fyn,Fzd1,Fzd9,Gba,Gdf5,Gdnf,Gclc,Gclm,Glp1r,Gpi1,Grik2,Grin1,Grn,Hdgf,Foxq1,Hif1a,Hipk2,Hmox1,Hras,Hsph1,Hspd1,Hsp90ab1,Il10,Il6,Il6st,Ilk,Isl1,Itsn1,Jak2,Jun,Kdr,Kras,Lcn2,Lrp1,Oxr1,Mag,Mdk,Mecp2,Mef2c,Msh2,Mt1,Mt3,Nes,Nfix,Nefl,Ngf,Ngfr,Nr4a3,Nos1,Npm1,Nppc,Nrp1,Ntf3,Ntrk1,Ntrk2,Nr4a2,Pcp4,Pdpk1,Pik3ca,Prkcg,Prkci,Pou4f1,Ppargc1a,Ppt1,Lgmn,Psen1,Ptk2b,Ptprz1,Rad21,Rock1,Sct,Cx3cl1,Sema3e,Six1,Six4,Slc1a1,Snca,Sod1,Sod2,Star,Pycr1,Stxbp1,Alkbh1,Tfap2a,Tfap2b,Agap2,Prdx2,Arrb2,Tert,Tgfb3,Trp73,Tyro3,Ucn,Ucp2,Vegfa,Vegfb,Nrbp2,Wfs1,Wnt1,Zpr1,Tfap2d,Ambra1,Aars,Pla2g3,Pin1,Syngap1,Grk1,Pin1rt1,Tox3,Mtnr1b,Vps54,Axl,Map2k4,Map3k12,Cln8,Vstm2l,Kdm2b,Lig4,Smo,Kif14,Gfral,Prkn,Il27ra,Bok,Nono,Barhl1,Set,Clcf1,Park7,Xrcc2,Thap11,Foxb1,Retreg1,Nmnat1,Cpeb4,Plxnd1,Ndnf,Tmbim4,Pink1,Fbxo7,Bhlhb9,Draxin,Stambp,Ube2v2,Optn,Snx6,Faim2,Nfatc4,Slc25a27,Gbe1,Atg7,Ntf5,Fgf20,Pcdhgc3,Pcdhgc4,Pcdhgc5,Sirt1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_MYELOID_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM6761
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_MYELOID_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents, or reduces the frequency, rate, or extent of a myeloid cell apoptotic process. [GOC:add, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0033033
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0033033
+SOURCE_MEMBERS	109815,11818,12043,12765,12774,13856,14127,14130,14456,14460,16173,16187,17311,17319,20304,20440,20583,208188,20850,20851,23845,257632,320404,59003
+GENE_SYMBOLS	Selenos,Apoh,Bcl2,Cxcr2,Ccr5,Epo,Fcer1g,Fcgr2b,Gas6,Gata1,Il18,Il3,Kitl,Mif,Ccl5,St6gal1,Snai2,Ghsr,Stat5a,Stat5b,Clec5a,Nod2,Itpkb,Maea
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_MUSCLE_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM5480
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_MUSCLE_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that decreases the rate or frequency of muscle cell apoptotic process, a form of programmed cell death induced by external or internal signals that trigger the activity of proteolytic caspases whose actions dismantle a muscle cell and result in its death. [GOC:dph, GOC:mtg_apoptosis, GOC:tb]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0010656
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0010656
+SOURCE_MEMBERS	100039229,100042427,106628,11516,11607,11684,11739,11793,11818,12043,12389,12633,12638,13433,13614,13869,14433,14463,14601,14802,15111,15214,15357,15368,15499,16000,16001,16202,16452,16579,16880,16974,170731,17242,17938,18024,18091,18124,18148,18510,18537,18607,18708,19229,19317,19732,20319,20539,211323,21380,214384,216869,223864,228361,230738,243912,26897,29810,52040,56312,56637,68346,68861,72434,74244,75387,78688,93759
+GENE_SYMBOLS	Gm10358,Gm3839,Trip10,Adcyap1,Agtr1a,Alox12,Slc25a4,Atg5,Apoh,Bcl2,Cav1,Cflar,Cftr,Dnmt1,Edn1,Erbb4,Gapdh,Gata4,Ghrh,Gria4,Hand2,Hey2,Hmgcr,Hmox1,Hsf1,Igf1,Igf1r,Ilk,Jak2,Kifap3,Lifr,Lrp6,Mfn2,Mdk,Naca,Nfe2l2,Nkx2-5,Nr4a3,Npm1,Pax8,Pcmt1,Pdpk1,Pik3r1,Ptk2b,Qki,Rgl2,Sfrp2,Slc7a5,Nrg1,Tbx1,Myocd,Arrb2,Rapgef3,Ambra1,Zc3h12a,Hspb6,Acot1,Bag3,Ppp1r10,Nupr1,Gsk3b,Sirt5,Dipk2a,Lypd3,Atg7,Sirt4,Nol3,Sirt1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_MOTOR_NEURON_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM11581
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_MOTOR_NEURON_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of motor neuron apoptotic process. [GOC:mtg_apoptosis, GOC:obol]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2000672
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2000672
+SOURCE_MEMBERS	11848,12017,12043,12804,12931,13867,18039,19877,22687,245944,26398,26404,56708
+GENE_SYMBOLS	Rhoa,Bag1,Bcl2,Cntfr,Crlf1,Erbb3,Nefl,Rock1,Zpr1,Vps54,Map2k4,Map3k12,Clcf1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_MITOCHONDRIAL_OUTER_MEMBRANE_PERMEABILIZATION_INVOLVED_IN_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM10632
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_MITOCHONDRIAL_OUTER_MEMBRANE_PERMEABILIZATION_INVOLVED_IN_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway. [GOC:BHF, GOC:mtg_apoptosis, GOC:TermGenie]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1901029
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1901029
+SOURCE_MEMBERS	11739,11740,12018,12048,14629,15937,51800,52538,73333,74919,75712,93734
+GENE_SYMBOLS	Slc25a4,Slc25a5,Bak1,Bcl2l1,Gclc,Ier3,Bok,Acaa2,Slc25a31,Slc35f6,Tmem14a,Mpv17l
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_LYMPHOCYTE_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM9498
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_LYMPHOCYTE_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents, or reduces the frequency, rate or extent of lymphocyte death by apoptotic process. [GOC:add, GOC:mtg_apoptosis, ISBN:0781765196]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0070229
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0070229
+SOURCE_MEMBERS	100124431,108655,11486,11847,12042,12043,12044,12051,12144,12159,12505,13636,14082,14605,14732,15251,15930,16149,16183,16187,16197,16453,16579,17319,18566,18716,18761,18950,19208,19373,19885,20304,20442,20723,20877,209488,21940,22163,22164,22346,227059,30936,384783,387195,57741,58208,66612,69169,723829,723852,723885,723923,723925,723926,723942,751527,751549,76088
+GENE_SYMBOLS	Mir18b,Foxp1,Ada,Arg2,Bcl10,Bcl2,Bcl2a1a,Bcl3,Blm,Bmp4,Cd44,Efna1,Fadd,Tsc22d3,Gpam,Hif1a,Ido1,Cd74,Il2,Il3,Il7r,Jak3,Kifap3,Mif,Pdcd1,Pip,Prkcq,Pnp,Ptcra,Rag1,Rorc,Ccl5,St3gal1,Serpinb9,Aurkb,Hsh2d,Cd27,Tnfrsf4,Tnfsf4,Vhl,Slc39a10,Slc46a2,Irs2,Mir19b-2,Noc2l,Bcl11b,Ormdl3,Fcmr,Mir106a,Mir363,Mir93,Mir20b,Mir106b,Mir25,Mir92-2,Mir19b-1,Mir92-1,Dock8
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_LEUKOCYTE_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM11441
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_LEUKOCYTE_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents, or reduces the frequency, rate or extent of leukocyte apoptotic process. [GOC:BHF, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2000107
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2000107
+SOURCE_MEMBERS	100039789,100040035,100042493,100124431,100861618,100861647,100862177,108655,109815,11486,11847,12042,12043,12044,12048,12051,12144,12159,12505,12765,12774,12775,13636,14082,14127,14130,14456,14605,14732,15163,15251,15930,16149,16173,16183,16187,16197,16453,16579,17289,17311,17319,18566,18716,18761,18829,18950,19208,19373,19885,20304,20315,20440,20442,20723,208188,20850,20877,209488,21940,22163,22164,22346,227059,24047,257632,26362,30936,320404,384783,387195,57741,58208,65959,66612,69169,723829,723852,723885,723923,723925,723926,723942,751527,751549,76088
+GENE_SYMBOLS	Gm12407,Gm2564,Ccl21b,Mir18b,Ccl19-ps1,Gm21104,Ccl21d,Foxp1,Selenos,Ada,Arg2,Bcl10,Bcl2,Bcl2a1a,Bcl2l1,Bcl3,Blm,Bmp4,Cd44,Cxcr2,Ccr5,Ccr7,Efna1,Fadd,Fcer1g,Fcgr2b,Gas6,Tsc22d3,Gpam,Hcls1,Hif1a,Ido1,Cd74,Il18,Il2,Il3,Il7r,Jak3,Kifap3,Mertk,Kitl,Mif,Pdcd1,Pip,Prkcq,Ccl21a,Pnp,Ptcra,Rag1,Rorc,Ccl5,Cxcl12,St6gal1,St3gal1,Serpinb9,Ghsr,Stat5a,Aurkb,Hsh2d,Cd27,Tnfrsf4,Tnfsf4,Vhl,Slc39a10,Ccl19,Nod2,Axl,Slc46a2,Itpkb,Irs2,Mir19b-2,Noc2l,Bcl11b,Ccl19-ps3,Ormdl3,Fcmr,Mir106a,Mir363,Mir93,Mir20b,Mir106b,Mir25,Mir92-2,Mir19b-1,Mir92-1,Dock8
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_DNA_DAMAGE_BY_P53_CLASS_MEDIATOR
+SYSTEMATIC_NAME	MM10817
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_DNA_DAMAGE_BY_P53_CLASS_MEDIATOR
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator. [GOC:TermGenie, PMID:17719541]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902166
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902166
+SOURCE_MEMBERS	12505,16149,17319,17829,237877,269344,29813,57438,69076,75736,93759,99982
+GENE_SYMBOLS	Cd44,Cd74,Mif,Muc1,Atad5,Ell3,Zfp385a,Marchf7,Triap1,Bcl2l12,Sirt1,Kdm1a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_DNA_DAMAGE
+SYSTEMATIC_NAME	MM10825
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_DNA_DAMAGE
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of intrinsic apoptotic signaling pathway in response to DNA damage. [GOC:BHF, GOC:mtg_apoptosis, GOC:rl, GOC:TermGenie, PMID:15314165]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902230
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902230
+SOURCE_MEMBERS	12048,12122,12505,12581,12759,12778,16149,17319,17829,20315,20583,20613,219158,22070,234371,237877,269344,29813,57438,69076,69807,74041,74996,75736,93759,99982
+GENE_SYMBOLS	Bcl2l1,Bid,Cd44,Cdkn2d,Clu,Ackr3,Cd74,Mif,Muc1,Cxcl12,Snai2,Snai1,Ccar2,Tpt1,Tmem161a,Atad5,Ell3,Zfp385a,Marchf7,Triap1,Trim32,Ddias,Usp47,Bcl2l12,Sirt1,Kdm1a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_BY_P53_CLASS_MEDIATOR
+SYSTEMATIC_NAME	MM10831
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_BY_P53_CLASS_MEDIATOR
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of intrinsic apoptotic signaling pathway by p53 class mediator. [GOC:BHF, GOC:mtg_apoptosis, GOC:rl, GOC:TermGenie, PMID:15705871]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902254
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902254
+SOURCE_MEMBERS	106298,108705,12062,12505,16149,17246,17248,17319,17829,237877,269344,28135,29813,382985,50873,54673,57438,67211,69076,75736,93759,99982
+GENE_SYMBOLS	Rrn3,Pttg1ip,Bdkrb2,Cd44,Cd74,Mdm2,Mdm4,Mif,Muc1,Atad5,Ell3,Cep63,Zfp385a,Rrm2b,Prkn,Sh3glb1,Marchf7,Armc10,Triap1,Bcl2l12,Sirt1,Kdm1a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM11668
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of intrinsic apoptotic signaling pathway. [GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2001243
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2001243
+SOURCE_MEMBERS	105675,106298,108705,109815,110213,110957,11651,117198,11911,12043,12048,12049,12050,12062,12122,12282,12387,12505,12581,12759,12778,12913,13205,13806,13856,14360,14362,14463,14526,14694,14775,15182,15201,15251,15502,15507,16149,16151,16153,170799,17246,17248,17319,17395,17829,18024,18609,18793,19099,19225,19246,19777,20315,20583,20613,20656,20779,209027,217558,219158,22070,22289,22334,22393,22408,22433,234371,237877,23939,26395,26427,268373,269344,28135,29813,381038,382985,433182,433759,50873,53610,54673,56449,57320,57438,57741,60530,64209,66073,66168,66725,67184,67211,68015,68349,68943,69076,69754,69807,70369,74041,74126,74143,74769,74996,75533,75736,78688,93759,99982
+GENE_SYMBOLS	Ppif,Rrn3,Pttg1ip,Selenos,Tmbim6,D1Pas1,Akt1,Ivns1abp,Atf4,Bcl2,Bcl2l1,Bcl2l10,Bcl2l2,Bdkrb2,Bid,Hyou1,Ctnnb1,Cd44,Cdkn2d,Clu,Ackr3,Creb3,Ddx3x,Eno1,Epo,Fyn,Fzd1,Gata4,Gcg,Rack1,Gpx1,Hdac2,Hells,Hif1a,Dnaja1,Hspb1,Cd74,Ikbkg,Il10,Rtkn2,Mdm2,Mdm4,Mif,Mmp9,Muc1,Nfe2l2,Pdx1,Plaur,Mapk8ip1,Ptgs2,Ptpn1,Uri1,Cxcl12,Snai2,Snai1,Sod2,Src,Pycr1,G2e3,Ccar2,Tpt1,Kdm6a,Vdac2,Wfs1,Wnt1,Xbp1,Tmem161a,Atad5,Mapk7,Map2k1,Creb3l1,Ppia,Ell3,Cep63,Zfp385a,Parl,Rrm2b,Eno1b,Hdac1,Prkn,Nono,Sh3glb1,Ybx3,Park7,Marchf7,Noc2l,Fignl1,Herpud1,Txndc12,Grina,Lrrk2,Ndufa13,Armc10,Trap1,Ndufs3,Pink1,Triap1,Fbxo7,Trim32,Bag5,Ddias,Syvn1,Opa1,Pik3cb,Usp47,Nme5,Bcl2l12,Nol3,Sirt1,Kdm1a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_VIA_DEATH_DOMAIN_RECEPTORS
+SYSTEMATIC_NAME	MM10802
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_VIA_DEATH_DOMAIN_RECEPTORS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of extrinsic apoptotic signaling pathway via death domain receptors. [GOC:TermGenie, PMID:17245429]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902042
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902042
+SOURCE_MEMBERS	110135,110157,110957,12048,12189,12633,13205,14161,14775,15234,15368,15894,18611,18787,20319,21929,23873,414801,56637,57320,623459,67338,69660,72393,78688,79201,79202,80751,97165,99571
+GENE_SYMBOLS	Fgb,Raf1,D1Pas1,Bcl2l1,Brca1,Cflar,Ddx3x,Fga,Gpx1,Hgf,Hmox1,Icam1,Pea15a,Serpine1,Sfrp2,Tnfaip3,Faim,Itprip,Gsk3b,Park7,Faiml,Rffl,Tmbim1,Faim2,Nol3,Tnfrsf23,Tnfrsf22,Rnf34,Hmgb2,Fgg
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM11663
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of extrinsic apoptotic signaling pathway. [GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2001237
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2001237
+SOURCE_MEMBERS	100042625,107449,110135,110157,110957,11477,11835,12043,12048,12049,12159,12189,12211,12385,12421,12633,12824,12981,13043,13132,13205,14048,14049,14050,14051,14161,14165,14360,14451,14460,14573,14629,14630,14775,14869,14870,15194,15234,15368,15894,16000,16176,16189,16196,16403,16410,16854,16905,170755,17210,18186,18611,18787,19192,19697,19766,20254,20312,20319,20439,20583,20779,211323,21416,216439,21672,21752,21812,21926,21929,22163,22164,22339,225884,22601,227154,232679,23873,23938,23939,240518,241656,329244,404194,414801,56637,57320,59009,623459,66505,67338,69169,69660,72393,72508,78688,79201,79202,80751,83946,97165,99571
+GENE_SYMBOLS	Gstp-ps,Unc5b,Fgb,Raf1,D1Pas1,Acvr1,Ar,Bcl2,Bcl2l1,Bcl2l10,Bmp4,Brca1,Birc6,Ctnna1,Rb1cc1,Cflar,Col2a1,Csf2,Cttn,Dab2,Ddx3x,Eya1,Eya2,Eya3,Eya4,Fga,Fgf10,Fyn,Gas1,Gata1,Gdnf,Gclc,Gclm,Gpx1,Gstp2,Gstp1,Htt,Hgf,Hmox1,Icam1,Igf1,Il1b,Il4,Il7,Itga6,Itgav,Lgals3,Lmna,Sgk3,Mcl1,Nrp1,Pea15a,Serpine1,Psme3,Rela,Ripk1,Scg2,Cx3cl1,Sfrp2,Siah2,Snai2,Src,Nrg1,Tcf7l2,Agap2,Prdx2,Tert,Tgfbr1,Tnf,Tnfaip3,Tnfrsf4,Tnfsf4,Vegfa,Gstp3,Yap1,Stradb,Zc3hc1,Faim,Map2k5,Mapk7,Peli3,Pak5,Il19,Gfral,Itprip,Gsk3b,Park7,Sh3rf1,Faiml,Zmynd11,Rffl,Fcmr,Tmbim1,Faim2,Rps6kb1,Nol3,Tnfrsf23,Tnfrsf22,Rnf34,Phip,Hmgb2,Fgg
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_EXECUTION_PHASE_OF_APOPTOSIS
+SYSTEMATIC_NAME	MM10576
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_EXECUTION_PHASE_OF_APOPTOSIS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of execution phase of apoptosis. [GOC:mtg_apoptosis, GOC:TermGenie]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1900118
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1900118
+SOURCE_MEMBERS	100463512,12048,12683,12766,13347,14365,14526,224105,67338,80751
+GENE_SYMBOLS	Gm20594,Bcl2l1,Cidea,Cxcr3,Dffa,Fzd3,Gcg,Pak2,Rffl,Rnf34
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_EPITHELIAL_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM11135
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_EPITHELIAL_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of epithelial cell apoptotic process. [GO_REF:0000058, GOC:TermGenie, PMID:19137015]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1904036
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1904036
+SOURCE_MEMBERS	105787,107889,108079,109880,110135,110829,11350,11352,11600,11789,11921,12043,12223,12380,12562,12576,12633,14161,14456,14461,14462,15111,15235,15368,15894,15901,16000,16001,16153,16163,16189,16416,16542,17242,17869,17940,18012,18024,18049,18091,18092,18145,18609,18667,18787,19013,19645,20254,20356,21416,216439,21687,21752,21929,22393,22601,231130,232286,236266,23939,241035,241196,50500,54409,56312,56417,56636,56717,57875,67733,67996,68169,69807,70584,74244,79264,99571
+GENE_SYMBOLS	Prkaa1,Gcm2,Prkaa2,Braf,Fgb,Lims1,Abl1,Abl2,Angpt1,Apc,Atoh1,Bcl2,Btc,Cast,Cdh5,Cdkn1b,Cflar,Fga,Gas6,Gata2,Gata3,Hand2,Mst1,Hmox1,Icam1,Id1,Igf1,Igf1r,Il10,Il13,Il4,Itgb3,Kdr,Mdk,Myc,Naip1,Neurod1,Nfe2l2,Ngf,Nkx2-5,Nkx2-6,Npc1,Pdx1,Pgr,Serpine1,Ppara,Rb1,Scg2,Sema5a,Tcf7l2,Agap2,Tek,Tert,Tnfaip3,Wfs1,Yap1,Tnip2,Tmf1,Alms1,Mapk7,Pkhd1,Serpinb13,Ttpa,Ramp2,Nupr1,Adar,Fgf21,Mtor,Angptl4,Itgb3bp,Srsf6,Ndnf,Trim32,Pak4,Atg7,Krit1,Fgg
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_ENDOTHELIAL_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM11508
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_ENDOTHELIAL_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of endothelial cell apoptotic process. [GOC:BHF, GOC:mah, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2000352
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2000352
+SOURCE_MEMBERS	109880,110135,11350,11352,11600,12562,14161,14456,14461,14462,15894,15901,16153,16163,16189,16416,16542,18024,18787,20254,20356,21687,21752,21929,231130,23939,54409,56636,57875,68169,70584,79264,99571
+GENE_SYMBOLS	Braf,Fgb,Abl1,Abl2,Angpt1,Cdh5,Fga,Gas6,Gata2,Gata3,Icam1,Id1,Il10,Il13,Il4,Itgb3,Kdr,Nfe2l2,Serpine1,Scg2,Sema5a,Tek,Tert,Tnfaip3,Tnip2,Mapk7,Ramp2,Fgf21,Angptl4,Ndnf,Pak4,Krit1,Fgg
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_ENDOPLASMIC_RETICULUM_STRESS_INDUCED_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM10828
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_ENDOPLASMIC_RETICULUM_STRESS_INDUCED_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of an endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway. [GOC:BHF, GOC:mtg_apoptosis, GOC:rl, GOC:TermGenie, PMID:20160352]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902236
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902236
+SOURCE_MEMBERS	109815,110213,12048,12282,12913,16151,18609,19246,22393,22433,26427,50873,57320,64209,66073,66168,66725,74126,74143
+GENE_SYMBOLS	Selenos,Tmbim6,Bcl2l1,Hyou1,Creb3,Ikbkg,Pdx1,Ptpn1,Wfs1,Xbp1,Creb3l1,Prkn,Park7,Herpud1,Txndc12,Grina,Lrrk2,Syvn1,Opa1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_DENDRITIC_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM11578
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_DENDRITIC_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of dendritic cell apoptotic process. [GOC:mtg_apoptosis, GOC:obol]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2000669
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2000669
+SOURCE_MEMBERS	100039789,100040035,100042493,100861618,100861647,100862177,12043,12048,14456,18829,20315,24047,26362,65959
+GENE_SYMBOLS	Gm12407,Gm2564,Ccl21b,Ccl19-ps1,Gm21104,Ccl21d,Bcl2,Bcl2l1,Gas6,Ccl21a,Cxcl12,Ccl19,Axl,Ccl19-ps3
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_B_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM4416
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_B_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents, or reduces the frequency, rate, or extent of B cell apoptotic process. [GOC:add, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0002903
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0002903
+SOURCE_MEMBERS	100124431,108655,11486,12042,12043,12044,12505,16149,16183,16187,17319,18566,20877,209488,227059,384783,387195,57741,66612,723829,723852,723885,723923,723925,723926,723942,751527,751549
+GENE_SYMBOLS	Mir18b,Foxp1,Ada,Bcl10,Bcl2,Bcl2a1a,Cd44,Cd74,Il2,Il3,Mif,Pdcd1,Aurkb,Hsh2d,Slc39a10,Irs2,Mir19b-2,Noc2l,Ormdl3,Mir106a,Mir363,Mir93,Mir20b,Mir106b,Mir25,Mir92-2,Mir19b-1,Mir92-1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM11660
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of apoptotic signaling pathway. [GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2001234
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2001234
+SOURCE_MEMBERS	100042625,105675,106298,107449,107869,108705,109815,110135,110157,110213,110957,11477,11651,117198,11739,11740,11835,11911,11998,12018,12028,12043,12048,12049,12050,12062,12064,12122,12151,12159,12189,12211,12282,12385,12387,12421,12505,12537,12581,12633,12759,12778,12824,12913,12981,13043,13051,13132,13205,13806,13856,14048,14049,14050,14051,14161,14165,14297,14360,14362,14451,14460,14463,14526,14573,14629,14630,14678,14679,14694,14775,14869,14870,15182,15194,15201,15234,15251,15368,15502,15507,15894,15937,16000,16149,16151,16153,16176,16189,16196,16198,16199,16403,16410,16854,16905,170731,170755,170799,171543,17188,17210,17246,17248,17319,17395,17428,17537,17829,18024,18121,18186,18227,18518,18609,18611,18787,18793,19099,19164,19165,19192,19225,19246,19645,19697,19766,19777,20254,20312,20315,20319,20439,20583,20613,20656,20779,209027,211323,21416,216439,21672,216869,217011,21752,217558,21812,219158,21926,21929,22070,22163,22164,22289,22334,22339,223701,22393,22408,22417,22433,225884,22601,22658,227154,228355,232679,234371,237877,23873,23938,23939,240518,241656,244551,26395,26409,26427,268373,269344,28135,29813,329244,381038,382985,404194,414801,433182,433759,50873,51800,52538,53380,53610,54673,56295,56321,56449,56637,57320,57438,57741,59009,60530,60597,623459,64209,66073,66092,66168,66449,66494,66505,66725,67184,67211,67338,67770,68015,68349,68845,68943,69076,69169,69260,69660,69754,69807,70369,72393,72508,73333,74041,74126,74143,74769,74919,74996,75533,75712,75736,78688,79201,79202,80751,83946,93734,93735,93759,97165,97541,99571,99982
+GENE_SYMBOLS	Gstp-ps,Ppif,Rrn3,Unc5b,Cth,Pttg1ip,Selenos,Fgb,Raf1,Tmbim6,D1Pas1,Acvr1,Akt1,Ivns1abp,Slc25a4,Slc25a5,Ar,Atf4,Avp,Bak1,Bax,Bcl2,Bcl2l1,Bcl2l10,Bcl2l2,Bdkrb2,Bdnf,Bid,Bmi1,Bmp4,Brca1,Birc6,Hyou1,Ctnna1,Ctnnb1,Rb1cc1,Cd44,Cdk11b,Cdkn2d,Cflar,Clu,Ackr3,Col2a1,Creb3,Csf2,Cttn,Cx3cr1,Dab2,Ddx3x,Eno1,Epo,Eya1,Eya2,Eya3,Eya4,Fga,Fgf10,Fxn,Fyn,Fzd1,Gas1,Gata1,Gata4,Gcg,Gdnf,Gclc,Gclm,Gnai2,Gnai3,Rack1,Gpx1,Gstp2,Gstp1,Hdac2,Htt,Hells,Hgf,Hif1a,Hmox1,Dnaja1,Hspb1,Icam1,Ier3,Igf1,Cd74,Ikbkg,Il10,Il1b,Il4,Il7,Il9,Il9r,Itga6,Itgav,Lgals3,Lmna,Mfn2,Sgk3,Rtkn2,Bmf,Maz,Mcl1,Mdm2,Mdm4,Mif,Mmp9,Mnt,Meis3,Muc1,Nfe2l2,Nog,Nrp1,Nr4a2,Igbp1,Pdx1,Pea15a,Serpine1,Plaur,Mapk8ip1,Psen1,Psen2,Psme3,Ptgs2,Ptpn1,Rb1,Rela,Ripk1,Uri1,Scg2,Cx3cl1,Cxcl12,Sfrp2,Siah2,Snai2,Snai1,Sod2,Src,Pycr1,Nrg1,Tcf7l2,Agap2,Prdx2,Arrb2,Nle1,Tert,G2e3,Tgfbr1,Ccar2,Tnf,Tnfaip3,Tpt1,Tnfrsf4,Tnfsf4,Kdm6a,Vdac2,Vegfa,Mrtfa,Wfs1,Wnt1,Wnt4,Xbp1,Gstp3,Yap1,Pcgf2,Stradb,Madd,Zc3hc1,Tmem161a,Atad5,Faim,Map2k5,Mapk7,Peli3,Pak5,Nanos3,Map2k1,Map3k7,Creb3l1,Ppia,Ell3,Cep63,Zfp385a,Il19,Parl,Rrm2b,Gfral,Itprip,Eno1b,Hdac1,Prkn,Bok,Acaa2,Psmd10,Nono,Sh3glb1,Higd1a,Aatf,Ybx3,Gsk3b,Park7,Marchf7,Noc2l,Sh3rf1,Fignl1,Mapk8ip2,Faiml,Herpud1,Txndc12,Ghitm,Grina,Pam16,Prelid1,Zmynd11,Lrrk2,Ndufa13,Armc10,Rffl,Caap1,Trap1,Ndufs3,Pih1d1,Pink1,Triap1,Fcmr,Ing2,Tmbim1,Fbxo7,Trim32,Bag5,Faim2,Rps6kb1,Slc25a31,Ddias,Syvn1,Opa1,Pik3cb,Slc35f6,Usp47,Nme5,Tmem14a,Bcl2l12,Nol3,Tnfrsf23,Tnfrsf22,Rnf34,Phip,Mpv17l,Wnt16,Sirt1,Hmgb2,Qars,Fgg,Kdm1a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_NEGATIVE_REGULATION_OF_APOPTOTIC_PROCESS_INVOLVED_IN_DEVELOPMENT
+SYSTEMATIC_NAME	MM11217
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEGATIVE_REGULATION_OF_APOPTOTIC_PROCESS_INVOLVED_IN_DEVELOPMENT
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that stops, prevents or reduces the frequency, rate or extent of apoptotic process involved in development. [GO_REF:0000058, GOC:TermGenie, PMID:22801495]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1904746
+FILTERED_BY_SIMILARITY	GO:1902338
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	negative regulation of apoptotic process involved in morphogenesis
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1904746
+SOURCE_MEMBERS	12162,14234,17300,18504,18510,21410,21814,22431
+GENE_SYMBOLS	Bmp7,Foxc2,Foxc1,Pax2,Pax8,Hnf1b,Tgfbr3,Wt1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_MYELOID_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM6758
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_MYELOID_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any apoptotic process in a myeloid cell, a cell of the monocyte, granulocyte, mast cell, megakaryocyte, or erythroid lineage. [CL:0000763, GOC:add, GOC:mtg_apoptosis, PMID:11292031, PMID:15330259, PMID:17133093]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0033028
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0033028
+SOURCE_MEMBERS	102595,104416,109815,11450,11491,11818,11845,12043,12505,12578,12765,12774,13856,14127,14130,14456,14460,15978,16173,16187,16193,16409,16889,16952,17260,17311,17319,18015,18707,19211,20304,20440,20583,208188,20850,20851,21833,23845,257632,26570,320404,329436,59003,66854,74769,93759
+GENE_SYMBOLS	Plekho2,Bap1,Selenos,Adipoq,Adam17,Apoh,Arf6,Bcl2,Cd44,Cdkn2a,Cxcr2,Ccr5,Epo,Fcer1g,Fcgr2b,Gas6,Gata1,Ifng,Il18,Il3,Il6,Itgam,Lipa,Anxa1,Mef2c,Kitl,Mif,Nf1,Pik3cd,Pten,Ccl5,St6gal1,Snai2,Ghsr,Stat5a,Stat5b,Thra,Clec5a,Nod2,Slc7a11,Itpkb,Gm14461,Maea,Trim35,Pik3cb,Sirt1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_MACROPHAGE_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM9835
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_MACROPHAGE_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any apoptotic process in a macrophage, a mononuclear phagocyte present in a variety of tissues. [CL:0000235, GOC:BHF, GOC:mah, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0071888
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0071888
+SOURCE_MEMBERS	102595,109815,12578,12774,17260,19211,20304,20440,208188,257632,329436,93759
+GENE_SYMBOLS	Plekho2,Selenos,Cdkn2a,Ccr5,Mef2c,Pten,Ccl5,St6gal1,Ghsr,Nod2,Gm14461,Sirt1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_LYMPHOCYTE_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM9496
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_LYMPHOCYTE_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any apoptotic process in a lymphocyte, a leukocyte commonly found in the blood and lymph that has the characteristics of a large nucleus, a neutral staining cytoplasm, and prominent heterochromatin. [CL:0000542, GOC:add, GOC:mtg_apoptosis, ISBN:0781765196]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0070227
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0070227
+SOURCE_MEMBERS	100124431,101540,103213,108655,11486,11501,11651,11847,12018,12028,12042,12043,12044,12051,12125,12144,12159,12369,12370,12484,12502,12505,12929,13347,13636,14082,14102,14103,14605,14634,14732,15251,15930,16149,16153,16183,16184,16187,16197,16453,16579,16854,16889,170770,17096,17319,17869,18439,18566,18716,18761,18950,19208,19211,19373,19766,19885,20104,20304,20442,20612,20723,20877,209488,216742,21808,21940,22059,22163,22164,22346,22418,227059,228598,243374,243910,30936,30954,320795,329581,384783,387135,387139,387195,50883,50996,56532,57432,57741,58208,60505,60533,66494,66612,68137,69169,723829,723852,723885,723891,723905,723923,723925,723926,723942,74775,751527,751549,76088,79201,80859,83945,94185
+GENE_SYMBOLS	Mir18b,Prkd2,Traf3ip2,Foxp1,Ada,Adam8,Akt1,Arg2,Bak1,Bax,Bcl10,Bcl2,Bcl2a1a,Bcl3,Bcl2l11,Blm,Bmp4,Casp7,Casp8,Cd24a,Cd3g,Cd44,Crkl,Dffa,Efna1,Fadd,Fas,Fasl,Tsc22d3,Gli3,Gpam,Hif1a,Ido1,Cd74,Il10,Il2,Il2ra,Il3,Il7r,Jak3,Kifap3,Lgals3,Lipa,Bbc3,Lyn,Mif,Myc,P2rx7,Pdcd1,Pip,Prkcq,Pnp,Ptcra,Pten,Rag1,Ripk1,Rorc,Rps6,Ccl5,St3gal1,Siglec1,Serpinb9,Aurkb,Hsh2d,Fnip1,Tgfb2,Cd27,Trp53,Tnfrsf4,Tnfsf4,Vhl,Wnt5a,Slc39a10,Ebf4,Gimap8,Nfkbid,Slc46a2,Siva1,Pkn1,Birc7,Irs2,Mir18,Mir20a,Mir19b-2,Chek2,Pdcd7,Ripk3,Zc3h8,Noc2l,Bcl11b,Il21,Cd274,Prelid1,Ormdl3,Kdelr1,Fcmr,Mir106a,Mir363,Mir93,Mir19a,Mir17,Mir20b,Mir106b,Mir25,Mir92-2,Lmbr1l,Mir19b-1,Mir92-1,Dock8,Tnfrsf23,Nfkbiz,Dnaja3,Tnfrsf21
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_LEUKOCYTE_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM9834
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_LEUKOCYTE_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any apoptotic process in a leukocyte, an achromatic cell of the myeloid or lymphoid lineages capable of ameboid movement, found in blood or other tissue. [CL:0000738, GOC:BHF, GOC:mah, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0071887
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0071887
+SOURCE_MEMBERS	100039789,100040035,100042493,100124431,100861618,100861647,100862177,101540,102595,103213,108655,109815,11486,11491,11501,11651,11847,12018,12028,12042,12043,12044,12048,12051,12125,12144,12159,12369,12370,12484,12502,12505,12578,12765,12774,12775,12929,13347,13636,14082,14102,14103,14127,14130,14456,14605,14634,14732,15163,15251,15930,15978,16149,16153,16173,16183,16184,16187,16193,16197,16409,16453,16579,16854,16889,16952,170770,17096,17260,17289,17311,17319,17869,18015,18124,18439,18566,18707,18716,18761,18829,18950,19208,19211,19373,19766,19885,20104,20304,20315,20440,20442,20612,20723,208188,20850,20877,209488,216742,21808,21940,22059,22163,22164,22346,22418,227059,228598,24047,243374,243910,257632,26362,26570,30936,30954,320404,320795,329436,329581,384783,387135,387139,387195,50883,50996,56532,57432,57741,58208,60505,60533,65959,66494,66612,68137,69169,723829,723852,723885,723891,723905,723923,723925,723926,723942,74769,74775,751527,751549,76088,76089,79201,80859,83945,93759,94185
+GENE_SYMBOLS	Gm12407,Gm2564,Ccl21b,Mir18b,Ccl19-ps1,Gm21104,Ccl21d,Prkd2,Plekho2,Traf3ip2,Foxp1,Selenos,Ada,Adam17,Adam8,Akt1,Arg2,Bak1,Bax,Bcl10,Bcl2,Bcl2a1a,Bcl2l1,Bcl3,Bcl2l11,Blm,Bmp4,Casp7,Casp8,Cd24a,Cd3g,Cd44,Cdkn2a,Cxcr2,Ccr5,Ccr7,Crkl,Dffa,Efna1,Fadd,Fas,Fasl,Fcer1g,Fcgr2b,Gas6,Tsc22d3,Gli3,Gpam,Hcls1,Hif1a,Ido1,Ifng,Cd74,Il10,Il18,Il2,Il2ra,Il3,Il6,Il7r,Itgam,Jak3,Kifap3,Lgals3,Lipa,Anxa1,Bbc3,Lyn,Mef2c,Mertk,Kitl,Mif,Myc,Nf1,Nr4a3,P2rx7,Pdcd1,Pik3cd,Pip,Prkcq,Ccl21a,Pnp,Ptcra,Pten,Rag1,Ripk1,Rorc,Rps6,Ccl5,Cxcl12,St6gal1,St3gal1,Siglec1,Serpinb9,Ghsr,Stat5a,Aurkb,Hsh2d,Fnip1,Tgfb2,Cd27,Trp53,Tnfrsf4,Tnfsf4,Vhl,Wnt5a,Slc39a10,Ebf4,Ccl19,Gimap8,Nfkbid,Nod2,Axl,Slc7a11,Slc46a2,Siva1,Itpkb,Pkn1,Gm14461,Birc7,Irs2,Mir18,Mir20a,Mir19b-2,Chek2,Pdcd7,Ripk3,Zc3h8,Noc2l,Bcl11b,Il21,Cd274,Ccl19-ps3,Prelid1,Ormdl3,Kdelr1,Fcmr,Mir106a,Mir363,Mir93,Mir19a,Mir17,Mir20b,Mir106b,Mir25,Mir92-2,Pik3cb,Lmbr1l,Mir19b-1,Mir92-1,Dock8,Rapgef2,Tnfrsf23,Nfkbiz,Dnaja3,Sirt1,Tnfrsf21
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_OSMOTIC_STRESS
+SYSTEMATIC_NAME	MM5187
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_OSMOTIC_STRESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a cell. The pathway is induced in response to changes in intracellular ion homeostasis, and ends when the execution phase of apoptosis is triggered. [GOC:mtg_apoptosis, PMID:11454444, PMID:16483738]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0008627
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0008627
+SOURCE_MEMBERS	110876,12015,12062,12367,13856,14479,19225,212937,56449
+GENE_SYMBOLS	Scn2a,Bad,Bdkrb2,Casp3,Epo,Usp15,Ptgs2,Tifab,Ybx3
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_OXIDATIVE_STRESS
+SYSTEMATIC_NAME	MM5189
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_OXIDATIVE_STRESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a cell. The pathway is induced in response to oxidative stress, a state often resulting from exposure to high levels of reactive oxygen species, and ends when the execution phase of apoptosis is triggered. [GOC:ai, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0008631
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0008631
+SOURCE_MEMBERS	11545,11669,11911,12043,12387,13078,13163,14360,14362,14463,14694,14775,15251,15507,16153,16452,17210,17279,17762,18024,18453,18854,19125,19823,20655,20656,209027,223255,22361,22408,228026,237038,23939,26398,26408,268373,271639,50754,50873,52521,53610,56085,56426,57320,59041,65106,66593,66787,68015,68943,69754,70369,71514,72565,75533,78688,83433,93759
+GENE_SYMBOLS	Parp1,Aldh2,Atf4,Bcl2,Ctnnb1,Cyp1b1,Daxx,Fyn,Fzd1,Gata4,Rack1,Gpx1,Hif1a,Hspb1,Il10,Jak2,Mcl1,Melk,Mapt,Nfe2l2,P4hb,Pml,Prodh,Rnf7,Sod1,Sod2,Pycr1,Stk24,Vnn1,Wnt1,Pdk1,Nox1,Mapk7,Map2k4,Map3k5,Ppia,Adcy10,Fbxw7,Prkn,Zfp622,Nono,Ubqln1,Pdcd10,Park7,Stk25,Arl6ip5,Diablo,Gskip,Trap1,Pink1,Fbxo7,Bag5,Sfpq,Uaca,Nme5,Nol3,Trem2,Sirt1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_HYPOXIA
+SYSTEMATIC_NAME	MM11366
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_HYPOXIA
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a cell. The pathway is induced in response to hypoxia (lowered oxygen tension). Hypoxia, defined as a decline in O2 levels below normoxic levels of 20.8 - 20.95%, results in metabolic adaptation at both the cellular and organismal level. The pathway ends when the execution phase of apoptosis is triggered. [GOC:BHF, GOC:mtg_apoptosis, GOC:rl, PMID:20436456]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1990144
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1990144
+SOURCE_MEMBERS	110213,11909,12176,12282,13806,22059,22289,26395,433182,68943,68949,74769,78688
+GENE_SYMBOLS	Tmbim6,Atf2,Bnip3,Hyou1,Eno1,Trp53,Kdm6a,Map2k1,Eno1b,Pink1,Zfas1,Pik3cb,Nol3
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_HYDROGEN_PEROXIDE
+SYSTEMATIC_NAME	MM7283
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_HYDROGEN_PEROXIDE
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a cell. The pathway is induced in response to hydrogen peroxide (H2O2). [GOC:bf, GOC:PARL]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0036481
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0036481
+SOURCE_MEMBERS	14694,26398,56426,57320,59041,68015,68943
+GENE_SYMBOLS	Rack1,Map2k4,Pdcd10,Park7,Stk25,Trap1,Pink1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS
+SYSTEMATIC_NAME	MM9457
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a cell. The pathway is induced in response to a stimulus indicating endoplasmic reticulum (ER) stress, and ends when the execution phase of apoptosis is triggered. ER stress usually results from the accumulation of unfolded or misfolded proteins in the ER lumen. [GOC:mah, GOC:mtg_apoptosis, PMID:18701708]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0070059
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0070059
+SOURCE_MEMBERS	109815,110213,11783,11820,11911,11937,12018,12028,12043,12048,12282,12364,12367,12371,12608,12913,13198,13666,14130,16151,16334,16438,170770,17973,17974,18609,18854,19246,19255,20747,22059,22393,22433,224727,228775,26408,26427,26918,26926,26943,320709,50527,50873,51800,53313,53323,56637,57320,58801,64209,66073,66168,66725,66825,66861,67397,69065,69232,69601,71576,74126,74143,75770,76072,78943,80795,93759
+GENE_SYMBOLS	Selenos,Tmbim6,Apaf1,App,Atf4,Atp2a1,Bak1,Bax,Bcl2,Bcl2l1,Hyou1,Casp12,Casp3,Casp9,Cebpb,Creb3,Ddit3,Eif2ak3,Fcgr2b,Ikbkg,Ins2,Itpr1,Bbc3,Nck1,Nck2,Pdx1,Pml,Ptpn1,Ptpn2,Spop,Trp53,Wfs1,Xbp1,Bag6,Trib3,Map3k5,Creb3l1,Ern2,Aifm1,Serinc3,Tmem117,Ero1a,Prkn,Bok,Atp2a3,Ube2k,Gsk3b,Park7,Pmaip1,Herpud1,Txndc12,Grina,Lrrk2,Rnf186,Dnajc10,Erp29,Chac1,Qrich1,Dab2ip,Tmem238l,Syvn1,Opa1,Brsk2,Rnf183,Ern1,Selenok,Sirt1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_DNA_DAMAGE_BY_P53_CLASS_MEDIATOR
+SYSTEMATIC_NAME	MM7511
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_DNA_DAMAGE_BY_P53_CLASS_MEDIATOR
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a cell. The pathway is induced by the cell cycle regulator phosphoprotein p53, or an equivalent protein, in response to the detection of DNA damage, and ends when the execution phase of apoptosis is triggered. [GOC:go_curators, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0042771
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0042771
+SOURCE_MEMBERS	106021,12051,12190,12505,12575,15257,15258,15387,15951,16149,170770,17319,17685,17829,18854,19941,22059,22061,22062,224727,235323,237877,26931,269344,27280,29813,328572,50883,56312,57438,58801,66354,66626,66824,66940,67941,68048,68428,68539,69076,69181,74747,75736,93759,99982
+GENE_SYMBOLS	Topors,Bcl3,Brca2,Cd44,Cdkn1a,Hipk1,Hipk2,Hnrnpk,Ifi204,Cd74,Bbc3,Mif,Msh2,Muc1,Pml,Rpl26,Trp53,Trp63,Trp73,Bag6,Usp28,Atad5,Ppp2r5c,Ell3,Phlda3,Zfp385a,Ep300,Chek2,Nupr1,Marchf7,Pmaip1,Snw1,Cdip1,Pycard,Shisa5,Rps27l,Aen,Steap3,Tmem109,Triap1,Dyrk2,Ddit4,Bcl2l12,Sirt1,Kdm1a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_DNA_DAMAGE
+SYSTEMATIC_NAME	MM5188
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_DNA_DAMAGE
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a cell. The pathway is induced by the detection of DNA damage, and ends when the execution phase of apoptosis is triggered. [GOC:go_curators, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0008630
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0008630
+SOURCE_MEMBERS	106021,11920,12015,12018,12028,12043,12044,12045,12046,12047,12048,12049,12050,12051,12122,12125,12189,12190,12366,12371,12505,12575,12581,12759,12778,12925,13555,13663,13836,15248,15257,15258,15368,15387,15937,15951,16149,170770,17193,17210,17319,17350,17685,17688,17829,17869,18708,18854,18950,18970,19090,19367,19941,20315,20482,20583,20613,20656,219158,21926,21937,21938,22038,22059,22061,22062,22070,224727,22590,234371,235323,237877,26931,269344,27050,27280,29813,319955,328572,329679,50755,50883,51800,55948,56312,56428,56489,57438,58801,59004,64113,64704,66354,66626,66824,66940,67941,67991,68048,68428,68539,69076,69181,69807,72565,73181,74041,74747,74996,75736,93759,98558,99982
+GENE_SYMBOLS	Topors,Atm,Bad,Bak1,Bax,Bcl2,Bcl2a1a,Bcl2a1b,Bcl2a1c,Bcl2a1d,Bcl2l1,Bcl2l10,Bcl2l2,Bcl3,Bid,Bcl2l11,Brca1,Brca2,Casp2,Casp9,Cd44,Cdkn1a,Cdkn2d,Clu,Ackr3,Crip1,E2f1,Ei24,Epha2,Hic1,Hipk1,Hipk2,Hmox1,Hnrnpk,Ier3,Ifi204,Cd74,Bbc3,Mbd4,Mcl1,Mif,Mlh1,Msh2,Msh6,Muc1,Myc,Pik3r1,Pml,Pnp,Polb,Prkdc,Rad9a,Rpl26,Cxcl12,Skil,Snai2,Snai1,Sod2,Ccar2,Tnf,Tnfrsf1a,Tnfrsf1b,Plscr1,Trp53,Trp63,Trp73,Tpt1,Bag6,Xpa,Tmem161a,Usp28,Atad5,Ppp2r5c,Ell3,Rps3,Phlda3,Zfp385a,Ercc6,Ep300,Fnip2,Fbh1,Chek2,Bok,Sfn,Nupr1,Mtch2,Ikbke,Marchf7,Pmaip1,Pias4,Moap1,Htra2,Snw1,Cdip1,Pycard,Shisa5,Rps27l,Nacc2,Aen,Steap3,Tmem109,Triap1,Dyrk2,Trim32,Uaca,Nfatc4,Ddias,Ddit4,Usp47,Bcl2l12,Sirt1,Mael,Kdm1a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_BY_P53_CLASS_MEDIATOR
+SYSTEMATIC_NAME	MM9912
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_BY_P53_CLASS_MEDIATOR
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a cell. The pathway is induced by the cell cycle regulator phosphoprotein p53, or an equivalent protein, and ends when the execution phase of apoptosis is triggered. [GOC:mah, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0072332
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0072332
+SOURCE_MEMBERS	101867,106021,106298,107771,108705,12028,12051,12062,12190,12368,12505,12575,13207,13555,13871,13924,14198,14479,15254,15257,15258,15387,15951,16149,170770,17246,17248,17319,17685,17701,17829,17869,18432,18604,18854,18996,18997,19941,20115,20869,209456,212937,21981,22059,22061,22062,22187,224727,235323,237877,241494,242705,245527,26931,269344,27280,28135,29813,328572,382985,50873,50883,51800,54673,56312,56642,57438,57748,58801,64058,66354,66626,66824,66940,67025,67211,67941,68048,68428,68539,69076,69181,74747,75736,80707,93759,99982
+GENE_SYMBOLS	Rrp8,Topors,Rrn3,Bmyc,Pttg1ip,Bax,Bcl3,Bdkrb2,Brca2,Casp6,Cd44,Cdkn1a,Ddx5,E2f1,Ercc2,Ptprv,Fhit,Usp15,Hint1,Hipk1,Hipk2,Hnrnpk,Ifi204,Cd74,Bbc3,Mdm2,Mdm4,Mif,Msh2,Msx1,Muc1,Myc,Mybbp1a,Pdk2,Pml,Pou4f1,Pou4f2,Rpl26,Rps7,Stk11,Trp53bp2,Tifab,Ppp1r13b,Trp53,Trp63,Trp73,Ubb,Bag6,Usp28,Atad5,Zfp385b,E2f2,Eda2r,Ppp2r5c,Ell3,Phlda3,Cep63,Zfp385a,Ep300,Rrm2b,Prkn,Chek2,Bok,Sh3glb1,Nupr1,Ankrd2,Marchf7,Jmy,Pmaip1,Perp,Snw1,Cdip1,Pycard,Shisa5,Rpl11,Armc10,Rps27l,Aen,Steap3,Tmem109,Triap1,Dyrk2,Ddit4,Bcl2l12,Wwox,Sirt1,Kdm1a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM10236
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The series of molecular signals in which an intracellular signal is conveyed to trigger the apoptotic death of a cell. The pathway starts with reception of an intracellular signal (e.g. DNA damage, endoplasmic reticulum stress, oxidative stress etc.), and ends when the execution phase of apoptosis is triggered. The intrinsic apoptotic signaling pathway is crucially regulated by permeabilization of the mitochondrial outer membrane (MOMP). [GOC:mtg_apoptosis, GOC:yaf, PMID:11919192, PMID:17340152, PMID:18852119]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0097193
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0097193
+SOURCE_MEMBERS	101867,105675,106021,106298,106389,107771,108705,109815,110213,110876,110957,11545,11651,11669,117198,11783,11820,11909,11911,11920,11937,12015,12018,12028,12043,12044,12045,12046,12047,12048,12049,12050,12051,12062,12122,12125,12176,12189,12190,12235,12282,12364,12366,12367,12368,12371,12387,12389,12505,12575,12581,12608,12759,12778,12913,12925,13063,13067,13078,13143,13163,13198,13205,13207,13555,13663,13666,13806,13836,13856,13871,13924,14130,14198,14360,14362,14463,14479,14526,14694,14775,15182,15201,15248,15251,15254,15257,15258,15368,15387,15461,15502,15507,15937,15951,16149,16151,16153,16334,16438,16452,16818,170770,170799,17193,17210,17246,17248,17279,17319,17350,17395,17685,17688,17701,17762,17829,17869,17973,17974,18024,18095,18432,18453,18604,18609,18708,18750,18793,18854,18950,18952,18970,18996,18997,19090,19099,19125,19225,19246,19255,19367,19777,19823,19941,20115,20201,20202,20315,20437,20438,20482,20583,20613,20655,20656,20747,20779,20869,209027,209456,212937,21343,216805,217558,217845,219158,21926,21937,21938,21981,22038,22059,22061,22062,22070,22187,22289,223255,22334,22361,22393,22408,22433,224727,22590,228026,228775,234371,235323,237038,237313,237877,23939,23992,241494,242705,245527,26395,26398,26408,26427,268373,26918,26926,26931,269344,26941,26943,27050,27061,271639,27280,27354,28135,29813,319955,320709,328572,329244,329679,381038,382985,433182,433759,50527,50754,50755,50873,50883,51800,52521,53313,53323,53610,54673,54711,54722,55948,56072,56085,56208,56312,56426,56428,56449,56489,56532,56637,56642,56772,57320,57438,57741,57748,58801,59004,59041,60530,64058,64113,64209,64704,65106,66073,66168,66354,66437,66461,66593,66626,66725,66787,66824,66825,66861,66940,67025,67184,67211,67397,67941,67991,68015,68020,68048,68349,68428,68539,68606,68943,68949,69065,69076,69181,69232,69601,69754,69807,70369,71514,71576,72287,72565,72567,73181,74006,74041,74126,74143,74256,74747,74769,74996,75533,75736,75770,76072,76571,78688,78943,80707,80795,81535,83433,93759,98558,99982
+GENE_SYMBOLS	Rrp8,Ppif,Topors,Rrn3,Eaf2,Bmyc,Pttg1ip,Selenos,Tmbim6,Scn2a,D1Pas1,Parp1,Akt1,Aldh2,Ivns1abp,Apaf1,App,Atf2,Atf4,Atm,Atp2a1,Bad,Bak1,Bax,Bcl2,Bcl2a1a,Bcl2a1b,Bcl2a1c,Bcl2a1d,Bcl2l1,Bcl2l10,Bcl2l2,Bcl3,Bdkrb2,Bid,Bcl2l11,Bnip3,Brca1,Brca2,Bub1,Hyou1,Casp12,Casp2,Casp3,Casp6,Casp9,Ctnnb1,Cav1,Cd44,Cdkn1a,Cdkn2d,Cebpb,Clu,Ackr3,Creb3,Crip1,Cycs,Cyct,Cyp1b1,Dapk2,Daxx,Ddit3,Ddx3x,Ddx5,E2f1,Ei24,Eif2ak3,Eno1,Epha2,Epo,Ercc2,Ptprv,Fcgr2b,Fhit,Fyn,Fzd1,Gata4,Usp15,Gcg,Rack1,Gpx1,Hdac2,Hells,Hic1,Hif1a,Hint1,Hipk1,Hipk2,Hmox1,Hnrnpk,Hras,Dnaja1,Hspb1,Ier3,Ifi204,Cd74,Ikbkg,Il10,Ins2,Itpr1,Jak2,Lck,Bbc3,Rtkn2,Mbd4,Mcl1,Mdm2,Mdm4,Melk,Mif,Mlh1,Mmp9,Msh2,Msh6,Msx1,Mapt,Muc1,Myc,Nck1,Nck2,Nfe2l2,Nkx3-1,Mybbp1a,P4hb,Pdk2,Pdx1,Pik3r1,Prkca,Plaur,Pml,Pnp,Septin4,Polb,Pou4f1,Pou4f2,Prkdc,Mapk8ip1,Prodh,Ptgs2,Ptpn1,Ptpn2,Rad9a,Uri1,Rnf7,Rpl26,Rps7,S100a8,S100a9,Cxcl12,Siah1a,Siah1b,Skil,Snai2,Snai1,Sod1,Sod2,Spop,Src,Stk11,Pycr1,Trp53bp2,Tifab,Taf6,Flcn,G2e3,Ifi27l2b,Ccar2,Tnf,Tnfrsf1a,Tnfrsf1b,Ppp1r13b,Plscr1,Trp53,Trp63,Trp73,Tpt1,Ubb,Kdm6a,Stk24,Vdac2,Vnn1,Wfs1,Wnt1,Xbp1,Bag6,Xpa,Pdk1,Trib3,Tmem161a,Usp28,Nox1,Il20ra,Atad5,Mapk7,Prkra,Zfp385b,E2f2,Eda2r,Map2k1,Map2k4,Map3k5,Creb3l1,Ppia,Ern2,Aifm1,Ppp2r5c,Ell3,Nherf1,Serinc3,Rps3,Bcap31,Adcy10,Phlda3,Nbn,Cep63,Zfp385a,Ercc6,Tmem117,Ep300,Il19,Fnip2,Parl,Rrm2b,Eno1b,Hdac1,Ero1a,Fbxw7,Fbh1,Prkn,Chek2,Bok,Zfp622,Atp2a3,Ube2k,Nono,Sh3glb1,Plagl2,Gsdme,Sfn,Lgals12,Ubqln1,Becn1,Nupr1,Pdcd10,Mtch2,Ybx3,Ikbke,Ripk3,Gsk3b,Ankrd2,Mllt11,Park7,Marchf7,Noc2l,Jmy,Pmaip1,Pias4,Stk25,Fignl1,Perp,Moap1,Herpud1,Htra2,Arl6ip5,Txndc12,Grina,Snw1,Fis1,Ptpmt1,Diablo,Cdip1,Lrrk2,Gskip,Pycard,Rnf186,Dnajc10,Shisa5,Rpl11,Ndufa13,Armc10,Erp29,Rps27l,Nacc2,Trap1,Coa8,Aen,Ndufs3,Steap3,Tmem109,Ppm1f,Pink1,Zfas1,Chac1,Triap1,Dyrk2,Qrich1,Dab2ip,Fbxo7,Trim32,Bag5,Sfpq,Tmem238l,Plekhf1,Uaca,Bclaf1,Nfatc4,Dnm1l,Ddias,Syvn1,Opa1,Cyld,Ddit4,Pik3cb,Usp47,Nme5,Bcl2l12,Brsk2,Rnf183,Styxl1,Nol3,Ern1,Wwox,Selenok,Sgpp1,Trem2,Sirt1,Mael,Kdm1a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_INFLAMMATORY_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM4910
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_INFLAMMATORY_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any apoptotic process in an inflammatory cell, any cell participating in the inflammatory response to a foreign substance e.g. neutrophil, macrophage. [GOC:jl, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0006925
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0006925
+SOURCE_MEMBERS	102595,109815,12505,12578,12765,12774,14102,14103,14130,15361,15978,16173,16193,16409,16952,17260,18707,19211,20304,20440,208188,230709,257632,26570,320404,329436,74769,93759
+GENE_SYMBOLS	Plekho2,Selenos,Cd44,Cdkn2a,Cxcr2,Ccr5,Fas,Fasl,Fcgr2b,Hmga1,Ifng,Il18,Il6,Itgam,Anxa1,Mef2c,Pik3cd,Pten,Ccl5,St6gal1,Ghsr,Zmpste24,Nod2,Slc7a11,Itpkb,Gm14461,Pik3cb,Sirt1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_VIA_DEATH_DOMAIN_RECEPTORS
+SYSTEMATIC_NAME	MM5186
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_VIA_DEATH_DOMAIN_RECEPTORS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The series of molecular signals in which a signal is conveyed from the cell surface to trigger the apoptotic death of a cell. The pathway starts with a ligand binding to a death domain receptor on the cell surface, and ends when the execution phase of apoptosis is triggered. [GOC:mah, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0008625
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0008625
+SOURCE_MEMBERS	110135,110157,110957,11910,12015,12028,12043,12048,12049,12070,12167,12189,12370,12633,13163,13205,14082,14084,14102,14103,14155,14161,14775,15234,15368,15894,16173,16854,17153,18015,18049,18611,18708,18787,19165,19211,19878,20319,20375,20377,20482,20661,20684,20909,217356,21825,21859,21926,21929,21933,21945,228355,23873,26885,29810,414801,56274,56486,56637,57320,57913,58231,58801,623459,64113,66839,67338,67379,67755,69035,69601,69635,69660,71861,72393,73689,78688,79201,79202,80751,83925,97165,99571
+GENE_SYMBOLS	Fgb,Raf1,D1Pas1,Atf3,Bad,Bax,Bcl2,Bcl2l1,Bcl2l10,Bex3,Bmpr1b,Brca1,Casp8,Cflar,Daxx,Ddx3x,Fadd,Faf1,Fas,Fasl,Fem1b,Fga,Gpx1,Hgf,Hmox1,Icam1,Il18,Lgals3,Mal,Nf1,Ngf,Pea15a,Pik3r1,Serpine1,Psen2,Pten,Rock2,Sfrp2,Spi1,Sfrp1,Skil,Sort1,Sp100,Stx4a,Tmc8,Thbs1,Timp3,Tnf,Tnfaip3,Tnfrsf10b,Dedd,Madd,Faim,Casp8ap2,Bag3,Itprip,Stk3,Gabarap,Gsk3b,Park7,Pidd1,Stk4,Pmaip1,Faiml,Moap1,Dele1,Rffl,Dedd2,Ddx47,Zdhhc3,Dab2ip,Dapk1,Tmbim1,Zswim2,Faim2,Bloc1s2,Nol3,Tnfrsf23,Tnfrsf22,Rnf34,Trps1,Hmgb2,Fgg
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM10235
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The series of molecular signals in which a signal is conveyed from the cell surface to trigger the apoptotic death of a cell. The pathway starts with either a ligand binding to a cell surface receptor, or a ligand being withdrawn from a cell surface receptor (e.g. in the case of signaling by dependence receptors), and ends when the execution phase of apoptosis is triggered. [GOC:mtg_apoptosis, GOC:yaf, PMID:17340152]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0097191
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0097191
+SOURCE_MEMBERS	100042625,107449,110135,110157,110957,11477,11479,11546,11606,11609,11820,11835,11910,12015,12018,12028,12042,12043,12044,12045,12046,12047,12048,12049,12050,12070,12122,12125,12159,12167,12189,12211,12366,12370,12385,12389,12399,12421,12633,12824,12981,13043,13132,13144,13163,13166,13205,13867,14048,14049,14050,14051,14082,14084,14102,14103,14155,14161,14165,14182,14184,142980,14360,14373,14451,14460,14573,14629,14630,14775,14827,14869,14870,15194,15234,15257,15368,15587,15894,15978,16000,16159,16173,16175,16176,16183,16187,16189,16196,16323,16403,16410,16452,16453,16668,16691,16819,16854,16905,16994,17000,170755,17127,17153,17210,17311,17346,17347,18015,18049,18186,18439,18611,18708,18787,18854,19045,19165,19192,19211,19264,19697,19713,19766,19878,20254,20312,20319,20375,20377,20439,20482,20583,20612,20661,20684,20779,20909,211323,21416,216439,21672,217356,21752,21803,21808,21812,21825,21859,21898,21899,21926,21929,21933,21938,21940,21944,21945,21948,22029,22030,22035,22163,22164,22339,224105,225884,22601,227154,228355,232679,23873,23938,23939,240518,24105,241656,26885,27279,29810,30954,329244,404194,414801,433256,450219,51792,51795,51800,56274,56484,56486,56637,56772,57320,57913,58231,58801,59009,606496,623459,64113,64294,64704,65020,66505,66813,66824,66839,67184,67338,67379,67588,67755,69035,69169,69601,69635,69660,71609,71861,72393,72508,73689,73699,74256,75736,76854,77125,78688,79201,79202,80707,80751,80797,80859,81535,83925,83946,97165,97998,99571
+GENE_SYMBOLS	Gstp-ps,Unc5b,Fgb,Raf1,D1Pas1,Acvr1,Acvr1b,Parp2,Agt,Agtr2,App,Ar,Atf3,Bad,Bak1,Bax,Bcl10,Bcl2,Bcl2a1a,Bcl2a1b,Bcl2a1c,Bcl2a1d,Bcl2l1,Bcl2l10,Bcl2l2,Bex3,Bid,Bcl2l11,Bmp4,Bmpr1b,Brca1,Birc6,Casp2,Casp8,Ctnna1,Cav1,Runx3,Rb1cc1,Cflar,Col2a1,Csf2,Cttn,Dab2,Dapk3,Daxx,Dbh,Ddx3x,Erbb3,Eya1,Eya2,Eya3,Eya4,Fadd,Faf1,Fas,Fasl,Fem1b,Fga,Fgf10,Fgfr1,Fgfr3,Tlr3,Fyn,G0s2,Gas1,Gata1,Gdnf,Gclc,Gclm,Gpx1,Pdia3,Gstp2,Gstp1,Htt,Hgf,Hipk1,Hmox1,Hyal2,Icam1,Ifng,Igf1,Il12a,Il18,Il1a,Il1b,Il2,Il3,Il4,Il7,Inhba,Itga6,Itgav,Jak2,Jak3,Krt18,Krt8,Lcn2,Lgals3,Lmna,Ltb,Ltbr,Sgk3,Smad3,Mal,Mcl1,Kitl,Mknk1,Mknk2,Nf1,Ngf,Nrp1,P2rx7,Pea15a,Pik3r1,Serpine1,Pml,Ppp1ca,Psen2,Psme3,Pten,Ptprc,Rela,Ret,Ripk1,Rock2,Scg2,Cx3cl1,Sfrp2,Spi1,Sfrp1,Siah2,Skil,Snai2,Siglec1,Sort1,Sp100,Src,Stx4a,Nrg1,Tcf7l2,Agap2,Prdx2,Tmc8,Tert,Tgfb1,Tgfb2,Tgfbr1,Thbs1,Timp3,Tlr4,Tlr6,Tnf,Tnfaip3,Tnfrsf10b,Tnfrsf1b,Cd27,Tnfsf12,Dedd,Cd70,Traf1,Traf2,Tnfsf10,Tnfrsf4,Tnfsf4,Vegfa,Pak2,Gstp3,Yap1,Stradb,Madd,Zc3hc1,Faim,Map2k5,Mapk7,Peli3,Rbck1,Pak5,Casp8ap2,Tnfrsf12a,Bag3,Siva1,Il19,Gfral,Itprip,Acsl5,Gsdma3,Ppp2r1a,Srpx,Bok,Stk3,Foxo3,Gabarap,Gsk3b,Mllt11,Park7,Pidd1,Stk4,Pmaip1,Sh3rf1,Gsk3a,Faiml,Moap1,Itm2c,Htra2,Zfp110,Zmynd11,Bcl2l14,Pycard,Dele1,Ndufa13,Rffl,Dedd2,Rnf41,Ddx47,Zdhhc3,Fcmr,Dab2ip,Dapk1,Tmbim1,Tradd,Zswim2,Faim2,Rps6kb1,Bloc1s2,Ppp2r1b,Cyld,Bcl2l12,Gper1,Il33,Nol3,Tnfrsf23,Tnfrsf22,Wwox,Rnf34,Clca3a2,Nfkbiz,Sgpp1,Trps1,Phip,Hmgb2,Deptor,Fgg
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_EXECUTION_PHASE_OF_APOPTOSIS
+SYSTEMATIC_NAME	MM10237
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_EXECUTION_PHASE_OF_APOPTOSIS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	A stage of the apoptotic process that starts with the controlled breakdown of the cell through the action of effector caspases or other effector molecules (e.g. cathepsins, calpains etc.). Key steps of the execution phase are rounding-up of the cell, retraction of pseudopodes, reduction of cellular volume (pyknosis), chromatin condensation, nuclear fragmentation (karyorrhexis), plasma membrane blebbing and fragmentation of the cell into apoptotic bodies. When the execution phase is completed, the cell has died. [GOC:mtg_apoptosis, PMID:21760595]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0097194
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0097194
+SOURCE_MEMBERS	100463512,105722,106025,108138,11651,11783,12028,12042,12048,12367,12369,12370,12484,12578,12683,12684,12766,13347,13368,13421,13423,13804,14089,14103,14311,14365,14464,14526,15499,16009,16193,170770,18828,192119,19223,208194,209456,21405,216965,219149,21973,22038,22059,22067,223255,224105,228355,228787,230103,230674,230738,236732,245944,26918,26926,26927,269275,319581,330409,381246,381560,497097,50768,51800,53619,56215,56629,64383,66454,67338,67379,72168,76854,80280,80751,80859
+GENE_SYMBOLS	Gm20594,Ano6,Sharpin,Xrcc4,Akt1,Apaf1,Bax,Bcl10,Bcl2l1,Casp3,Casp7,Casp8,Cd24a,Cdkn2a,Cidea,Cideb,Cxcr3,Dffa,Dffb,Dnase1l3,Dnase2a,Endog,Fap,Fasl,Cidec,Fzd3,Gata5,Gcg,Hsf1,Igfbp3,Il6,Bbc3,Plscr2,Dicer1,Ptgis,Exog,Trp53bp2,Hnf1a,Taok1,Xkr6,Top2a,Plscr1,Trp53,Trpc5,Stk24,Pak2,Madd,Xkr7,Npr2,Kdm4a,Zc3h12a,Rbm10,Vps54,Ern2,Aifm1,Foxl2,Acvr1c,Xkr5,Cecr2,Xkr9,Xkr8,Xkr4,Dlc1,Bok,Blcap,Acin1,Dnase2b,Sirt2,Nmnat1,Rffl,Dedd2,Aifm3,Gper1,Cdk5rap3,Rnf34,Nfkbiz
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_B_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM4067
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_B_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any apoptotic process in a B cell, a lymphocyte of B lineage with the phenotype CD19-positive and capable of B cell mediated immunity. [CL:0000236, GOC:add, GOC:mtg_apoptosis, ISBN:0781735149]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0001783
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0001783
+SOURCE_MEMBERS	100124431,103213,108655,11486,12018,12028,12042,12043,12044,12484,12505,12929,16149,16153,16183,16187,17096,17319,17869,18566,19211,20877,209488,216742,227059,320795,384783,387135,387139,387195,57741,60505,66612,723829,723852,723885,723891,723905,723923,723925,723926,723942,751527,751549,80859,94185
+GENE_SYMBOLS	Mir18b,Traf3ip2,Foxp1,Ada,Bak1,Bax,Bcl10,Bcl2,Bcl2a1a,Cd24a,Cd44,Crkl,Cd74,Il10,Il2,Il3,Lyn,Mif,Myc,Pdcd1,Pten,Aurkb,Hsh2d,Fnip1,Slc39a10,Pkn1,Irs2,Mir18,Mir20a,Mir19b-2,Noc2l,Il21,Ormdl3,Mir106a,Mir363,Mir93,Mir19a,Mir17,Mir20b,Mir106b,Mir25,Mir92-2,Mir19b-1,Mir92-1,Nfkbiz,Tnfrsf21
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM10234
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The series of molecular signals which triggers the apoptotic death of a cell. The pathway starts with reception of a signal, and ends when the execution phase of apoptosis is triggered. [GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0097190
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0097190
+SOURCE_MEMBERS	100042424,100042625,101867,103172,103844,104002,105675,106021,106298,106389,106759,107449,107771,107869,108705,109815,110135,110157,110175,110213,110862,110876,110957,11477,114774,11479,11540,11545,11546,11606,11609,11651,11669,117066,117198,11739,11740,11749,11783,11820,11835,11909,11910,11911,11920,11937,11977,11983,11998,12015,12018,12028,12042,12043,12044,12045,12046,12047,12048,12049,12050,12051,12062,12064,12070,12122,12123,12124,12125,12151,12159,12167,12176,12177,12189,12190,12211,12235,12282,12323,12364,12366,12367,12368,12370,12371,12385,12387,12389,12399,12421,12424,12484,12487,12501,12505,12507,12537,12575,12581,12608,12633,12684,12759,12778,12824,12905,12913,12918,12925,12981,13032,13036,13038,13039,13040,13043,13051,13063,13067,13078,13132,13143,13144,13163,13166,13198,13205,13207,13555,13663,13666,13806,13836,13856,13867,13871,13924,13983,14048,14049,14050,14051,14082,14084,14102,14103,14130,14155,14161,14165,14182,14184,14198,14297,142980,14360,14362,14373,14451,14460,14463,14479,14526,14573,14629,14630,14678,14679,14694,14775,14827,14869,14870,15182,15194,15201,15234,15248,15251,15254,15257,15258,15368,15387,15461,15502,15507,15587,15894,15937,15951,15977,15978,16000,16149,16151,16153,16159,16173,16175,16176,16183,16187,16189,16196,16198,16199,16323,16324,16334,16403,16410,16438,16452,16453,16476,16536,16668,16691,16818,16819,16854,16905,16994,17000,170731,170755,170770,170799,17127,17153,171543,17188,17193,17210,17246,17248,17279,17311,17319,17346,17347,17350,17395,17428,17537,17685,17688,17701,17762,17829,17869,17973,17974,18015,18024,18049,18053,18095,18121,18186,18227,18413,18432,18438,18439,18453,18518,18604,18609,18611,18708,18750,18753,18787,18793,18854,18858,18950,18952,18970,18996,18997,19015,19045,19090,19099,19125,19164,19165,19192,19211,19223,19225,19246,19255,19264,19367,19645,19697,19713,19766,19777,19823,19878,19941,20115,20201,20202,20254,20312,20315,20319,20375,20377,20397,20423,20437,20438,20439,20482,20583,20612,20613,20655,20656,20661,20684,20737,20747,20779,20869,209027,20909,209456,211323,212937,21343,21416,214639,214952,215114,216439,21672,216805,216869,217011,217356,21752,217558,217845,21803,21808,21812,21825,218275,21859,21898,21899,219158,21926,21929,21933,21937,21938,21940,21944,21945,21948,21981,21987,22029,22030,22035,22038,22059,22061,22062,22070,22163,22164,22187,22242,22289,223255,22334,22337,22339,223453,22346,22361,223701,223870,22393,22408,224105,22417,22418,22433,224619,224727,225884,22590,22601,22654,22658,227154,228026,228355,228775,232679,234371,235323,237038,237313,237877,23856,23873,23938,23939,23992,240518,24105,241494,241656,242705,244551,245527,246735,26395,26398,26408,26409,26419,26420,26427,268373,26885,26898,26918,26926,26931,269344,26941,26943,27050,27061,271639,27279,27280,27354,28135,29810,29813,29816,30954,319146,319955,320709,328572,329244,329679,380705,381038,382985,404194,414801,433182,433256,433294,433759,450219,50527,50754,50755,50873,50883,50996,51792,51795,51800,52521,52538,52668,53313,53323,53357,53380,53610,54611,54673,54711,54722,55948,56072,56085,56092,56094,56208,56274,56295,56312,56321,56330,56426,56428,56449,56484,56486,56489,56532,56637,56642,56772,56835,57320,57438,57741,57748,57913,58231,58518,58801,59004,59009,59040,59041,60530,60597,606496,623459,63958,64058,64113,64139,64209,64294,64704,65020,65106,66073,66092,66143,66168,66262,66354,66437,66449,66461,66494,66505,66525,66593,66626,66725,66787,66813,66824,66825,66839,66861,66940,67025,67184,67211,67338,67379,67397,67588,67755,67770,67941,67991,68015,68020,68048,68349,68350,68428,68539,68606,68845,68943,68949,69035,69065,69076,69169,69181,69232,69260,69601,69635,69660,69714,69754,69807,70186,70202,70310,70369,71514,71576,71609,71861,72287,72393,72508,72565,72567,73181,73333,73689,73699,74006,74041,74126,74143,74256,74682,74747,74769,74919,74996,75533,75712,75734,75736,75770,76072,76571,76747,76854,76933,77125,78688,78943,79201,79202,79263,80707,80751,80795,80797,80859,81535,83433,83925,83946,93734,93735,93759,94043,94275,97165,97541,97998,98558,99571,99982
+GENE_SYMBOLS	Pdcd5-ps,Gstp-ps,Rrp8,Chchd10,Inca1,Ctsq,Ppif,Topors,Rrn3,Eaf2,Ticam1,Unc5b,Bmyc,Cth,Pttg1ip,Selenos,Fgb,Raf1,Ggct,Tmbim6,Kcnq3,Scn2a,D1Pas1,Acvr1,Pawr,Acvr1b,Adora2a,Parp1,Parp2,Agt,Agtr2,Akt1,Aldh2,Cts3,Ivns1abp,Slc25a4,Slc25a5,Anxa6,Apaf1,App,Ar,Atf2,Atf3,Atf4,Atm,Atp2a1,Atp7a,Atpif1,Avp,Bad,Bak1,Bax,Bcl10,Bcl2,Bcl2a1a,Bcl2a1b,Bcl2a1c,Bcl2a1d,Bcl2l1,Bcl2l10,Bcl2l2,Bcl3,Bdkrb2,Bdnf,Bex3,Bid,Hrk,Bik,Bcl2l11,Bmi1,Bmp4,Bmpr1b,Bnip3,Bnip3l,Brca1,Brca2,Birc6,Bub1,Hyou1,Camk2b,Casp12,Casp2,Casp3,Casp6,Casp8,Casp9,Ctnna1,Ctnnb1,Cav1,Runx3,Rb1cc1,Cck,Cd24a,Cd28,Cd3e,Cd44,Cd5,Cdk11b,Cdkn1a,Cdkn2d,Cebpb,Cflar,Cideb,Clu,Ackr3,Col2a1,Cradd,Creb3,Crh,Crip1,Csf2,Ctsc,Ctsh,Ctsk,Ctsl,Ctss,Cttn,Cx3cr1,Cycs,Cyct,Cyp1b1,Dab2,Dapk2,Dapk3,Daxx,Dbh,Ddit3,Ddx3x,Ddx5,E2f1,Ei24,Eif2ak3,Eno1,Epha2,Epo,Erbb3,Ercc2,Ptprv,Esr2,Eya1,Eya2,Eya3,Eya4,Fadd,Faf1,Fas,Fasl,Fcgr2b,Fem1b,Fga,Fgf10,Fgfr1,Fgfr3,Fhit,Fxn,Tlr3,Fyn,Fzd1,G0s2,Gas1,Gata1,Gata4,Usp15,Gcg,Gdnf,Gclc,Gclm,Gnai2,Gnai3,Rack1,Gpx1,Pdia3,Gstp2,Gstp1,Hdac2,Htt,Hells,Hgf,Hic1,Hif1a,Hint1,Hipk1,Hipk2,Hmox1,Hnrnpk,Hras,Dnaja1,Hspb1,Hyal2,Icam1,Ier3,Ifi204,Ifnb1,Ifng,Igf1,Cd74,Ikbkg,Il10,Il12a,Il18,Il1a,Il1b,Il2,Il3,Il4,Il7,Il9,Il9r,Inhba,Inhbb,Ins2,Itga6,Itgav,Itpr1,Jak2,Jak3,Jun,Kcnq2,Krt18,Krt8,Lck,Lcn2,Lgals3,Lmna,Ltb,Ltbr,Mfn2,Sgk3,Bbc3,Rtkn2,Smad3,Mal,Bmf,Maz,Mbd4,Mcl1,Mdm2,Mdm4,Melk,Kitl,Mif,Mknk1,Mknk2,Mlh1,Mmp9,Mnt,Meis3,Msh2,Msh6,Msx1,Mapt,Muc1,Myc,Nck1,Nck2,Nf1,Nfe2l2,Ngf,Ngfr,Nkx3-1,Nog,Nrp1,Nr4a2,Osm,Mybbp1a,P2rx4,P2rx7,P4hb,Igbp1,Pdk2,Pdx1,Pea15a,Pik3r1,Prkca,Prkcd,Serpine1,Plaur,Pml,Pmp22,Pnp,Septin4,Polb,Pou4f1,Pou4f2,Ppard,Ppp1ca,Prkdc,Mapk8ip1,Prodh,Psen1,Psen2,Psme3,Pten,Ptgis,Ptgs2,Ptpn1,Ptpn2,Ptprc,Rad9a,Rb1,Rela,Ret,Ripk1,Uri1,Rnf7,Rock2,Rpl26,Rps7,S100a8,S100a9,Scg2,Cx3cl1,Cxcl12,Sfrp2,Spi1,Sfrp1,Sgpl1,Shh,Siah1a,Siah1b,Siah2,Skil,Snai2,Siglec1,Snai1,Sod1,Sod2,Sort1,Sp100,Spn,Spop,Src,Stk11,Pycr1,Stx4a,Trp53bp2,Nrg1,Tifab,Taf6,Tcf7l2,4930486L24Rik,Rhot2,Hip1,Agap2,Prdx2,Flcn,Arrb2,Nle1,Tmc8,Tert,G2e3,Ifi27l2b,Tgfb1,Tgfb2,Tgfbr1,Thbs1,BC051665,Timp3,Tlr4,Tlr6,Ccar2,Tnf,Tnfaip3,Tnfrsf10b,Tnfrsf1a,Tnfrsf1b,Cd27,Tnfsf12,Dedd,Cd70,Ppp1r13b,Tpd52l1,Traf1,Traf2,Tnfsf10,Plscr1,Trp53,Trp63,Trp73,Tpt1,Tnfrsf4,Tnfsf4,Ubb,Umod,Kdm6a,Stk24,Vdac2,Vdr,Vegfa,Dap,Vhl,Vnn1,Mrtfa,Senp1,Wfs1,Wnt1,Pak2,Wnt4,Wnt5a,Xbp1,Traf7,Bag6,Gstp3,Xpa,Yap1,Zfp13,Pcgf2,Stradb,Pdk1,Madd,Trib3,Zc3hc1,Tmem161a,Usp28,Nox1,Il20ra,Atad5,Dido1,Faim,Map2k5,Mapk7,Prkra,Peli3,Rbck1,Zfp385b,Pak5,E2f2,Nanos3,Eda2r,AY074887,Map2k1,Map2k4,Map3k5,Map3k7,Mapk8,Mapk9,Creb3l1,Ppia,Casp8ap2,Ctsj,Ern2,Aifm1,Ppp2r5c,Ell3,Nherf1,Serinc3,Rps3,Bcap31,Adcy10,Tnfrsf12a,Phlda3,Nbn,Cep63,Bag3,Zfp385a,Hip1r,Siva1,Ifnz,Ercc6,Tmem117,Ep300,Il19,Fnip2,Tmem102,Parl,Rrm2b,Gfral,Itprip,Eno1b,Acsl5,Mettl21c,Hdac1,Gsdma3,Ero1a,Fbxw7,Fbh1,Prkn,Chek2,Pdcd7,Ppp2r1a,Srpx,Bok,Zfp622,Acaa2,Ifi27,Atp2a3,Ube2k,Pla2g6,Psmd10,Nono,Pde3a,Sh3glb1,Plagl2,Gsdme,Sfn,Lgals12,Ubqln1,Cts7,Cts8,Becn1,Stk3,Higd1a,Nupr1,Aatf,Pdcd5,Pdcd10,Mtch2,Ybx3,Foxo3,Gabarap,Ikbke,Ripk3,Gsk3b,Ankrd2,Mllt11,Ctsr,Park7,Marchf7,Noc2l,Jmy,Pidd1,Stk4,Cts6,Pmaip1,Pias4,Sh3rf1,Rhot1,Stk25,Fignl1,Mapk8ip2,Gsk3a,Faiml,Ube4b,Perp,Moap1,Ctsm,Herpud1,Itm2c,Htra2,Zfp110,Arl6ip5,Txndc12,Ghitm,Eef1e1,Grina,Ing5,Snw1,Fis1,Pam16,Ptpmt1,Prelid1,Zmynd11,Timm50,Diablo,Cdip1,Lrrk2,Gskip,Bcl2l14,Pycard,Rnf186,Dele1,Dnajc10,Shisa5,Rpl11,Ndufa13,Armc10,Rffl,Dedd2,Erp29,Rnf41,Ddx47,Caap1,Rps27l,Nacc2,Trap1,Coa8,Aen,Ndufs3,Mul1,Steap3,Tmem109,Ppm1f,Pih1d1,Pink1,Zfas1,Zdhhc3,Chac1,Triap1,Fcmr,Dyrk2,Qrich1,Ing2,Dab2ip,Dapk1,Tmbim1,Tfpt,Fbxo7,Trim32,Fam162a,Ctsll3,Plscr3,Bag5,Sfpq,Tmem238l,Tradd,Zswim2,Plekhf1,Faim2,Rps6kb1,Uaca,Bclaf1,Nfatc4,Slc25a31,Bloc1s2,Ppp2r1b,Dnm1l,Ddias,Syvn1,Opa1,Cyld,Wdr35,Ddit4,Pik3cb,Slc35f6,Usp47,Nme5,Tmem14a,Mff,Bcl2l12,Brsk2,Rnf183,Styxl1,Dapl1,Gper1,Ifi27l2a,Il33,Nol3,Ern1,Tnfrsf23,Tnfrsf22,Trim39,Wwox,Rnf34,Selenok,Clca3a2,Nfkbiz,Sgpp1,Trem2,Trps1,Phip,Mpv17l,Wnt16,Sirt1,Tm2d1,Maged1,Hmgb2,Qars,Deptor,Mael,Fgg,Kdm1a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_APOPTOTIC_PROCESS_INVOLVED_IN_DEVELOPMENT
+SYSTEMATIC_NAME	MM10890
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_APOPTOTIC_PROCESS_INVOLVED_IN_DEVELOPMENT
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any apoptotic process that is involved in anatomical structure development. [GO_REF:0000060, GOC:mtg_apoptosis, GOC:pg, GOC:TermGenie]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902742
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902742
+SOURCE_MEMBERS	105782,11909,12018,12028,12125,12159,12162,12578,12649,12954,12955,14175,14234,14367,15111,16007,16450,16842,16973,17300,18091,18128,18504,18510,18605,18854,20375,20473,21410,21808,21814,219149,21937,21938,22337,22422,22431,22687,228787,319581,381246,381560,497097,63830,70417,73699
+GENE_SYMBOLS	Scrib,Atf2,Bak1,Bax,Bcl2l11,Bmp4,Bmp7,Cdkn2a,Chek1,Cryaa,Cryab,Fgf4,Foxc2,Fzd5,Hand2,Ccn1,Jag2,Lef1,Lrp5,Foxc1,Nkx2-5,Notch1,Pax2,Pax8,Enpp1,Pml,Spi1,Six3,Hnf1b,Tgfb2,Tgfbr3,Xkr6,Tnfrsf1a,Tnfrsf1b,Vdr,Wnt7b,Wt1,Zpr1,Xkr7,Xkr5,Xkr9,Xkr8,Xkr4,Kcnq1ot1,Megf10,Ppp2r1b
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_APOPTOTIC_PROCESS_INVOLVED_IN_BLOOD_VESSEL_MORPHOGENESIS
+SYSTEMATIC_NAME	MM10835
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_APOPTOTIC_PROCESS_INVOLVED_IN_BLOOD_VESSEL_MORPHOGENESIS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any apoptotic process that is involved in blood vessel morphogenesis. [GOC:dph, GOC:mtg_apoptosis, GOC:TermGenie, PMID:16163358]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902262
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902262
+SOURCE_MEMBERS	12018,12028,16842,16973,20375,22422
+GENE_SYMBOLS	Bak1,Bax,Lef1,Lrp5,Spi1,Wnt7b
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_APOPTOTIC_PROCESS_IN_BONE_MARROW_CELL
+SYSTEMATIC_NAME	MM9826
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_APOPTOTIC_PROCESS_IN_BONE_MARROW_CELL
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The apoptotic process in cells in the bone marrow. [GOC:mah, GOC:mtg_apoptosis, PMID:17063141]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0071839
+FILTERED_BY_SIMILARITY	GO:0071865,GO:0071866
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	regulation of apoptotic process in bone marrow cell|negative regulation of apoptotic process in bone marrow cell
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0071839
+SOURCE_MEMBERS	12048,14183,14256,15510,16842,19226,20620
+GENE_SYMBOLS	Bcl2l1,Fgfr2,Flt3l,Hspd1,Lef1,Pth,Plk2
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_APOPTOTIC_MITOCHONDRIAL_CHANGES
+SYSTEMATIC_NAME	MM5191
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_APOPTOTIC_MITOCHONDRIAL_CHANGES
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The morphological and physiological alterations undergone by mitochondria during apoptosis. [GOC:mah, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0008637
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0008637
+SOURCE_MEMBERS	100042424,103172,105675,110175,11651,11739,11740,11909,11937,11977,11983,11998,12015,12018,12028,12043,12044,12045,12046,12047,12048,12050,12122,12123,12124,12125,12176,12177,12322,12424,12484,12578,12684,13869,14049,14102,14297,14629,14630,14775,15234,15277,15510,15937,16000,16476,16905,170731,170770,171543,17210,17395,18164,18715,18793,18950,19053,19823,20656,214952,216869,219158,22035,22059,22334,22654,227197,23922,26401,26420,26926,29816,30954,380705,381038,50873,51800,52538,53357,53380,54673,55948,56295,56330,56428,56637,56772,58801,59040,606496,64113,65111,65114,66092,66437,66494,66525,66824,67841,68350,68943,69076,70186,70310,71254,71361,72930,73333,73689,74006,74143,74682,74919,75712,75734,75778,76854,78688,78806,93734
+GENE_SYMBOLS	Pdcd5-ps,Chchd10,Ppif,Ggct,Akt1,Slc25a4,Slc25a5,Atf2,Atp2a1,Atp7a,Atpif1,Avp,Bad,Bak1,Bax,Bcl2,Bcl2a1a,Bcl2a1b,Bcl2a1c,Bcl2a1d,Bcl2l1,Bcl2l2,Bid,Hrk,Bik,Bcl2l11,Bnip3,Bnip3l,Camk2a,Cck,Cd24a,Cdkn2a,Cideb,Erbb4,Eya2,Fas,Fxn,Gclc,Gclm,Gpx1,Hgf,Hk2,Hspd1,Ier3,Igf1,Jun,Lmna,Mfn2,Bbc3,Bmf,Mcl1,Mmp9,Nptx1,Pim2,Plaur,Pnp,Ppp2cb,Rnf7,Sod2,Rhot2,Arrb2,Ccar2,Tnfsf10,Trp53,Vdac2,Zfp13,Ndufs1,Jtb,Map3k1,Mapk9,Aifm1,Hip1r,Siva1,Tmem102,Parl,Prkn,Bok,Acaa2,Pla2g6,Psmd10,Sh3glb1,Sfn,Higd1a,Pdcd5,Mtch2,Gsk3b,Mllt11,Pmaip1,Rhot1,Gsk3a,Moap1,Dap3,Vps35,Ghitm,Fis1,Prelid1,Timm50,Pycard,Atg3,Mul1,Pink1,Triap1,Fam162a,Plscr3,Naif1,Aifm2,Ppp2r2b,Slc25a31,Bloc1s2,Dnm1l,Opa1,Wdr35,Slc35f6,Tmem14a,Mff,Them4,Gper1,Nol3,Stpg1,Mpv17l
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_APOPTOTIC_DNA_FRAGMENTATION
+SYSTEMATIC_NAME	MM4664
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_APOPTOTIC_DNA_FRAGMENTATION
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The cleavage of DNA during apoptosis, which usually occurs in two stages: cleavage into fragments of about 50 kbp followed by cleavage between nucleosomes to yield 200 bp fragments. [GOC:dph, GOC:mah, GOC:mtg_apoptosis, GOC:tb, ISBN:0721639976, PMID:15723341, PMID:23379520]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0006309
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0006309
+SOURCE_MEMBERS	11783,12028,12578,12683,13347,13368,13421,13423,13804,14464,15499,16009,16193,192119,208194,245944,26926,26927,56629,66454
+GENE_SYMBOLS	Apaf1,Bax,Cdkn2a,Cidea,Dffa,Dffb,Dnase1l3,Dnase2a,Endog,Gata5,Hsf1,Igfbp3,Il6,Dicer1,Exog,Vps54,Aifm1,Foxl2,Dnase2b,Nmnat1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_APOPTOTIC_CHROMOSOME_CONDENSATION
+SYSTEMATIC_NAME	MM6227
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_APOPTOTIC_CHROMOSOME_CONDENSATION
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The compaction of chromatin during apoptosis. [GOC:mah]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0030263
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0030263
+SOURCE_MEMBERS	13368,21973,230674,26918,56215,76854
+GENE_SYMBOLS	Dffb,Top2a,Kdm4a,Ern2,Acin1,Gper1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_APOPTOTIC_CELL_CLEARANCE
+SYSTEMATIC_NAME	MM7582
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_APOPTOTIC_CELL_CLEARANCE
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	The recognition and removal of an apoptotic cell by a neighboring cell or by a phagocyte. [GOC:rk, PMID:14685684]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0043277
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0043277
+SOURCE_MEMBERS	107817,107831,11687,12263,12266,12491,12772,14456,15289,16410,16416,16952,16971,170758,17167,17289,17304,19353,19401,20296,20778,214585,21817,21825,219149,22040,22174,22177,22259,228787,246746,26362,27403,276891,319581,381246,381560,497097,56208,68365,70417,73182,83433
+GENE_SYMBOLS	Jmjd6,Adgrb1,Alox15,C2,C3,Cd36,Ccr2,Gas6,Hmgb1,Itgav,Itgb3,Anxa1,Lrp1,Rac3,Marco,Mertk,Mfge8,Rac1,Rara,Ccl2,Scarb1,Spg11,Tgm2,Thbs1,Xkr6,Trex1,Tyro3,Tyrobp,Nr1h3,Xkr7,Cd300lf,Axl,Abca7,Timd4,Xkr5,Xkr9,Xkr8,Xkr4,Becn1,Rab14,Megf10,Pear1,Trem2
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_EXECUTION_PHASE_OF_APOPTOSIS
+SYSTEMATIC_NAME	MM10577
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_EXECUTION_PHASE_OF_APOPTOSIS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of execution phase of apoptosis. [GOC:mtg_apoptosis, GOC:TermGenie]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1900119
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1900119
+SOURCE_MEMBERS	12042,12766,14089,19223,209456,22059,230738,236732,50768,51800,64383
+GENE_SYMBOLS	Bcl10,Cxcr3,Fap,Ptgis,Trp53bp2,Trp53,Zc3h12a,Rbm10,Dlc1,Bok,Sirt2
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM11664
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of extrinsic apoptotic signaling pathway. [GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2001238
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2001238
+SOURCE_MEMBERS	107449,11606,11609,11820,11910,12042,12122,12167,12370,12385,12389,12399,13144,14082,14084,14373,14827,15587,16323,16453,16994,17000,17153,18015,18611,18854,19045,19165,19211,19264,19713,19766,20377,20482,20612,21808,21825,21859,21898,21899,21926,22030,22035,224105,24105,27279,450219,51792,51795,56274,58231,58801,64294,64704,66813,66824,67379,71861,73699,74256,76854,80707,83925
+GENE_SYMBOLS	Unc5b,Agt,Agtr2,App,Atf3,Bcl10,Bid,Bmpr1b,Casp8,Ctnna1,Cav1,Runx3,Dapk3,Fadd,Faf1,G0s2,Pdia3,Hyal2,Inhba,Jak3,Ltb,Ltbr,Mal,Nf1,Pea15a,Pml,Ppp1ca,Psen2,Pten,Ptprc,Ret,Ripk1,Sfrp1,Skil,Siglec1,Tgfb2,Thbs1,Timp3,Tlr4,Tlr6,Tnf,Traf2,Tnfsf10,Pak2,Rbck1,Tnfrsf12a,Gsdma3,Ppp2r1a,Srpx,Stk3,Stk4,Pmaip1,Itm2c,Htra2,Bcl2l14,Pycard,Dedd2,Zswim2,Ppp2r1b,Cyld,Gper1,Wwox,Trps1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_ABSENCE_OF_LIGAND
+SYSTEMATIC_NAME	MM11666
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_ABSENCE_OF_LIGAND
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of extrinsic apoptotic signaling pathway in absence of ligand. [GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2001241
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2001241
+SOURCE_MEMBERS	107449,12385,13144,16323,16453,18015,19045,19713,21808,51792,51795,64704,73699,80707
+GENE_SYMBOLS	Unc5b,Ctnna1,Dapk3,Inhba,Jak3,Nf1,Ppp1ca,Ret,Tgfb2,Ppp2r1a,Srpx,Htra2,Ppp2r1b,Wwox
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_VIA_DEATH_DOMAIN_RECEPTORS
+SYSTEMATIC_NAME	MM10803
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_VIA_DEATH_DOMAIN_RECEPTORS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of extrinsic apoptotic signaling pathway via death domain receptors. [GOC:TermGenie, PMID:17245429]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902043
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902043
+SOURCE_MEMBERS	11910,12167,14084,17153,18611,19165,19211,20377,20482,21825,21859,56274,58231,58801,71861,83925
+GENE_SYMBOLS	Atf3,Bmpr1b,Faf1,Mal,Pea15a,Psen2,Pten,Sfrp1,Skil,Thbs1,Timp3,Stk3,Stk4,Pmaip1,Zswim2,Trps1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM11669
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of intrinsic apoptotic signaling pathway. [GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2001244
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2001244
+SOURCE_MEMBERS	107771,12015,12028,12122,12125,12235,12389,12759,13067,13198,13663,13666,14694,16818,170770,17210,17701,17869,17973,17974,18095,18952,19255,19367,19941,20115,20201,20202,20437,20438,20482,20655,20747,21343,216805,22038,22059,22062,22187,22361,237038,237313,23992,26941,26943,27050,27061,271639,329244,50754,50755,51800,54673,54711,54722,56208,56312,56428,56532,57320,58801,59004,66437,67025,67991,68428,71514,72287,72567,74006,76072,76571,93759
+GENE_SYMBOLS	Bmyc,Bad,Bax,Bid,Bcl2l11,Bub1,Cav1,Clu,Cyct,Ddit3,Ei24,Eif2ak3,Rack1,Lck,Bbc3,Mcl1,Msx1,Myc,Nck1,Nck2,Nkx3-1,Septin4,Ptpn2,Rad9a,Rpl26,Rps7,S100a8,S100a9,Siah1a,Siah1b,Skil,Sod1,Spop,Taf6,Flcn,Plscr1,Trp53,Trp73,Ubb,Vnn1,Nox1,Il20ra,Prkra,Nherf1,Serinc3,Rps3,Bcap31,Adcy10,Il19,Fbxw7,Fbh1,Bok,Sh3glb1,Plagl2,Gsdme,Becn1,Nupr1,Mtch2,Ripk3,Park7,Pmaip1,Pias4,Fis1,Rpl11,Nacc2,Steap3,Sfpq,Plekhf1,Bclaf1,Dnm1l,Rnf183,Styxl1,Sirt1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_BY_P53_CLASS_MEDIATOR
+SYSTEMATIC_NAME	MM10832
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_BY_P53_CLASS_MEDIATOR
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of intrinsic apoptotic signaling pathway by p53 class mediator. [GOC:BHF, GOC:mtg_apoptosis, GOC:rl, GOC:TermGenie, PMID:15705871]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902255
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902255
+SOURCE_MEMBERS	107771,17701,17869,19941,20115,22062,22187,54673,67025,68428
+GENE_SYMBOLS	Bmyc,Msx1,Myc,Rpl26,Rps7,Trp73,Ubb,Sh3glb1,Rpl11,Steap3
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_DNA_DAMAGE
+SYSTEMATIC_NAME	MM10826
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_DNA_DAMAGE
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of intrinsic apoptotic signaling pathway in response to DNA damage. [GOC:BHF, GOC:mtg_apoptosis, GOC:rl, GOC:TermGenie, PMID:15314165]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902231
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902231
+SOURCE_MEMBERS	19367,19941,20482,22038,22062,27050,50755,56428,59004,67991,68428
+GENE_SYMBOLS	Rad9a,Rpl26,Skil,Plscr1,Trp73,Rps3,Fbh1,Mtch2,Pias4,Nacc2,Steap3
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_LEUKOCYTE_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM11442
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_LEUKOCYTE_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of leukocyte apoptotic process. [GOC:BHF, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2000108
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2000108
+SOURCE_MEMBERS	11501,12028,12125,12484,12505,12578,15930,16153,16453,16952,170770,17096,17260,17869,18015,18124,18439,18566,18707,20304,20612,216742,21808,22059,22418,243910,50996,57432,60533,66494,74769,76089,93759
+GENE_SYMBOLS	Adam8,Bax,Bcl2l11,Cd24a,Cd44,Cdkn2a,Ido1,Il10,Jak3,Anxa1,Bbc3,Lyn,Mef2c,Myc,Nf1,Nr4a3,P2rx7,Pdcd1,Pik3cd,Ccl5,Siglec1,Fnip1,Tgfb2,Trp53,Wnt5a,Nfkbid,Pdcd7,Zc3h8,Cd274,Prelid1,Pik3cb,Rapgef2,Sirt1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_LYMPHOCYTE_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM9499
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_LYMPHOCYTE_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of lymphocyte death by apoptotic process. [GOC:add, GOC:mtg_apoptosis, ISBN:0781765196]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0070230
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0070230
+SOURCE_MEMBERS	11501,12028,12125,12484,15930,16153,170770,17869,18439,18566,20304,20612,216742,21808,22059,22418,243910,50996,57432,60533,66494
+GENE_SYMBOLS	Adam8,Bax,Bcl2l11,Cd24a,Ido1,Il10,Bbc3,Myc,P2rx7,Pdcd1,Ccl5,Siglec1,Fnip1,Tgfb2,Trp53,Wnt5a,Nfkbid,Pdcd7,Zc3h8,Cd274,Prelid1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_MITOCHONDRIAL_OUTER_MEMBRANE_PERMEABILIZATION_INVOLVED_IN_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM10633
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_MITOCHONDRIAL_OUTER_MEMBRANE_PERMEABILIZATION_INVOLVED_IN_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway. [GOC:BHF, GOC:mtg_apoptosis, GOC:TermGenie]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1901030
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1901030
+SOURCE_MEMBERS	103172,11983,12018,170770,22654,29816,30954,51800,54673,56637,58801,606496
+GENE_SYMBOLS	Chchd10,Atpif1,Bak1,Bbc3,Zfp13,Hip1r,Siva1,Bok,Sh3glb1,Gsk3b,Pmaip1,Gsk3a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_OXIDATIVE_STRESS_INDUCED_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM10821
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_OXIDATIVE_STRESS_INDUCED_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of an oxidative stress-induced intrinsic apoptotic signaling pathway. [GOC:BHF, GOC:mtg_apoptosis, GOC:TermGenie, PMID:11672522]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902177
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902177
+SOURCE_MEMBERS	17210,20655,22361,237038,271639,50754,57320,71514
+GENE_SYMBOLS	Mcl1,Sod1,Vnn1,Nox1,Adcy10,Fbxw7,Park7,Sfpq
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_T_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM9503
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_T_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of T cell death by apoptotic process. [GOC:add, GOC:mtg_apoptosis, ISBN:0781765196]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0070234
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0070234
+SOURCE_MEMBERS	11501,12125,15930,170770,18439,18566,20304,20612,21808,22059,22418,243910,50996,57432,60533,66494
+GENE_SYMBOLS	Adam8,Bcl2l11,Ido1,Bbc3,P2rx7,Pdcd1,Ccl5,Siglec1,Tgfb2,Trp53,Wnt5a,Nfkbid,Pdcd7,Zc3h8,Cd274,Prelid1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_POSITIVE_REGULATION_OF_THYMOCYTE_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM9509
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_POSITIVE_REGULATION_OF_THYMOCYTE_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that activates or increases the frequency, rate or extent of thymocyte death by apoptotic process. [GOC:add, GOC:mtg_apoptosis, ISBN:0781765196]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0070245
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0070245
+SOURCE_MEMBERS	11501,170770,22059,22418,243910,57432
+GENE_SYMBOLS	Adam8,Bbc3,Trp53,Wnt5a,Nfkbid,Zc3h8
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_APOPTOTIC_CELL_CLEARANCE
+SYSTEMATIC_NAME	MM11529
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_APOPTOTIC_CELL_CLEARANCE
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate or extent of apoptotic cell clearance. [GOC:obol]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2000425
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2000425
+SOURCE_MEMBERS	12263,12266,15289,20296,21817,246746,27403,83433
+GENE_SYMBOLS	C2,C3,Hmgb1,Ccl2,Tgm2,Cd300lf,Abca7,Trem2
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_APOPTOTIC_PROCESS_INVOLVED_IN_DEVELOPMENT
+SYSTEMATIC_NAME	MM11219
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_APOPTOTIC_PROCESS_INVOLVED_IN_DEVELOPMENT
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate or extent of apoptotic process involved in development. [GO_REF:0000058, GOC:TermGenie, PMID:22801495]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1904748
+FILTERED_BY_SIMILARITY	GO:1902337
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	regulation of apoptotic process involved in morphogenesis
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1904748
+SOURCE_MEMBERS	12028,12162,12578,14234,17300,18128,18504,18510,18854,21410,21808,21814,21937,21938,22337,22431
+GENE_SYMBOLS	Bax,Bmp7,Cdkn2a,Foxc2,Foxc1,Notch1,Pax2,Pax8,Pml,Hnf1b,Tgfb2,Tgfbr3,Tnfrsf1a,Tnfrsf1b,Vdr,Wt1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM11659
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate or extent of apoptotic signaling pathway. [GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2001233
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2001233
+SOURCE_MEMBERS	100042625,103844,104002,105675,106298,107449,107771,107869,108705,109815,110135,110157,110213,110957,11477,11540,11545,11606,11609,11651,117066,117198,11739,11740,11783,11820,11835,11910,11911,11998,12015,12018,12028,12042,12043,12048,12049,12050,12062,12064,12122,12125,12151,12159,12167,12189,12211,12235,12282,12323,12366,12370,12385,12387,12389,12399,12421,12505,12537,12581,12633,12759,12778,12824,12905,12913,12981,13032,13036,13038,13039,13040,13043,13051,13067,13132,13143,13144,13163,13166,13198,13205,13663,13666,13806,13856,14048,14049,14050,14051,14082,14084,14102,14130,14155,14161,14165,14182,14297,14360,14362,14373,14451,14460,14463,14479,14526,14573,14629,14630,14678,14679,14694,14775,14827,14869,14870,15182,15194,15201,15234,15251,15368,15387,15502,15507,15587,15894,15937,15977,16000,16149,16151,16153,16176,16189,16196,16198,16199,16323,16324,16403,16410,16452,16453,16818,16854,16905,16994,17000,170731,170755,170770,170799,17153,171543,17188,17210,17246,17248,17319,17395,17428,17537,17701,17829,17869,17973,17974,18015,18024,18053,18095,18121,18186,18227,18413,18453,18518,18609,18611,18753,18787,18793,18854,18858,18952,19045,19099,19125,19164,19165,19192,19211,19225,19246,19255,19264,19367,19645,19697,19713,19766,19777,19941,20115,20201,20202,20254,20312,20315,20319,20377,20437,20438,20439,20482,20583,20612,20613,20655,20656,20684,20747,20779,209027,20909,211323,212937,21343,21416,214639,216439,21672,216805,216869,217011,217356,21752,217558,21808,21812,21825,218275,21859,21898,21899,219158,21926,21929,21987,22029,22030,22035,22038,22059,22061,22062,22070,22163,22164,22187,22289,22334,22339,22346,22361,223701,22393,22408,224105,22417,22418,22433,224619,225884,22601,22658,227154,228355,232679,234371,237038,237313,237877,23873,23938,23939,23992,240518,24105,241656,244551,26395,26409,26419,26420,26427,268373,26898,269344,26941,26943,27050,27061,271639,27279,28135,29813,329244,381038,382985,404194,414801,433182,433256,433759,450219,50754,50755,50873,50996,51792,51795,51800,52538,53380,53610,54673,54711,54722,56085,56092,56094,56208,56274,56295,56312,56321,56428,56449,56532,56637,56642,56835,57320,57438,57741,58231,58518,58801,59004,59009,60530,60597,623459,64139,64209,64294,64704,66073,66092,66143,66168,66262,66437,66449,66461,66494,66505,66725,66813,66824,67025,67184,67211,67338,67379,67397,67770,67991,68015,68349,68428,68845,68943,68949,69076,69169,69260,69601,69660,69754,69807,70202,70369,71514,71861,72287,72393,72508,72567,73181,73333,73699,74006,74041,74126,74143,74256,74769,74919,74996,75533,75712,75736,76072,76571,76854,78688,79201,79202,79263,80707,80751,83433,83925,83946,93734,93735,93759,94275,97165,97541,97998,99571,99982
+GENE_SYMBOLS	Gstp-ps,Inca1,Ctsq,Ppif,Rrn3,Unc5b,Bmyc,Cth,Pttg1ip,Selenos,Fgb,Raf1,Tmbim6,D1Pas1,Acvr1,Adora2a,Parp1,Agt,Agtr2,Akt1,Cts3,Ivns1abp,Slc25a4,Slc25a5,Apaf1,App,Ar,Atf3,Atf4,Avp,Bad,Bak1,Bax,Bcl10,Bcl2,Bcl2l1,Bcl2l10,Bcl2l2,Bdkrb2,Bdnf,Bid,Bcl2l11,Bmi1,Bmp4,Bmpr1b,Brca1,Birc6,Bub1,Hyou1,Camk2b,Casp2,Casp8,Ctnna1,Ctnnb1,Cav1,Runx3,Rb1cc1,Cd44,Cdk11b,Cdkn2d,Cflar,Clu,Ackr3,Col2a1,Cradd,Creb3,Csf2,Ctsc,Ctsh,Ctsk,Ctsl,Ctss,Cttn,Cx3cr1,Cyct,Dab2,Dapk2,Dapk3,Daxx,Dbh,Ddit3,Ddx3x,Ei24,Eif2ak3,Eno1,Epo,Eya1,Eya2,Eya3,Eya4,Fadd,Faf1,Fas,Fcgr2b,Fem1b,Fga,Fgf10,Fgfr1,Fxn,Fyn,Fzd1,G0s2,Gas1,Gata1,Gata4,Usp15,Gcg,Gdnf,Gclc,Gclm,Gnai2,Gnai3,Rack1,Gpx1,Pdia3,Gstp2,Gstp1,Hdac2,Htt,Hells,Hgf,Hif1a,Hmox1,Hnrnpk,Dnaja1,Hspb1,Hyal2,Icam1,Ier3,Ifnb1,Igf1,Cd74,Ikbkg,Il10,Il1b,Il4,Il7,Il9,Il9r,Inhba,Inhbb,Itga6,Itgav,Jak2,Jak3,Lck,Lgals3,Lmna,Ltb,Ltbr,Mfn2,Sgk3,Bbc3,Rtkn2,Mal,Bmf,Maz,Mcl1,Mdm2,Mdm4,Mif,Mmp9,Mnt,Meis3,Msx1,Muc1,Myc,Nck1,Nck2,Nf1,Nfe2l2,Ngfr,Nkx3-1,Nog,Nrp1,Nr4a2,Osm,P4hb,Igbp1,Pdx1,Pea15a,Prkcd,Serpine1,Plaur,Pml,Pmp22,Septin4,Ppp1ca,Mapk8ip1,Prodh,Psen1,Psen2,Psme3,Pten,Ptgs2,Ptpn1,Ptpn2,Ptprc,Rad9a,Rb1,Rela,Ret,Ripk1,Uri1,Rpl26,Rps7,S100a8,S100a9,Scg2,Cx3cl1,Cxcl12,Sfrp2,Sfrp1,Siah1a,Siah1b,Siah2,Skil,Snai2,Siglec1,Snai1,Sod1,Sod2,Sp100,Spop,Src,Pycr1,Stx4a,Nrg1,Tifab,Taf6,Tcf7l2,4930486L24Rik,Agap2,Prdx2,Flcn,Arrb2,Nle1,Tmc8,Tert,G2e3,Tgfb2,Tgfbr1,Thbs1,BC051665,Timp3,Tlr4,Tlr6,Ccar2,Tnf,Tnfaip3,Tpd52l1,Traf1,Traf2,Tnfsf10,Plscr1,Trp53,Trp63,Trp73,Tpt1,Tnfrsf4,Tnfsf4,Ubb,Kdm6a,Vdac2,Vegfa,Vhl,Vnn1,Mrtfa,Wfs1,Wnt1,Pak2,Wnt4,Wnt5a,Xbp1,Traf7,Gstp3,Yap1,Pcgf2,Stradb,Madd,Zc3hc1,Tmem161a,Nox1,Il20ra,Atad5,Faim,Map2k5,Mapk7,Prkra,Peli3,Rbck1,Pak5,Nanos3,Map2k1,Map3k7,Mapk8,Mapk9,Creb3l1,Ppia,Ctsj,Ell3,Nherf1,Serinc3,Rps3,Bcap31,Adcy10,Tnfrsf12a,Cep63,Zfp385a,Il19,Parl,Rrm2b,Gfral,Itprip,Eno1b,Acsl5,Hdac1,Gsdma3,Fbxw7,Fbh1,Prkn,Pdcd7,Ppp2r1a,Srpx,Bok,Acaa2,Psmd10,Nono,Sh3glb1,Plagl2,Gsdme,Ubqln1,Cts7,Cts8,Becn1,Stk3,Higd1a,Nupr1,Aatf,Mtch2,Ybx3,Ripk3,Gsk3b,Ankrd2,Ctsr,Park7,Marchf7,Noc2l,Stk4,Cts6,Pmaip1,Pias4,Sh3rf1,Fignl1,Mapk8ip2,Faiml,Ctsm,Herpud1,Itm2c,Htra2,Txndc12,Ghitm,Eef1e1,Grina,Ing5,Fis1,Pam16,Ptpmt1,Prelid1,Zmynd11,Lrrk2,Bcl2l14,Pycard,Rpl11,Ndufa13,Armc10,Rffl,Dedd2,Erp29,Caap1,Nacc2,Trap1,Ndufs3,Steap3,Pih1d1,Pink1,Zfas1,Triap1,Fcmr,Ing2,Dab2ip,Tmbim1,Fbxo7,Trim32,Ctsll3,Bag5,Sfpq,Zswim2,Plekhf1,Faim2,Rps6kb1,Bclaf1,Nfatc4,Slc25a31,Ppp2r1b,Dnm1l,Ddias,Syvn1,Opa1,Cyld,Pik3cb,Slc35f6,Usp47,Nme5,Tmem14a,Bcl2l12,Rnf183,Styxl1,Gper1,Nol3,Tnfrsf23,Tnfrsf22,Trim39,Wwox,Rnf34,Trem2,Trps1,Phip,Mpv17l,Wnt16,Sirt1,Maged1,Hmgb2,Qars,Deptor,Fgg,Kdm1a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_B_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM4415
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_B_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate, or extent of B cell apoptotic process. [GOC:add, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0002902
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0002902
+SOURCE_MEMBERS	100124431,108655,11486,12028,12042,12043,12044,12484,12505,16149,16153,16183,16187,17096,17319,17869,18566,19211,20877,209488,216742,227059,384783,387195,57741,66612,723829,723852,723885,723923,723925,723926,723942,751527,751549
+GENE_SYMBOLS	Mir18b,Foxp1,Ada,Bax,Bcl10,Bcl2,Bcl2a1a,Cd24a,Cd44,Cd74,Il10,Il2,Il3,Lyn,Mif,Myc,Pdcd1,Pten,Aurkb,Hsh2d,Fnip1,Slc39a10,Irs2,Mir19b-2,Noc2l,Ormdl3,Mir106a,Mir363,Mir93,Mir20b,Mir106b,Mir25,Mir92-2,Mir19b-1,Mir92-1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_ENDOPLASMIC_RETICULUM_STRESS_INDUCED_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM10827
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_ENDOPLASMIC_RETICULUM_STRESS_INDUCED_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate or extent of an endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway. [GOC:BHF, GOC:mtg_apoptosis, GOC:rl, GOC:TermGenie, PMID:20160352]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902235
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902235
+SOURCE_MEMBERS	109815,110213,11820,12048,12282,12913,13666,14130,16151,17973,17974,18609,19246,19255,20747,22393,22433,26427,26943,50873,51800,57320,64209,66073,66168,66725,67397,74126,74143,76072,93759
+GENE_SYMBOLS	Selenos,Tmbim6,App,Bcl2l1,Hyou1,Creb3,Eif2ak3,Fcgr2b,Ikbkg,Nck1,Nck2,Pdx1,Ptpn1,Ptpn2,Spop,Wfs1,Xbp1,Creb3l1,Serinc3,Prkn,Bok,Park7,Herpud1,Txndc12,Grina,Lrrk2,Erp29,Syvn1,Opa1,Rnf183,Sirt1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_EXECUTION_PHASE_OF_APOPTOSIS
+SYSTEMATIC_NAME	MM10575
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_EXECUTION_PHASE_OF_APOPTOSIS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate or extent of execution phase of apoptosis. [GOC:mtg_apoptosis, GOC:TermGenie]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1900117
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1900117
+SOURCE_MEMBERS	100463512,12042,12048,12683,12766,13347,14089,14365,14526,19223,209456,22059,224105,230738,236732,50768,51800,64383,67338,80751
+GENE_SYMBOLS	Gm20594,Bcl10,Bcl2l1,Cidea,Cxcr3,Dffa,Fap,Fzd3,Gcg,Ptgis,Trp53bp2,Trp53,Pak2,Zc3h12a,Rbm10,Dlc1,Bok,Sirt2,Rffl,Rnf34
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM11662
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate or extent of extrinsic apoptotic signaling pathway. [GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2001236
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2001236
+SOURCE_MEMBERS	100042625,107449,110135,110157,110957,11477,11606,11609,11820,11835,11910,12042,12043,12048,12049,12122,12159,12167,12189,12211,12370,12385,12389,12399,12421,12633,12824,12981,13043,13132,13144,13166,13205,14048,14049,14050,14051,14082,14084,14155,14161,14165,14182,14360,14373,14451,14460,14573,14629,14630,14775,14827,14869,14870,15194,15234,15368,15587,15894,16000,16176,16189,16196,16323,16403,16410,16453,16854,16905,16994,17000,170755,17153,17210,18015,18186,18611,18787,18854,19045,19165,19192,19211,19264,19697,19713,19766,20254,20312,20319,20377,20439,20482,20583,20612,20684,20779,20909,211323,21416,216439,21672,217356,21752,21808,21812,21825,21859,21898,21899,21926,21929,22029,22030,22035,22163,22164,22339,224105,225884,22601,227154,228355,232679,23873,23938,23939,240518,24105,241656,27279,329244,404194,414801,433256,450219,51792,51795,56274,56637,57320,58231,58801,59009,623459,64294,64704,66505,66813,66824,67338,67379,69169,69660,71861,72393,72508,73699,74256,75736,76854,78688,79201,79202,80707,80751,83925,83946,97165,97998,99571
+GENE_SYMBOLS	Gstp-ps,Unc5b,Fgb,Raf1,D1Pas1,Acvr1,Agt,Agtr2,App,Ar,Atf3,Bcl10,Bcl2,Bcl2l1,Bcl2l10,Bid,Bmp4,Bmpr1b,Brca1,Birc6,Casp8,Ctnna1,Cav1,Runx3,Rb1cc1,Cflar,Col2a1,Csf2,Cttn,Dab2,Dapk3,Dbh,Ddx3x,Eya1,Eya2,Eya3,Eya4,Fadd,Faf1,Fem1b,Fga,Fgf10,Fgfr1,Fyn,G0s2,Gas1,Gata1,Gdnf,Gclc,Gclm,Gpx1,Pdia3,Gstp2,Gstp1,Htt,Hgf,Hmox1,Hyal2,Icam1,Igf1,Il1b,Il4,Il7,Inhba,Itga6,Itgav,Jak3,Lgals3,Lmna,Ltb,Ltbr,Sgk3,Mal,Mcl1,Nf1,Nrp1,Pea15a,Serpine1,Pml,Ppp1ca,Psen2,Psme3,Pten,Ptprc,Rela,Ret,Ripk1,Scg2,Cx3cl1,Sfrp2,Sfrp1,Siah2,Skil,Snai2,Siglec1,Sp100,Src,Stx4a,Nrg1,Tcf7l2,Agap2,Prdx2,Tmc8,Tert,Tgfb2,Tgfbr1,Thbs1,Timp3,Tlr4,Tlr6,Tnf,Tnfaip3,Traf1,Traf2,Tnfsf10,Tnfrsf4,Tnfsf4,Vegfa,Pak2,Gstp3,Yap1,Stradb,Madd,Zc3hc1,Faim,Map2k5,Mapk7,Peli3,Rbck1,Pak5,Tnfrsf12a,Il19,Gfral,Itprip,Acsl5,Gsdma3,Ppp2r1a,Srpx,Stk3,Gsk3b,Park7,Stk4,Pmaip1,Sh3rf1,Faiml,Itm2c,Htra2,Zmynd11,Bcl2l14,Pycard,Rffl,Dedd2,Fcmr,Tmbim1,Zswim2,Faim2,Rps6kb1,Ppp2r1b,Cyld,Bcl2l12,Gper1,Nol3,Tnfrsf23,Tnfrsf22,Wwox,Rnf34,Trps1,Phip,Hmgb2,Deptor,Fgg
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_ABSENCE_OF_LIGAND
+SYSTEMATIC_NAME	MM11665
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_ABSENCE_OF_LIGAND
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate or extent of extrinsic apoptotic signaling pathway in absence of ligand. [GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2001239
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2001239
+SOURCE_MEMBERS	107449,12043,12049,12385,12824,12981,13144,14048,14049,14050,14051,14165,14182,14360,14451,14460,14573,16176,16196,16323,16453,170755,17210,18015,19045,19713,19766,20312,20583,211323,216439,21672,21752,21808,21926,227154,232679,23938,23939,404194,51792,51795,64704,73699,80707
+GENE_SYMBOLS	Unc5b,Bcl2,Bcl2l10,Ctnna1,Col2a1,Csf2,Dapk3,Eya1,Eya2,Eya3,Eya4,Fgf10,Fgfr1,Fyn,Gas1,Gata1,Gdnf,Il1b,Il7,Inhba,Jak3,Sgk3,Mcl1,Nf1,Ppp1ca,Ret,Ripk1,Cx3cl1,Snai2,Nrg1,Agap2,Prdx2,Tert,Tgfb2,Tnf,Stradb,Zc3hc1,Map2k5,Mapk7,Gfral,Ppp2r1a,Srpx,Htra2,Ppp2r1b,Wwox
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_VIA_DEATH_DOMAIN_RECEPTORS
+SYSTEMATIC_NAME	MM10801
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_VIA_DEATH_DOMAIN_RECEPTORS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate or extent of extrinsic apoptotic signaling pathway via death domain receptors. [GOC:TermGenie, PMID:17245429]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902041
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902041
+SOURCE_MEMBERS	110135,110157,110957,11910,12048,12167,12189,12633,13205,14084,14155,14161,14775,15234,15368,15894,16854,17153,18611,18787,19165,19211,20319,20377,20482,20684,20909,217356,21825,21859,21929,228355,23873,414801,56274,56637,57320,58231,58801,623459,67338,69660,71861,72393,78688,79201,79202,80751,83925,97165,99571
+GENE_SYMBOLS	Fgb,Raf1,D1Pas1,Atf3,Bcl2l1,Bmpr1b,Brca1,Cflar,Ddx3x,Faf1,Fem1b,Fga,Gpx1,Hgf,Hmox1,Icam1,Lgals3,Mal,Pea15a,Serpine1,Psen2,Pten,Sfrp2,Sfrp1,Skil,Sp100,Stx4a,Tmc8,Thbs1,Timp3,Tnfaip3,Madd,Faim,Itprip,Stk3,Gsk3b,Park7,Stk4,Pmaip1,Faiml,Rffl,Tmbim1,Zswim2,Faim2,Nol3,Tnfrsf23,Tnfrsf22,Rnf34,Trps1,Hmgb2,Fgg
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_HYPOXIA_INDUCED_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM10986
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_HYPOXIA_INDUCED_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate or extent of hypoxia-induced intrinsic apoptotic signaling pathway. [GO_REF:0000058, GOC:bf, GOC:PARL, GOC:TermGenie]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1903297
+FILTERED_BY_SIMILARITY	GO:1903298
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1903297
+SOURCE_MEMBERS	110213,12282,13806,22289,26395,433182,68943,68949,74769,78688
+GENE_SYMBOLS	Tmbim6,Hyou1,Eno1,Kdm6a,Map2k1,Eno1b,Pink1,Zfas1,Pik3cb,Nol3
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM11667
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate or extent of intrinsic apoptotic signaling pathway. [GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2001242
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2001242
+SOURCE_MEMBERS	105675,106298,107771,108705,109815,110213,110957,11545,11651,117198,11820,11911,12015,12028,12043,12048,12049,12050,12062,12122,12125,12235,12282,12387,12389,12505,12581,12759,12778,12913,13067,13143,13198,13205,13663,13666,13806,13856,14130,14360,14362,14463,14479,14526,14694,14775,15182,15201,15251,15387,15502,15507,16149,16151,16153,16818,170770,170799,17210,17246,17248,17319,17395,17701,17829,17869,17973,17974,18024,18095,18453,18609,18793,18952,19099,19125,19225,19246,19255,19367,19777,19941,20115,20201,20202,20315,20437,20438,20482,20583,20613,20655,20656,20747,20779,209027,212937,21343,216805,217558,219158,22038,22059,22062,22070,22187,22289,22334,22361,22393,22408,22433,234371,237038,237313,237877,23939,23992,26395,26427,268373,269344,26941,26943,27050,27061,271639,28135,29813,329244,381038,382985,433182,433759,50754,50755,50873,51800,53610,54673,54711,54722,56085,56208,56312,56428,56449,56532,56642,57320,57438,57741,58801,59004,60530,64209,66073,66168,66437,66461,66725,66824,67025,67184,67211,67397,67991,68015,68349,68428,68943,68949,69076,69754,69807,70369,71514,72287,72567,74006,74041,74126,74143,74256,74769,74996,75533,75736,76072,76571,78688,83433,93759,99982
+GENE_SYMBOLS	Ppif,Rrn3,Bmyc,Pttg1ip,Selenos,Tmbim6,D1Pas1,Parp1,Akt1,Ivns1abp,App,Atf4,Bad,Bax,Bcl2,Bcl2l1,Bcl2l10,Bcl2l2,Bdkrb2,Bid,Bcl2l11,Bub1,Hyou1,Ctnnb1,Cav1,Cd44,Cdkn2d,Clu,Ackr3,Creb3,Cyct,Dapk2,Ddit3,Ddx3x,Ei24,Eif2ak3,Eno1,Epo,Fcgr2b,Fyn,Fzd1,Gata4,Usp15,Gcg,Rack1,Gpx1,Hdac2,Hells,Hif1a,Hnrnpk,Dnaja1,Hspb1,Cd74,Ikbkg,Il10,Lck,Bbc3,Rtkn2,Mcl1,Mdm2,Mdm4,Mif,Mmp9,Msx1,Muc1,Myc,Nck1,Nck2,Nfe2l2,Nkx3-1,P4hb,Pdx1,Plaur,Septin4,Mapk8ip1,Prodh,Ptgs2,Ptpn1,Ptpn2,Rad9a,Uri1,Rpl26,Rps7,S100a8,S100a9,Cxcl12,Siah1a,Siah1b,Skil,Snai2,Snai1,Sod1,Sod2,Spop,Src,Pycr1,Tifab,Taf6,Flcn,G2e3,Ccar2,Plscr1,Trp53,Trp73,Tpt1,Ubb,Kdm6a,Vdac2,Vnn1,Wfs1,Wnt1,Xbp1,Tmem161a,Nox1,Il20ra,Atad5,Mapk7,Prkra,Map2k1,Creb3l1,Ppia,Ell3,Nherf1,Serinc3,Rps3,Bcap31,Adcy10,Cep63,Zfp385a,Il19,Parl,Rrm2b,Eno1b,Hdac1,Fbxw7,Fbh1,Prkn,Bok,Nono,Sh3glb1,Plagl2,Gsdme,Ubqln1,Becn1,Nupr1,Mtch2,Ybx3,Ripk3,Ankrd2,Park7,Marchf7,Noc2l,Pmaip1,Pias4,Fignl1,Herpud1,Txndc12,Grina,Fis1,Ptpmt1,Lrrk2,Pycard,Rpl11,Ndufa13,Armc10,Erp29,Nacc2,Trap1,Ndufs3,Steap3,Pink1,Zfas1,Triap1,Fbxo7,Trim32,Bag5,Sfpq,Plekhf1,Bclaf1,Dnm1l,Ddias,Syvn1,Opa1,Cyld,Pik3cb,Usp47,Nme5,Bcl2l12,Rnf183,Styxl1,Nol3,Trem2,Sirt1,Kdm1a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_BY_P53_CLASS_MEDIATOR
+SYSTEMATIC_NAME	MM10830
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_BY_P53_CLASS_MEDIATOR
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate or extent of intrinsic apoptotic signaling pathway by p53 class mediator. [GOC:BHF, GOC:mtg_apoptosis, GOC:rl, GOC:TermGenie, PMID:15705871]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902253
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902253
+SOURCE_MEMBERS	106298,107771,108705,12062,12505,14479,15387,16149,17246,17248,17319,17701,17829,17869,19941,20115,212937,22059,22062,22187,237877,269344,28135,29813,382985,50873,54673,56642,57438,67025,67211,68428,69076,75736,93759,99982
+GENE_SYMBOLS	Rrn3,Bmyc,Pttg1ip,Bdkrb2,Cd44,Usp15,Hnrnpk,Cd74,Mdm2,Mdm4,Mif,Msx1,Muc1,Myc,Rpl26,Rps7,Tifab,Trp53,Trp73,Ubb,Atad5,Ell3,Cep63,Zfp385a,Rrm2b,Prkn,Sh3glb1,Ankrd2,Marchf7,Rpl11,Armc10,Steap3,Triap1,Bcl2l12,Sirt1,Kdm1a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_DNA_DAMAGE
+SYSTEMATIC_NAME	MM10824
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_DNA_DAMAGE
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate or extent of intrinsic apoptotic signaling pathway in response to DNA damage. [GOC:BHF, GOC:mtg_apoptosis, GOC:rl, GOC:TermGenie, PMID:15314165]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902229
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902229
+SOURCE_MEMBERS	12048,12122,12505,12581,12759,12778,15387,16149,17319,17829,19367,19941,20315,20482,20583,20613,219158,22038,22062,22070,234371,237877,269344,27050,29813,50755,56428,57438,59004,67991,68428,69076,69807,74041,74996,75736,93759,99982
+GENE_SYMBOLS	Bcl2l1,Bid,Cd44,Cdkn2d,Clu,Ackr3,Hnrnpk,Cd74,Mif,Muc1,Rad9a,Rpl26,Cxcl12,Skil,Snai2,Snai1,Ccar2,Plscr1,Trp73,Tpt1,Tmem161a,Atad5,Ell3,Rps3,Zfp385a,Fbh1,Mtch2,Marchf7,Pias4,Nacc2,Steap3,Triap1,Trim32,Ddias,Usp47,Bcl2l12,Sirt1,Kdm1a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_DNA_DAMAGE_BY_P53_CLASS_MEDIATOR
+SYSTEMATIC_NAME	MM10816
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_DNA_DAMAGE_BY_P53_CLASS_MEDIATOR
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate or extent of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator. [GOC:TermGenie, PMID:17719541]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902165
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902165
+SOURCE_MEMBERS	12505,15387,16149,17319,17829,19941,22062,237877,269344,29813,57438,68428,69076,75736,93759,99982
+GENE_SYMBOLS	Cd44,Hnrnpk,Cd74,Mif,Muc1,Rpl26,Trp73,Atad5,Ell3,Zfp385a,Marchf7,Steap3,Triap1,Bcl2l12,Sirt1,Kdm1a
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_OSMOTIC_STRESS
+SYSTEMATIC_NAME	MM10822
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY_IN_RESPONSE_TO_OSMOTIC_STRESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate or extent of intrinsic apoptotic signaling pathway in response to osmotic stress. [GOC:BHF, GOC:mtg_apoptosis, GOC:rl, GOC:TermGenie, PMID:14569084]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902218
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902218
+SOURCE_MEMBERS	12015,12062,13856,14479,19225,212937,56449
+GENE_SYMBOLS	Bad,Bdkrb2,Epo,Usp15,Ptgs2,Tifab,Ybx3
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_LEUKOCYTE_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM11440
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_LEUKOCYTE_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate or extent of leukocyte apoptotic process. [GOC:BHF, GOC:mtg_apoptosis]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:2000106
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:2000106
+SOURCE_MEMBERS	100039789,100040035,100042493,100124431,100861618,100861647,100862177,101540,108655,109815,11486,11491,11501,11847,12028,12042,12043,12044,12048,12051,12125,12144,12159,12370,12484,12502,12505,12578,12765,12774,12775,13636,14082,14127,14130,14456,14605,14732,15163,15251,15930,16149,16153,16173,16183,16187,16197,16453,16579,16854,16952,170770,17096,17260,17289,17311,17319,17869,18015,18124,18439,18566,18707,18716,18761,18829,18950,19208,19211,19373,19885,20304,20315,20440,20442,20612,20723,208188,20850,20877,209488,216742,21808,21940,22059,22163,22164,22346,22418,227059,24047,243374,243910,257632,26362,26570,30936,320404,329581,384783,387195,50996,56532,57432,57741,58208,60533,65959,66494,66612,69169,723829,723852,723885,723923,723925,723926,723942,74769,751527,751549,76088,76089,93759
+GENE_SYMBOLS	Gm12407,Gm2564,Ccl21b,Mir18b,Ccl19-ps1,Gm21104,Ccl21d,Prkd2,Foxp1,Selenos,Ada,Adam17,Adam8,Arg2,Bax,Bcl10,Bcl2,Bcl2a1a,Bcl2l1,Bcl3,Bcl2l11,Blm,Bmp4,Casp8,Cd24a,Cd3g,Cd44,Cdkn2a,Cxcr2,Ccr5,Ccr7,Efna1,Fadd,Fcer1g,Fcgr2b,Gas6,Tsc22d3,Gpam,Hcls1,Hif1a,Ido1,Cd74,Il10,Il18,Il2,Il3,Il7r,Jak3,Kifap3,Lgals3,Anxa1,Bbc3,Lyn,Mef2c,Mertk,Kitl,Mif,Myc,Nf1,Nr4a3,P2rx7,Pdcd1,Pik3cd,Pip,Prkcq,Ccl21a,Pnp,Ptcra,Pten,Rag1,Rorc,Ccl5,Cxcl12,St6gal1,St3gal1,Siglec1,Serpinb9,Ghsr,Stat5a,Aurkb,Hsh2d,Fnip1,Tgfb2,Cd27,Trp53,Tnfrsf4,Tnfsf4,Vhl,Wnt5a,Slc39a10,Ccl19,Gimap8,Nfkbid,Nod2,Axl,Slc7a11,Slc46a2,Itpkb,Birc7,Irs2,Mir19b-2,Pdcd7,Ripk3,Zc3h8,Noc2l,Bcl11b,Cd274,Ccl19-ps3,Prelid1,Ormdl3,Fcmr,Mir106a,Mir363,Mir93,Mir20b,Mir106b,Mir25,Mir92-2,Pik3cb,Mir19b-1,Mir92-1,Dock8,Rapgef2,Sirt1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_LYMPHOCYTE_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM9497
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_LYMPHOCYTE_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the occurrence or rate of lymphocyte death by apoptotic process. [GOC:add, GOC:mtg_apoptosis, ISBN:0781765196]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0070228
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0070228
+SOURCE_MEMBERS	100124431,101540,108655,11486,11501,11847,12028,12042,12043,12044,12051,12125,12144,12159,12370,12484,12502,12505,13636,14082,14605,14732,15251,15930,16149,16153,16183,16187,16197,16453,16579,16854,170770,17096,17319,17869,18439,18566,18716,18761,18950,19208,19211,19373,19885,20304,20442,20612,20723,20877,209488,216742,21808,21940,22059,22163,22164,22346,22418,227059,243374,243910,30936,329581,384783,387195,50996,56532,57432,57741,58208,60533,66494,66612,69169,723829,723852,723885,723923,723925,723926,723942,751527,751549,76088
+GENE_SYMBOLS	Mir18b,Prkd2,Foxp1,Ada,Adam8,Arg2,Bax,Bcl10,Bcl2,Bcl2a1a,Bcl3,Bcl2l11,Blm,Bmp4,Casp8,Cd24a,Cd3g,Cd44,Efna1,Fadd,Tsc22d3,Gpam,Hif1a,Ido1,Cd74,Il10,Il2,Il3,Il7r,Jak3,Kifap3,Lgals3,Bbc3,Lyn,Mif,Myc,P2rx7,Pdcd1,Pip,Prkcq,Pnp,Ptcra,Pten,Rag1,Rorc,Ccl5,St3gal1,Siglec1,Serpinb9,Aurkb,Hsh2d,Fnip1,Tgfb2,Cd27,Trp53,Tnfrsf4,Tnfsf4,Vhl,Wnt5a,Slc39a10,Gimap8,Nfkbid,Slc46a2,Birc7,Irs2,Mir19b-2,Pdcd7,Ripk3,Zc3h8,Noc2l,Bcl11b,Cd274,Prelid1,Ormdl3,Fcmr,Mir106a,Mir363,Mir93,Mir20b,Mir106b,Mir25,Mir92-2,Mir19b-1,Mir92-1,Dock8
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_OXIDATIVE_STRESS_INDUCED_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+SYSTEMATIC_NAME	MM10819
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_OXIDATIVE_STRESS_INDUCED_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the frequency, rate or extent of an oxidative stress-induced intrinsic apoptotic signaling pathway. [GOC:BHF, GOC:mtg_apoptosis, GOC:TermGenie, PMID:11672522]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:1902175
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:1902175
+SOURCE_MEMBERS	11545,11911,12387,14360,14362,14463,14694,14775,15251,15507,16153,17210,18024,18453,19125,20655,20656,209027,22361,22408,237038,23939,268373,271639,50754,50873,53610,56085,57320,68015,68943,69754,70369,71514,75533,78688,83433,93759
+GENE_SYMBOLS	Parp1,Atf4,Ctnnb1,Fyn,Fzd1,Gata4,Rack1,Gpx1,Hif1a,Hspb1,Il10,Mcl1,Nfe2l2,P4hb,Prodh,Sod1,Sod2,Pycr1,Vnn1,Wnt1,Nox1,Mapk7,Ppia,Adcy10,Fbxw7,Prkn,Nono,Ubqln1,Park7,Trap1,Pink1,Fbxo7,Bag5,Sfpq,Nme5,Nol3,Trem2,Sirt1
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_T_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM9501
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_T_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the occurrence or rate of T cell death by apoptotic process. [GOC:add, GOC:mtg_apoptosis, ISBN:0781765196]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0070232
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0070232
+SOURCE_MEMBERS	101540,11486,11501,11847,12043,12051,12125,12144,12159,12370,13636,14082,14605,14732,15251,15930,16197,16453,16579,16854,170770,18439,18566,18716,18761,18950,19208,19373,19885,20304,20442,20612,20723,21808,21940,22059,22163,22164,22346,22418,243374,243910,30936,50996,56532,57432,58208,60533,66494,76088
+GENE_SYMBOLS	Prkd2,Ada,Adam8,Arg2,Bcl2,Bcl3,Bcl2l11,Blm,Bmp4,Casp8,Efna1,Fadd,Tsc22d3,Gpam,Hif1a,Ido1,Il7r,Jak3,Kifap3,Lgals3,Bbc3,P2rx7,Pdcd1,Pip,Prkcq,Pnp,Ptcra,Rag1,Rorc,Ccl5,St3gal1,Siglec1,Serpinb9,Tgfb2,Cd27,Trp53,Tnfrsf4,Tnfsf4,Vhl,Wnt5a,Gimap8,Nfkbid,Slc46a2,Pdcd7,Ripk3,Zc3h8,Bcl11b,Cd274,Prelid1,Dock8
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_REGULATION_OF_THYMOCYTE_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM9507
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_REGULATION_OF_THYMOCYTE_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any process that modulates the occurrence or rate of thymocyte death by apoptotic process. [GOC:add, GOC:mtg_apoptosis, ISBN:0781765196]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0070243
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0070243
+SOURCE_MEMBERS	11486,11501,12144,12159,12370,13636,15251,16453,16579,170770,19208,19373,19885,22059,22346,22418,243910,57432,58208
+GENE_SYMBOLS	Ada,Adam8,Blm,Bmp4,Casp8,Efna1,Hif1a,Jak3,Kifap3,Bbc3,Ptcra,Rag1,Rorc,Trp53,Vhl,Wnt5a,Nfkbid,Zc3h8,Bcl11b
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_T_CELL_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM9500
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_T_CELL_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any apoptotic process in a T cell, a type of lymphocyte whose defining characteristic is the expression of a T cell receptor complex. [CL:0000084, GOC:add, GOC:mtg_apoptosis, ISBN:0781765196]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0070231
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0070231
+SOURCE_MEMBERS	101540,11486,11501,11651,11847,12018,12028,12042,12043,12051,12125,12144,12159,12370,13347,13636,14082,14102,14103,14605,14634,14732,15251,15930,16184,16197,16453,16579,16854,16889,170770,18439,18566,18716,18761,18950,19208,19373,19766,19885,20104,20304,20442,20612,20723,21808,21940,22059,22163,22164,22346,22418,228598,243374,243910,30936,30954,50883,50996,56532,57432,58208,60533,66494,68137,74775,76088,79201,83945
+GENE_SYMBOLS	Prkd2,Ada,Adam8,Akt1,Arg2,Bak1,Bax,Bcl10,Bcl2,Bcl3,Bcl2l11,Blm,Bmp4,Casp8,Dffa,Efna1,Fadd,Fas,Fasl,Tsc22d3,Gli3,Gpam,Hif1a,Ido1,Il2ra,Il7r,Jak3,Kifap3,Lgals3,Lipa,Bbc3,P2rx7,Pdcd1,Pip,Prkcq,Pnp,Ptcra,Rag1,Ripk1,Rorc,Rps6,Ccl5,St3gal1,Siglec1,Serpinb9,Tgfb2,Cd27,Trp53,Tnfrsf4,Tnfsf4,Vhl,Wnt5a,Ebf4,Gimap8,Nfkbid,Slc46a2,Siva1,Chek2,Pdcd7,Ripk3,Zc3h8,Bcl11b,Cd274,Prelid1,Kdelr1,Lmbr1l,Dock8,Tnfrsf23,Dnaja3
+FOUNDER_NAMES	
+STANDARD_NAME	GOBP_THYMOCYTE_APOPTOTIC_PROCESS
+SYSTEMATIC_NAME	MM9506
+COLLECTION	M5:GO:BP
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_THYMOCYTE_APOPTOTIC_PROCESS
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Any apoptotic process in a thymocyte, an immature T cell located in the thymus. [CL:0000893, GOC:add, GOC:mtg_apoptosis, ISBN:0781765196]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0070242
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0070242
+SOURCE_MEMBERS	11486,11501,12018,12028,12042,12125,12144,12159,12370,13347,13636,14634,15251,16453,16579,170770,19208,19373,19885,22059,22346,22418,243910,50883,57432,58208
+GENE_SYMBOLS	Ada,Adam8,Bak1,Bax,Bcl10,Bcl2l11,Blm,Bmp4,Casp8,Dffa,Efna1,Gli3,Hif1a,Jak3,Kifap3,Bbc3,Ptcra,Rag1,Rorc,Trp53,Vhl,Wnt5a,Nfkbid,Chek2,Zc3h8,Bcl11b
+FOUNDER_NAMES	
+STANDARD_NAME	GOMF_DEATH_DOMAIN_BINDING
+SYSTEMATIC_NAME	MM14251
+COLLECTION	M5:GO:MF
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOMF_DEATH_DOMAIN_BINDING
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Binding to a death domain of a protein. The death domain (DD) is a homotypic protein interaction module composed of a bundle of six alpha-helices. DD bind each other forming oligomers. Some DD-containing proteins are involved in the regulation of apoptosis and inflammation through their activation of caspases and NF-kappaB. [GOC:BHF, GOC:rl, InterPro:IPR000488, Pfam:PF00531]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0070513
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0070513
+SOURCE_MEMBERS	12028,12043,12048,12905,14694,15944,16145,17210,19766,223453,54396,71609,76747
+GENE_SYMBOLS	Bax,Bcl2,Bcl2l1,Cradd,Rack1,Irgm1,Igtp,Mcl1,Ripk1,Dap,Irgm2,Tradd,Dapl1
+FOUNDER_NAMES	
+STANDARD_NAME	GOMF_DEATH_RECEPTOR_ACTIVITY
+SYSTEMATIC_NAME	MM13014
+COLLECTION	M5:GO:MF
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOMF_DEATH_RECEPTOR_ACTIVITY
+NAMESPACE	Mouse_NCBI_Gene_ID
+DESCRIPTION_BRIEF	Combining with an extracellular messenger (called a death ligand), and transmitting the signal from one side of the plasma membrane to the other to initiate apoptotic or necrotic cell death. [GOC:bf, GOC:BHF, GOC:ecd, GOC:mtg_apoptosis, GOC:rl, PMID:10209153]
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Gene Ontology
+CONTRIBUTOR_ORG	Gene Ontology Consortium
+EXACT_SOURCE	GO:0005035
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	http://amigo.geneontology.org/amigo/term/GO:0005035
+SOURCE_MEMBERS	14102,18053,21933,21934,21936,21937,21938,22163,245527,67169,79201
+GENE_SYMBOLS	Fas,Ngfr,Tnfrsf10b,Tnfrsf11a,Tnfrsf18,Tnfrsf1a,Tnfrsf1b,Tnfrsf4,Eda2r,Nradd,Tnfrsf23
+FOUNDER_NAMES	
+STANDARD_NAME	REACTOME_FORMATION_OF_APOPTOSOME
+SYSTEMATIC_NAME	MM14485
+COLLECTION	M2:CP:REACTOME
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/REACTOME_FORMATION_OF_APOPTOSOME
+NAMESPACE	Mouse_Ensembl_Gene_ID
+DESCRIPTION_BRIEF	Formation of apoptosome
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Reactome
+CONTRIBUTOR_ORG	Reactome
+EXACT_SOURCE	R-MMU-111458
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://www.reactome.org/content/detail/R-MMU-111458
+SOURCE_MEMBERS	ENSMUSG00000003604,ENSMUSG00000010911,ENSMUSG00000019979,ENSMUSG00000025860,ENSMUSG00000028914,ENSMUSG00000029433,ENSMUSG00000058927,ENSMUSG00000063065,ENSMUSG00000063358,ENSMUSG00000063694
+GENE_SYMBOLS	Aven,Apip,Apaf1,Xiap,Casp9,Diablo,Gm10053,Mapk3,Mapk1,Cycs
+FOUNDER_NAMES	
+STANDARD_NAME	REACTOME_INTRINSIC_PATHWAY_FOR_APOPTOSIS
+SYSTEMATIC_NAME	MM14473
+COLLECTION	M2:CP:REACTOME
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/REACTOME_INTRINSIC_PATHWAY_FOR_APOPTOSIS
+NAMESPACE	Mouse_Ensembl_Gene_ID
+DESCRIPTION_BRIEF	Intrinsic Pathway for Apoptosis
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Reactome
+CONTRIBUTOR_ORG	Reactome
+EXACT_SOURCE	R-MMU-109606
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://www.reactome.org/content/detail/R-MMU-109606
+SOURCE_MEMBERS	ENSMUSG00000003604,ENSMUSG00000003873,ENSMUSG00000004446,ENSMUSG00000007659,ENSMUSG00000009013,ENSMUSG00000010911,ENSMUSG00000015437,ENSMUSG00000018326,ENSMUSG00000018965,ENSMUSG00000019979,ENSMUSG00000020483,ENSMUSG00000020486,ENSMUSG00000020849,ENSMUSG00000020936,ENSMUSG00000021936,ENSMUSG00000022092,ENSMUSG00000022285,ENSMUSG00000022575,ENSMUSG00000024521,ENSMUSG00000024959,ENSMUSG00000025076,ENSMUSG00000025860,ENSMUSG00000026029,ENSMUSG00000027381,ENSMUSG00000028914,ENSMUSG00000029433,ENSMUSG00000029821,ENSMUSG00000031628,ENSMUSG00000033953,ENSMUSG00000040093,ENSMUSG00000047281,ENSMUSG00000051391,ENSMUSG00000057329,ENSMUSG00000057789,ENSMUSG00000058927,ENSMUSG00000063065,ENSMUSG00000063358,ENSMUSG00000063694,ENSMUSG00000076432
+GENE_SYMBOLS	Aven,Bax,Bid,Bcl2l1,Dynll1,Apip,Gzmb,Ywhab,Ywhah,Apaf1,Dynll2,Septin4,Ywhae,Nmt1,Mapk8,Ppp3cc,Ywhaz,Gsdmd,Pmaip1,Bad,Casp7,Xiap,Casp8,Bcl2l11,Casp9,Diablo,Gsdme,Casp3,Ppp3r1,Bmf,Sfn,Ywhag,Bcl2,Bak1,Gm10053,Mapk3,Mapk1,Cycs,Ywhaq
+FOUNDER_NAMES	
+STANDARD_NAME	REACTOME_CASPASE_ACTIVATION_VIA_EXTRINSIC_APOPTOTIC_SIGNALLING_PATHWAY
+SYSTEMATIC_NAME	MM15176
+COLLECTION	M2:CP:REACTOME
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/REACTOME_CASPASE_ACTIVATION_VIA_EXTRINSIC_APOPTOTIC_SIGNALLING_PATHWAY
+NAMESPACE	Mouse_Ensembl_Gene_ID
+DESCRIPTION_BRIEF	Caspase activation via extrinsic apoptotic signalling pathway
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Reactome
+CONTRIBUTOR_ORG	Reactome
+EXACT_SOURCE	R-MMU-5357769
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://www.reactome.org/content/detail/R-MMU-5357769
+SOURCE_MEMBERS	ENSMUSG00000000817,ENSMUSG00000021408,ENSMUSG00000022074,ENSMUSG00000024778,ENSMUSG00000025779,ENSMUSG00000026029,ENSMUSG00000026031,ENSMUSG00000026942,ENSMUSG00000028914,ENSMUSG00000031077,ENSMUSG00000031628,ENSMUSG00000031887,ENSMUSG00000039005,ENSMUSG00000039304,ENSMUSG00000040760,ENSMUSG00000047123,ENSMUSG00000051439,ENSMUSG00000056130,ENSMUSG00000060534
+GENE_SYMBOLS	Fasl,Ripk1,Tnfrsf10b,Fas,Ly96,Casp8,Cflar,Traf2,Casp9,Fadd,Casp3,Tradd,Tlr4,Tnfsf10,Appl1,Ticam1,Cd14,Ticam2,Dcc
+FOUNDER_NAMES	
+STANDARD_NAME	REACTOME_APOPTOTIC_FACTOR_MEDIATED_RESPONSE
+SYSTEMATIC_NAME	MM14490
+COLLECTION	M2:CP:REACTOME
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/REACTOME_APOPTOTIC_FACTOR_MEDIATED_RESPONSE
+NAMESPACE	Mouse_Ensembl_Gene_ID
+DESCRIPTION_BRIEF	Apoptotic factor-mediated response
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Reactome
+CONTRIBUTOR_ORG	Reactome
+EXACT_SOURCE	R-MMU-111471
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://www.reactome.org/content/detail/R-MMU-111471
+SOURCE_MEMBERS	ENSMUSG00000003604,ENSMUSG00000003873,ENSMUSG00000010911,ENSMUSG00000019979,ENSMUSG00000020486,ENSMUSG00000022575,ENSMUSG00000025076,ENSMUSG00000025860,ENSMUSG00000028914,ENSMUSG00000029433,ENSMUSG00000029821,ENSMUSG00000031628,ENSMUSG00000057789,ENSMUSG00000058927,ENSMUSG00000063065,ENSMUSG00000063358,ENSMUSG00000063694
+GENE_SYMBOLS	Aven,Bax,Apip,Apaf1,Septin4,Gsdmd,Casp7,Xiap,Casp9,Diablo,Gsdme,Casp3,Bak1,Gm10053,Mapk3,Mapk1,Cycs
+FOUNDER_NAMES	
+STANDARD_NAME	REACTOME_APOPTOTIC_EXECUTION_PHASE
+SYSTEMATIC_NAME	MM15448
+COLLECTION	M2:CP:REACTOME
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/REACTOME_APOPTOTIC_EXECUTION_PHASE
+NAMESPACE	Mouse_Ensembl_Gene_ID
+DESCRIPTION_BRIEF	Apoptotic execution phase
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Reactome
+CONTRIBUTOR_ORG	Reactome
+EXACT_SOURCE	R-MMU-75153
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://www.reactome.org/content/detail/R-MMU-75153
+SOURCE_MEMBERS	ENSMUSG00000001440,ENSMUSG00000002015,ENSMUSG00000005871,ENSMUSG00000006932,ENSMUSG00000015994,ENSMUSG00000018411,ENSMUSG00000021638,ENSMUSG00000021948,ENSMUSG00000022185,ENSMUSG00000022565,ENSMUSG00000022607,ENSMUSG00000022789,ENSMUSG00000022905,ENSMUSG00000023927,ENSMUSG00000024290,ENSMUSG00000024590,ENSMUSG00000024812,ENSMUSG00000025076,ENSMUSG00000026029,ENSMUSG00000026413,ENSMUSG00000026728,ENSMUSG00000026778,ENSMUSG00000026860,ENSMUSG00000026879,ENSMUSG00000027997,ENSMUSG00000028063,ENSMUSG00000028974,ENSMUSG00000029027,ENSMUSG00000029106,ENSMUSG00000030498,ENSMUSG00000030516,ENSMUSG00000031112,ENSMUSG00000031377,ENSMUSG00000031628,ENSMUSG00000042489,ENSMUSG00000044393,ENSMUSG00000049539,ENSMUSG00000051627,ENSMUSG00000052565,ENSMUSG00000054717,ENSMUSG00000054889,ENSMUSG00000056632,ENSMUSG00000057367,ENSMUSG00000057738,ENSMUSG00000058773,ENSMUSG00000063410,ENSMUSG00000066551,ENSMUSG00000069441,ENSMUSG00000096210
+GENE_SYMBOLS	Kpnb1,Bcap31,Apc,Ctnnb1,Fnta,Mapt,Ocln,Prkcd,Acin1,Plec,Ptk2,Dnm1l,Kpna1,Satb1,Rock1,Lmnb1,Tjp2,Casp7,Casp8,Pkp1,Vim,Prkcq,Sh3glb2,Gsn,Casp6,Lmna,Dffa,Dffb,Add1,Gas2,Tjp1,Stk26,Bmx,Casp3,Clspn,Dsg2,H1f1,H1f4,H1f3,Hmgb2,Dsp,Dsg3,Birc2,Sptan1,H1f5,Stk24,Hmgb1,Dsg1a,H1f0
+FOUNDER_NAMES	
+STANDARD_NAME	REACTOME_APOPTOTIC_CLEAVAGE_OF_CELLULAR_PROTEINS
+SYSTEMATIC_NAME	MM14488
+COLLECTION	M2:CP:REACTOME
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/REACTOME_APOPTOTIC_CLEAVAGE_OF_CELLULAR_PROTEINS
+NAMESPACE	Mouse_Ensembl_Gene_ID
+DESCRIPTION_BRIEF	Apoptotic cleavage of cellular proteins
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Reactome
+CONTRIBUTOR_ORG	Reactome
+EXACT_SOURCE	R-MMU-111465
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://www.reactome.org/content/detail/R-MMU-111465
+SOURCE_MEMBERS	ENSMUSG00000002015,ENSMUSG00000005871,ENSMUSG00000006932,ENSMUSG00000015994,ENSMUSG00000018411,ENSMUSG00000021638,ENSMUSG00000021948,ENSMUSG00000022185,ENSMUSG00000022565,ENSMUSG00000022607,ENSMUSG00000023927,ENSMUSG00000024290,ENSMUSG00000024590,ENSMUSG00000024812,ENSMUSG00000025076,ENSMUSG00000026029,ENSMUSG00000026413,ENSMUSG00000026728,ENSMUSG00000026778,ENSMUSG00000026860,ENSMUSG00000026879,ENSMUSG00000027997,ENSMUSG00000028063,ENSMUSG00000029106,ENSMUSG00000030498,ENSMUSG00000030516,ENSMUSG00000031112,ENSMUSG00000031377,ENSMUSG00000031628,ENSMUSG00000042489,ENSMUSG00000044393,ENSMUSG00000054889,ENSMUSG00000056632,ENSMUSG00000057367,ENSMUSG00000057738,ENSMUSG00000063410,ENSMUSG00000069441
+GENE_SYMBOLS	Bcap31,Apc,Ctnnb1,Fnta,Mapt,Ocln,Prkcd,Acin1,Plec,Ptk2,Satb1,Rock1,Lmnb1,Tjp2,Casp7,Casp8,Pkp1,Vim,Prkcq,Sh3glb2,Gsn,Casp6,Lmna,Add1,Gas2,Tjp1,Stk26,Bmx,Casp3,Clspn,Dsg2,Dsp,Dsg3,Birc2,Sptan1,Stk24,Dsg1a
+FOUNDER_NAMES	
+STANDARD_NAME	REACTOME_APOPTOTIC_CLEAVAGE_OF_CELL_ADHESION_PROTEINS
+SYSTEMATIC_NAME	MM14956
+COLLECTION	M2:CP:REACTOME
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/REACTOME_APOPTOTIC_CLEAVAGE_OF_CELL_ADHESION_PROTEINS
+NAMESPACE	Mouse_Ensembl_Gene_ID
+DESCRIPTION_BRIEF	Apoptotic cleavage of cell adhesion  proteins
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Reactome
+CONTRIBUTOR_ORG	Reactome
+EXACT_SOURCE	R-MMU-351906
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://www.reactome.org/content/detail/R-MMU-351906
+SOURCE_MEMBERS	ENSMUSG00000006932,ENSMUSG00000021638,ENSMUSG00000024812,ENSMUSG00000026413,ENSMUSG00000030516,ENSMUSG00000031628,ENSMUSG00000044393,ENSMUSG00000054889,ENSMUSG00000056632,ENSMUSG00000069441
+GENE_SYMBOLS	Ctnnb1,Ocln,Tjp2,Pkp1,Tjp1,Casp3,Dsg2,Dsp,Dsg3,Dsg1a
+FOUNDER_NAMES	
+STANDARD_NAME	REACTOME_APOPTOSIS_INDUCED_DNA_FRAGMENTATION
+SYSTEMATIC_NAME	MM14554
+COLLECTION	M2:CP:REACTOME
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/REACTOME_APOPTOSIS_INDUCED_DNA_FRAGMENTATION
+NAMESPACE	Mouse_Ensembl_Gene_ID
+DESCRIPTION_BRIEF	Apoptosis induced DNA fragmentation
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Reactome
+CONTRIBUTOR_ORG	Reactome
+EXACT_SOURCE	R-MMU-140342
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://www.reactome.org/content/detail/R-MMU-140342
+SOURCE_MEMBERS	ENSMUSG00000001440,ENSMUSG00000022905,ENSMUSG00000028974,ENSMUSG00000029027,ENSMUSG00000031628,ENSMUSG00000049539,ENSMUSG00000051627,ENSMUSG00000052565,ENSMUSG00000054717,ENSMUSG00000058773,ENSMUSG00000066551,ENSMUSG00000096210
+GENE_SYMBOLS	Kpnb1,Kpna1,Dffa,Dffb,Casp3,H1f1,H1f4,H1f3,Hmgb2,H1f5,Hmgb1,H1f0
+FOUNDER_NAMES	
+STANDARD_NAME	REACTOME_APOPTOSIS
+SYSTEMATIC_NAME	MM14471
+COLLECTION	M2:CP:REACTOME
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/REACTOME_APOPTOSIS
+NAMESPACE	Mouse_Ensembl_Gene_ID
+DESCRIPTION_BRIEF	Apoptosis
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Reactome
+CONTRIBUTOR_ORG	Reactome
+EXACT_SOURCE	R-MMU-109581
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://www.reactome.org/content/detail/R-MMU-109581
+SOURCE_MEMBERS	ENSMUSG00000000817,ENSMUSG00000001440,ENSMUSG00000002015,ENSMUSG00000003604,ENSMUSG00000003873,ENSMUSG00000004446,ENSMUSG00000005871,ENSMUSG00000006932,ENSMUSG00000007659,ENSMUSG00000009013,ENSMUSG00000010911,ENSMUSG00000015437,ENSMUSG00000015994,ENSMUSG00000018326,ENSMUSG00000018411,ENSMUSG00000018965,ENSMUSG00000019979,ENSMUSG00000020483,ENSMUSG00000020486,ENSMUSG00000020849,ENSMUSG00000020936,ENSMUSG00000021408,ENSMUSG00000021638,ENSMUSG00000021936,ENSMUSG00000021948,ENSMUSG00000022074,ENSMUSG00000022092,ENSMUSG00000022185,ENSMUSG00000022285,ENSMUSG00000022565,ENSMUSG00000022575,ENSMUSG00000022607,ENSMUSG00000022789,ENSMUSG00000022905,ENSMUSG00000023927,ENSMUSG00000024290,ENSMUSG00000024521,ENSMUSG00000024590,ENSMUSG00000024778,ENSMUSG00000024812,ENSMUSG00000024959,ENSMUSG00000025076,ENSMUSG00000025779,ENSMUSG00000025860,ENSMUSG00000026029,ENSMUSG00000026031,ENSMUSG00000026413,ENSMUSG00000026728,ENSMUSG00000026778,ENSMUSG00000026860,ENSMUSG00000026879,ENSMUSG00000026942,ENSMUSG00000027381,ENSMUSG00000027997,ENSMUSG00000028063,ENSMUSG00000028914,ENSMUSG00000028974,ENSMUSG00000029027,ENSMUSG00000029106,ENSMUSG00000029433,ENSMUSG00000029821,ENSMUSG00000030498,ENSMUSG00000030516,ENSMUSG00000031077,ENSMUSG00000031112,ENSMUSG00000031377,ENSMUSG00000031628,ENSMUSG00000031887,ENSMUSG00000033953,ENSMUSG00000035069,ENSMUSG00000038084,ENSMUSG00000039005,ENSMUSG00000039304,ENSMUSG00000040093,ENSMUSG00000040760,ENSMUSG00000042489,ENSMUSG00000044393,ENSMUSG00000047123,ENSMUSG00000047281,ENSMUSG00000049539,ENSMUSG00000051391,ENSMUSG00000051439,ENSMUSG00000051627,ENSMUSG00000052565,ENSMUSG00000054717,ENSMUSG00000054889,ENSMUSG00000056130,ENSMUSG00000056632,ENSMUSG00000057329,ENSMUSG00000057367,ENSMUSG00000057738,ENSMUSG00000057789,ENSMUSG00000058773,ENSMUSG00000058927,ENSMUSG00000060534,ENSMUSG00000063065,ENSMUSG00000063358,ENSMUSG00000063410,ENSMUSG00000063694,ENSMUSG00000066551,ENSMUSG00000069441,ENSMUSG00000076432,ENSMUSG00000096210
+GENE_SYMBOLS	Fasl,Kpnb1,Bcap31,Aven,Bax,Bid,Apc,Ctnnb1,Bcl2l1,Dynll1,Apip,Gzmb,Fnta,Ywhab,Mapt,Ywhah,Apaf1,Dynll2,Septin4,Ywhae,Nmt1,Ripk1,Ocln,Mapk8,Prkcd,Tnfrsf10b,Ppp3cc,Acin1,Ywhaz,Plec,Gsdmd,Ptk2,Dnm1l,Kpna1,Satb1,Rock1,Pmaip1,Lmnb1,Fas,Tjp2,Bad,Casp7,Ly96,Xiap,Casp8,Cflar,Pkp1,Vim,Prkcq,Sh3glb2,Gsn,Traf2,Bcl2l11,Casp6,Lmna,Casp9,Dffa,Dffb,Add1,Diablo,Gsdme,Gas2,Tjp1,Fadd,Stk26,Bmx,Casp3,Tradd,Ppp3r1,Oma1,Opa1,Tlr4,Tnfsf10,Bmf,Appl1,Clspn,Dsg2,Ticam1,Sfn,H1f1,Ywhag,Cd14,H1f4,H1f3,Hmgb2,Dsp,Ticam2,Dsg3,Bcl2,Birc2,Sptan1,Bak1,H1f5,Gm10053,Dcc,Mapk3,Mapk1,Stk24,Cycs,Hmgb1,Dsg1a,Ywhaq,H1f0
+FOUNDER_NAMES	
+STANDARD_NAME	REACTOME_ACTIVATION_OF_CASPASES_THROUGH_APOPTOSOME_MEDIATED_CLEAVAGE
+SYSTEMATIC_NAME	MM14486
+COLLECTION	M2:CP:REACTOME
+MSIGDB_URL	https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/REACTOME_ACTIVATION_OF_CASPASES_THROUGH_APOPTOSOME_MEDIATED_CLEAVAGE
+NAMESPACE	Mouse_Ensembl_Gene_ID
+DESCRIPTION_BRIEF	Activation of caspases through apoptosome-mediated cleavage
+DESCRIPTION_FULL	
+PMID	
+GEOID	
+AUTHORS	
+CONTRIBUTOR	Reactome
+CONTRIBUTOR_ORG	Reactome
+EXACT_SOURCE	R-MMU-111459
+FILTERED_BY_SIMILARITY	
+EXTERNAL_NAMES_FOR_SIMILAR_TERMS	
+EXTERNAL_DETAILS_URL	https://www.reactome.org/content/detail/R-MMU-111459
+SOURCE_MEMBERS	ENSMUSG00000019979,ENSMUSG00000025076,ENSMUSG00000025860,ENSMUSG00000028914,ENSMUSG00000031628,ENSMUSG00000058927,ENSMUSG00000063694
+GENE_SYMBOLS	Apaf1,Casp7,Xiap,Casp9,Casp3,Gm10053,Cycs
+FOUNDER_NAMES	
